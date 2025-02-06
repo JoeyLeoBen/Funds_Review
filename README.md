@@ -28,7 +28,7 @@ This transformation significantly **improved data accuracy, reproducibility, and
 
 ## **Data Structure & Initial Checks**  
 
-- **Database Documentation, Lineage Graph, Data Quality Checks, and SQL Queries:** [View Here](https://nhl-db-team-season-stats.netlify.app/#!/overview)  
+- **Database Documentation, Lineage Graph, Data Quality Checks, and SQL Queries:** [View Here](https://funds-review-db-documentation.netlify.app/#!/overview)  
 - **ETL Pipeline:** [View Here](/Code/ETL/)  
 - **ELT Pipeline:** [View Here](/Code/ELT/Funds_Data/)  
 
