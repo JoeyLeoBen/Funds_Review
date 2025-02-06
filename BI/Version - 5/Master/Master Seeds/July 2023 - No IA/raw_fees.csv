@@ -1,0 +1,757 @@
+﻿fund_identifier,funds,fees,fund_company
+BGI10,BlackRock LifePath 2010 Retirement,0.00485,Canada Life
+BGI15,BlackRock LifePath 2015 Retirement,0.00485,Canada Life
+BGI20,BlackRock LifePath 2020 Retirement,0.00474,Canada Life
+BGI25,BlackRock LifePath 2025,0.00482,Canada Life
+BGI30,BlackRock LifePath 2030,0.0049,Canada Life
+BGI35,BlackRock LifePath 2035,0.00498,Canada Life
+BGI40,BlackRock LifePath 2040,0.00504,Canada Life
+BGI45,BlackRock LifePath 2045,0.00508,Canada Life
+BGI50,BlackRock LifePath 2050,0.0051,Canada Life
+BGI55,BlackRock LifePath 2055,0.00512,Canada Life
+BGI60,BlackRock LifePath 2060,0.00539,Canada Life
+BGI65,BlackRock LifePath 2065,0,Canada Life
+BGIRT,BlackRock LifePath Retirement,0,Canada Life
+BJF,Bond (Jarislowsky Fraser),0.00489,Canada Life
+BSR,Bond (SRA),0.00561,Canada Life
+CAACI,Cambridge Asset Allocation (CI),0.00633,Canada Life
+CAD10,Cadence Retirement 2010 (PSG),0.00557,Canada Life
+CAD15,Cadence 2015 Retirement (PSG),0.00557,Canada Life
+CAD20,Cadence 2020 (PSG),0.00557,Canada Life
+CAD25,Cadence 2025 (PSG),0.00557,Canada Life
+CAD30,Cadence 2030 (PSG),0.00556,Canada Life
+CAD35,Cadence 2035 (PSG),0.00557,Canada Life
+CAD40,Cadence 2040 (PSG),0.00558,Canada Life
+CAD45,Cadence 2045 (PSG),0.00558,Canada Life
+CAD50,Cadence 2050 (PSG),0.00559,Canada Life
+CAD55,Cadence 2055 (PSG),0.00559,Canada Life
+CAD60,Cadence 2060 (PSG),0.00559,Canada Life
+CADEQ,Cadence Equity (PSG),0,Canada Life
+CADFI,Cadence Fixed Income (PSG),0,Canada Life
+CBALF,Canadian Balanced (Fidelity),0.00833,Canada Life
+CBMER,Socially Responsible Bond (NEI),0.00623,Canada Life
+CBR,Core Plus Bond (CIBC),0.00633,Canada Life
+CBTF,Canadian Bond Instl (Fidelity),0.006151,Canada Life
+CCEF,Cdn Core Equity Instl (Fidelity),0.006171,Canada Life
+CCLB,Bond (CC&L),0.005203,Canada Life
+CCLI,International Equity (CC&L),0.01041,Canada Life
+CDEF,Canadian Disciplined Equity (Fidelity),0.00833,Canada Life
+CEBG,Pure Canadian Equity (Beutel Goodman),0.00643,Canada Life
+CEGMB,Canadian Equity (MFS),0,Canada Life
+CEJF,Canadian Equity (Jarislowsky Fraser),0.00538,Canada Life
+CESR,Canadian Equity (SRA),0.00562,Canada Life
+CETA,Equity (CIBC Global AM)*,0,Canada Life
+CNT10,Continuum Retirement 2010 (PSG),0.006438,Canada Life
+CNT15,Continuum 2015 Retirement (PSG),0.006438,Canada Life
+CNT20,Continuum 2020 (PSG),0.006438,Canada Life
+CNT25,Continuum 2025 (PSG),0.006444,Canada Life
+CNT30,Continuum 2030 (PSG),0.006449,Canada Life
+CNT35,Continuum 2035 (PSG),0.006453,Canada Life
+CNT40,Continuum 2040 (PSG),0.006456,Canada Life
+CNT45,Continuum 2045 (PSG),0.00646,Canada Life
+CNT50,Continuum 2050 (PSG),0.006463,Canada Life
+CNT55,Continuum 2055 (PSG),0.006465,Canada Life
+CNT60,Continuum 2060 (PSG),0.006467,Canada Life
+CNY20,Continuum Conservative 2020 (PSG),0,Canada Life
+CNY25,Continuum Conservative 2025 (PSG),0,Canada Life
+CNY30,Continuum Conservative 2030 (PSG),0,Canada Life
+CNY35,Continuum Conservative 2035 (PSG),0,Canada Life
+CNY40,Continuum Conservative 2040 (PSG),0,Canada Life
+CNY45,Continuum Conservative 2045 (PSG),0,Canada Life
+CNY50,Continuum Conservative 2050 (PSG),0,Canada Life
+CNY55,Continuum Conservative 2055 (PSG),0,Canada Life
+CNZ20,Continuum Aggressive 2020 (PSG),0,Canada Life
+CNZ25,Continuum Aggressive 2025 (PSG),0,Canada Life
+CNZ30,Continuum Aggressive 2030 (PSG),0,Canada Life
+CNZ35,Continuum Aggressive 2035 (PSG),0,Canada Life
+CNZ40,Continuum Aggressive 2040 (PSG),0,Canada Life
+CNZ45,Continuum Aggressive 2045 (PSG),0,Canada Life
+CNZ50,Continuum Aggressive 2050 (PSG),0,Canada Life
+CNZ55,Continuum Aggressive 2055 (PSG),0,Canada Life
+CNZ60,Continuum Aggressive 2060 (PSG),0,Canada Life
+CORBP,Corporate Bond (Mackenzie),0.00383,Canada Life
+CP10,ClearPath 2010 (Fidelity),0.007269,Canada Life
+CP15,ClearPath 2015 (Fidelity),0.007269,Canada Life
+CP20,ClearPath 2020 (Fidelity),0.007269,Canada Life
+CP25,ClearPath 2025 (Fidelity),0.007297,Canada Life
+CP30,ClearPath 2030 (Fidelity),0.007319,Canada Life
+CP35,ClearPath 2035 (Fidelity),0.007342,Canada Life
+CP40,ClearPath 2040 (Fidelity),0.007373,Canada Life
+CP45,ClearPath 2045 (Fidelity),0.00737,Canada Life
+CP50,ClearPath 2050 (Fidelity),0.007363,Canada Life
+CP55,ClearPath 2055 (Fidelity),0.007368,Canada Life
+CP60,ClearPath 2060 (Fidelity),0.007348,Canada Life
+CPBLW,Canadian Core Plus Bond (LW),0.00551,Canada Life
+CPBPH,Canadian Core Plus Bond (PH&N),0.00603,Canada Life
+CPIF,ClearPath Income (Fidelity),0,Canada Life
+CVDY,Canadian Value (FGP),0.00533,Canada Life
+DYPF,Partners (Dynamic),0.00913,Canada Life
+EMP,Emerging Markets (Putnam),0.00883,Canada Life
+AEMB,American Equity (MFS),0.00953,Canada Life
+AGGE,Growth Equity (AGF),0.00683,Canada Life
+AMDEF,American Disciplined Equity (Fidelity),0.00953,Canada Life
+BALBG,Balanced Global (Beutel Goodman),0.00593,Canada Life
+BALJF,Balanced (Jarislowsky Fraser)*,0.0054,Canada Life
+BALSR,Balanced (SRA),0.00727,Canada Life
+BALTA,Balanced (CIBC Global AM)*,0,Canada Life
+GEMA,Global Equity (Mawer),0.008537,Canada Life
+GEMB,Global Equity (MFS),0.00953,Canada Life
+GES,Global Equity (Sprucegrove),0.008688,Canada Life
+GGERP,Global Growth Equity (T Rowe Price),0.00893,Canada Life
+GGR,Global Growth (Renaissance),0.00933,Canada Life
+GINFL,Global Infrastr Equity (Mackenzie),0.00583,Canada Life
+GLEQC,Global Equity (CLAM),0.00583,Canada Life
+GRAF,US Focused Stock (Fidelity),0.00933,Canada Life
+GSCMK,Global Small-Mid Cap Equity (Mackenzie),0.007665,Canada Life
+GSRR,Global Sectors (Renaissance),0.00933,Canada Life
+H15,Harmonized 2015 Retirement (PSG),0.00437,Canada Life
+H20,Harmonized 2020 (PSG),0.00437,Canada Life
+H25,Harmonized 2025 (PSG),0.00437,Canada Life
+H30,Harmonized 2030 (PSG),0.00437,Canada Life
+H35,Harmonized 2035 (PSG),0.00437,Canada Life
+H40,Harmonized 2040 (PSG),0.00437,Canada Life
+H45,Harmonized 2045 (PSG),0.00437,Canada Life
+H55,Harmonized 2055 (PSG),0.00437,Canada Life
+H60,Harmonized 2060 (PSG),0.00437,Canada Life
+HCEPS,Harmonized Canadian Equity (PSG),0.00487,Canada Life
+HFEPS,Harmonized Foreign Equity (PSG),0.005424,Canada Life
+HFIPS,Harmonized Fixed Income (PSG),0.00387,Canada Life
+HSEPS,Harmonized Special Equity (PSG),0.005506,Canada Life
+HY20,Harmonized Conservative 2020 (PSG),0,Canada Life
+HY25,Harmonized Conservative 2025 (PSG),0,Canada Life
+HY30,Harmonized Conservative 2030 (PSG),0,Canada Life
+HY35,Harmonized Conservative 2035 (PSG),0,Canada Life
+HY40,Harmonized Conservative 2040 (PSG),0,Canada Life
+HY50,Harmonized Conservative 2050 (PSG),0,Canada Life
+HY55,Harmonized Conservative 2055 (PSG),0,Canada Life
+HY60,Harmonized Conservative 2060 (PSG),0,Canada Life
+HZ20,Harmonized Aggressive 2020 (PSG),0,Canada Life
+HZ25,Harmonized Aggressive 2025 (PSG),0,Canada Life
+HZ30,Harmonized Aggressive 2030 (PSG),0,Canada Life
+HZ35,Harmonized Aggressive 2035 (PSG),0,Canada Life
+HZ40,Harmonized Aggressive 2040 (PSG),0,Canada Life
+HZ45,Harmonized Aggressive 2045 (PSG),0,Canada Life
+HZ50,Harmonized Aggressive 2050 (PSG),0,Canada Life
+HZ55,Harmonized Aggressive 2055 (PSG),0,Canada Life
+HZ60,Harmonized Aggressive 2060 (PSG),0,Canada Life
+IEJF,International Equity (Jarislowsky Fraser),0.00938,Canada Life
+IEMA,International Equity (Mawer),0.008584,Canada Life
+IEMB,International Equity (MFS),0.00973,Canada Life
+IEMER,Socially Responsible Intl Equity (NEI),0.01273,Canada Life
+IES,International Equity (Setanta),0.00583,Canada Life
+IESR,International Equity Q (CC&L),0.01402,Canada Life
+ISMK,International Equity (Mackenzie),0.006651,Canada Life
+JPM25,Sustainable TD 2025 (JPM),0,Canada Life
+JPM30,Sustainable TD 2030 (JPM),0,Canada Life
+JPM40,Sustainable TD 2040 (JPM),0,Canada Life
+JPM45,Sustainable TD 2045 (JPM),0,Canada Life
+JPM50,Sustainable TD 2050 (JPM),0,Canada Life
+JPM55,Sustainable TD 2055 (JPM),0,Canada Life
+JPM60,Sustainable TD 2060 (JPM),0,Canada Life
+JPMIN,Sustainable Income (JPM),0,Canada Life
+JSMER,Socially Responsible Cdn Equity (NEI),0.00913,Canada Life
+LADPO,Advanced Portfolio (PSG),0.005574,Canada Life
+LAEM,US Growth (Putnam),0.00683,Canada Life
+LAGAG,American Growth (AGF),0.00833,Canada Life
+LAGPO,Aggressive Portfolio (PSG),0.005575,Canada Life
+LAGPR,Aggressive Profile (PSG),0.005585,Canada Life
+LBABG,Balanced (Beutel Goodman),0.00533,Canada Life
+LBAPO,Balanced Portfolio (PSG),0.00558,Canada Life
+LBAPR,Balanced Profile (PSG),0.005553,Canada Life
+LBIG,Balanced Index (Mackenzie),0.00333,Canada Life
+LBMK,Global Strategic Income (Mackenzie),0.00533,Canada Life
+LBOBG,Bond (Beutel Goodman),0.00508,Canada Life
+LCBG,Cdn Core Fixed Income (Mackenzie),0.00383,Canada Life
+LCBIL,Cdn Bond Universe Index (Mackenzie),0.00333,Canada Life
+LCBM,Strategic Income (Mackenzie),0.005598,Canada Life
+LCEG,Canadian All Cap Growth (Mackenzie),0.00483,Canada Life
+LCEGM,Canadian Core Growth (Mackenzie),0.005085,Canada Life
+LCEMO,Canadian Equity (Montrusco Bolton),0.00803,Canada Life
+LCFPR,Advanced Profile (PSG),0.005575,Canada Life
+LCOMK,Global Low Volatility (ILIM),0.00583,Canada Life
+LCOPO,Conservative Portfolio (PSG),0.005586,Canada Life
+LCOPR,Conservative Profile (PSG),0.005558,Canada Life
+LCRAG,Global Resources (Mackenzie),0.00483,Canada Life
+LDG,Strategic Income III (Mackenzie),0.00533,Canada Life
+LDVDG,Dividend (Mackenzie),0.00483,Canada Life
+LDVDL,Cdn Diversified Divid (Mackenzie),0.00483,Canada Life
+LDVDM,Canadian Large Cap Dividend (Mackenzie),0.005087,Canada Life
+LEBG,Cdn Growth Balanced (Mackenzie),0.00533,Canada Life
+LEES,European Equity (Setanta),0.00583,Canada Life
+LEMK,Equity (Mackenzie),0.00483,Canada Life
+LGBG,Government Bond (Mackenzie),0.00383,Canada Life
+LGEL,Global Equity (Putnam),0.00683,Canada Life
+LGEM,Global Growth (Mackenzie),0.006155,Canada Life
+LGIMK,Canadian Balanced Ivy (Mackenzie),0.00558,Canada Life
+FEMK,Ivy Foreign Equity (Mackenzie),0.006137,Canada Life
+FIMB,Fixed Income (MFS),0.00468,Canada Life
+FRIMK,Floating Rate Income (Mackenzie),0.005035,Canada Life
+GDIVS,Global Dividend (Setanta),0.00583,Canada Life
+GECG,Global Equity (Capital Group),0.00963,Canada Life
+GEFPH,Global Equity Focus (PH&N),0.005086176,Canada Life
+LLBON,Core Bond (Mackenzie),0.00383,Canada Life
+LLCMK,Canadian Low Volatility (Mackenzie),0.00483,Canada Life
+LLCNE,Canadian Value Equity (Mackenzie),0.00483,Canada Life
+LLDIV,Strategic Income II (Mackenzie),0.00533,Canada Life
+LLEG,SRI Canadian Equity (Mackenzie),0.00483,Canada Life
+LLEMS,Emerging Markets (Mackenzie),0.00927,Canada Life
+LLINE,International Equity (JPMorgan),0.00683,Canada Life
+LLMCG,US Mid Cap (Mackenzie),0.00633,Canada Life
+LLMON,Canadian Money Market (Mackenzie),0.00333,Canada Life
+LLMRT,Mortgage (Canada Life),0.00633,Canada Life
+LLSTG,Science & Technology (Mackenzie),0.00533,Canada Life
+LLUSE,US Core Growth (Mackenzie),0.00533,Canada Life
+LMCCG,Mid Cap Canada (Mackenzie),0.00583,Canada Life
+LMG,Commercial Mortgage (Canada Life),0.00633,Canada Life
+LMOPO,Moderate Portfolio (PSG),0.005593,Canada Life
+LMOPR,Moderate Profile (PSG),0.005564,Canada Life
+LNRM,Global Resource (Mackenzie),0.006162,Canada Life
+LPMM,Precious Metals (Mackenzie),0.006159,Canada Life
+LREG,Real Estate (GWLRA),0.00783,Canada Life
+LSCMK,Smaller Company (Mackenzie),0.00583,Canada Life
+LSGAG,Far East (CLAM),0.00583,Canada Life
+LTBL,Long Term Bond (Canada Life),0.00383,Canada Life
+LUSEG,US Large Cap Equity (Mackenzie),0.00533,Canada Life
+LUSET,US Equity Index (TDAM),0.00402,Canada Life
+MFS25,LifePlan 2025 (MFS),0,Canada Life
+MFS30,LifePlan 2030 (MFS),0,Canada Life
+MFS35,LifePlan 2035 (MFS),0,Canada Life
+MFS40,LifePlan 2040 (MFS),0,Canada Life
+MFS45,LifePlan 2045 (MFS),0,Canada Life
+MFS50,LifePlan 2050 (MFS),0,Canada Life
+MFS55,LifePlan 2055 (MFS),0,Canada Life
+MFS60,LifePlan 2060 (MFS),0,Canada Life
+MFS65,LifePlan 2065 (MFS),0,Canada Life
+MFSRT,LifePlan Retirement (MFS),0,Canada Life
+MTGE,Growth Equity (Montrusco Bolton),0.00583,Canada Life
+NABMK,North American High Yield Bond (Mackenzie),0.00483,Canada Life
+PBA,North American Balanced (Mackenzie),0.00533,Canada Life
+PCB,Balanced (CC&L),0.006941,Canada Life
+PCE,Canadian Equity (CC&L),0.005974,Canada Life
+PSB,Balanced Core (Fiera Capital),0.00583,Canada Life
+PSE,Equity (Fiera Capital),0.00583,Canada Life
+RRBP,Real Return Bond (Canada Life),0.00383,Canada Life
+S002,Canadian Equity (Mackenzie),0.00483,Canada Life
+S014,Strategic Income IV (Mackenzie),0.00483,Canada Life
+S019,Core Plus Bond (Mackenzie),0.00433,Canada Life
+S029,Money Market (LK) (Mackenzie),0.00333,Canada Life
+S034,Global Equity (Setanta),0.00583,Canada Life
+S036,Foreign Bond (CLAM),0.00583,Canada Life
+S038,Far East Equity (CLAM),0.00783,Canada Life
+S066,Global Equity (Montrusco Bolton),0.00673,Canada Life
+S079,Canadian Bond Index (TDAM),0.00397,Canada Life
+S080,Balanced Index (TDAM),0.0042,Canada Life
+S103,Canadian Equity (Bissett),0.00683,Canada Life
+S104,Balanced (Templeton),0.00683,Canada Life
+S105,Canadian Small Cap Equity (Bissett),0.01233,Canada Life
+S120,Canadian Equity Index (TDAM),0.00397,Canada Life
+S123,Canadian Equity (Fiera Capital),0.00629,Canada Life
+S124,Balanced (Fiera Capital),0.00619,Canada Life
+S147,Balanced Pension Trust (PH&N),0.00593,Canada Life
+S149,Bond (PH&N),0.00553,Canada Life
+S158,Core Plus Bond (Bissett),0.00683,Canada Life
+S176,True North (Fidelity),0.00853,Canada Life
+S178,US Disciplined Value (Mackenzie),0.00483,Canada Life
+S184,Global (Fidelity),0.00953,Canada Life
+S191,Canadian Asset Allocation (Fidelity),0.00863,Canada Life
+S195,Canadian Equity (Leith Wheeler),0.00583,Canada Life
+S196,Balanced (Leith Wheeler),0.00623,Canada Life
+S208,Balanced (TD Greystone),0.00553,Canada Life
+S244,Global Equity Index (TDAM),0.00414,Canada Life
+S261,American Equity (Beutel Goodman),0.00593,Canada Life
+S269,Canadian Equity (PH&N),0.00603,Canada Life
+S288,Balanced (Invesco),0.00783,Canada Life
+S289,Canadian Growth (Invesco),0.00783,Canada Life
+S311,Global Balanced (Jarislowsky Fraser),0.005369,Canada Life
+S329,US Companies (Invesco),0.00783,Canada Life
+S605,Conservative Continuum (PSG),0.00614,Canada Life
+S606,Moderate Continuum (PSG),0.00615,Canada Life
+S607,Balanced Continuum (PSG),0.00616,Canada Life
+S608,Advanced Continuum (PSG),0.00618,Canada Life
+S609,Aggressive Continuum (PSG),0.00619,Canada Life
+SICB,Bond (Fiera Capital),0,Canada Life
+LIBP,Global Bond (Brandywine),0.00664,Canada Life
+LIEP,International Equity (Putnam),0.00683,Canada Life
+LIETN,International Equity N (Templeton),0.01043,Canada Life
+LIG,Cdn Fix Income Bal III (Mackenzie),0.00533,Canada Life
+LINMK,Cdn Fix Income Bal II (Mackenzie),0.00533,Canada Life
+LIOP,International Opportunity (JPMorgan),0.00683,Canada Life
+USDVG,US Dividend (Mackenzie),0.00533,Canada Life
+USEJF,US Equity (Jarislowsky Fraser),0.005362,Canada Life
+USGSL,US Mid Cap Equity (Mackenzie),0.00633,Canada Life
+USITD,US Index Registered (TDAM)* ,0,Canada Life
+USIXG,US Index Registered (Mackenzie)*,0.00333,Canada Life
+USLC,US Large Cap Core Instl (Fidelity)*,0.010131,Canada Life
+USLVP,US Low Volatility (Putnam),0.00683,Canada Life
+USMER,Socially Responsible US Equity (NEI),0.01103,Canada Life
+USVEP,US Value Equity (Putnam),0.00683,Canada Life
+SRBAL,SRI Balanced (Mackenzie),0.00783,Canada Life
+SRBP,SRI Bond (Mackenzie),0.00383,Canada Life
+STBP,Canadian Short Term Bond (Mackenzie),0.00383,Canada Life
+TRGE,Global Equity (Invesco),0.00783,Canada Life
+TRIG,Income Growth (Invesco),0.00783,Canada Life
+UFIMK,Unconstrained Fixed Income (Mackenzie),0.005038,Canada Life
+ULTBP,Ultra Long Term Bond (Canada Life),0.00383,Canada Life
+AGGI,Tact Asset Alloc Income (Fidelity),0.00683,Canada Life
+BGMB,Balanced Growth (MFS),0,Canada Life
+CADRT,Cadence Retirement (PSG),0.00557,Canada Life
+CGCF,Canadian Growth Company (Fidelity),0.00833,Canada Life
+CNY60,Continuum Conservative 2060 (PSG),0,Canada Life
+FCECC,Fundamental Canadian Equity (CC&L),0.00583,Canada Life
+FITA,Fixed Income (CIBC Global AM)*,0,Canada Life
+H50,Harmonized 2050 (PSG),0.00437,Canada Life
+HY45,Harmonized Conservative 2045 (PSG),0,Canada Life
+JPM35,Sustainable TD 2035 (JPM),0,Canada Life
+LBGRL,Cdn Growth Balanced II (Mackenzie),0.00483,Canada Life
+LEIG,Canadian Equity Index (Mackenzie),0.00333,Canada Life
+LGREL,Canadian Lrg Cap Growth (Mackenzie),0.00483,Canada Life
+LIEIT,International Equity Index (TDAM),0.00409,Canada Life
+LNABG,Canadian Equity (Beutel Goodman),0.00533,Canada Life
+S039,Cdn Concentrated Divid (Mackenzie),0.00483,Canada Life
+S209,Fixed Income (TD Greystone),0.00543,Canada Life
+SIEF,Select Intl Eq Instl (Fidelity),0.01051,Canada Life
+SPIE,International Equity (Sprucegrove),0.008718,Canada Life
+SRGES,SRI Global Equity (Setanta),0.00633,Canada Life
+CPBF,Canadian Core Plus Bond (Fidelity),0.006736,Canada Life
+2002,Manulife Moderate Asset Allocation Fund34,0.00594,Manulife
+2003,Manulife Balanced Asset Allocation Fund34,0.00594,Manulife
+2004,Manulife Growth Asset Allocation Fund34,0.00594,Manulife
+2005,Manulife Aggressive Asset Allocation Fund34,0.00592,Manulife
+2025,Manulife Retirement Date 2025 Fund34,0.00618,Manulife
+2030,Manulife Retirement Date 2030 Fund34,0.00619,Manulife
+2035,Manulife Retirement Date 2035 Fund34,0.00619,Manulife
+2040,Manulife Retirement Date 2040 Fund34,0.00618,Manulife
+2045,Manulife Retirement Date 2045 Fund34,0.00618,Manulife
+2050,Manulife Retirement Date 2050 Fund34,0.00618,Manulife
+2055,Manulife Retirement Date 2055 Fund34,0.00617,Manulife
+2060,Manulife Retirement Date 2060 Fund34,0.00616,Manulife
+2140,Manulife Fidelity ClearPath Income Portfolio34,0.0083,Manulife
+2143,Manulife Fidelity ClearPath 2020 Portfolio34,0,Manulife
+2144,Manulife Fidelity ClearPath 2025 Portfolio34,0.0083,Manulife
+2145,Manulife Fidelity ClearPath 2030 Portfolio34,0.0083,Manulife
+2146,Manulife Fidelity ClearPath 2035 Portfolio34,0.0083,Manulife
+2147,Manulife Fidelity ClearPath 2040 Portfolio34,0.0083,Manulife
+2149,Manulife Fidelity ClearPath 2050 Portfolio34,0.0083,Manulife
+2150,Manulife Fidelity ClearPath 2055 Portfolio34,0.0083,Manulife
+2151,Manulife Fidelity ClearPath 2060 Portfolio34,0.0083,Manulife
+2161,Manulife MFS Conservative Allocation Fund34,0.0068,Manulife
+2162,Manulife MFS Moderate Allocation Fund34,0.0068,Manulife
+2163,Manulife MFS Growth Allocation Fund34,0.0068,Manulife
+2231,Manulife CI Portfolio Series Income Fund34,0.0071,Manulife
+2232,Manulife CI Portfolio Series Moderate Fund34,0.0071,Manulife
+2233,Manulife CI Portfolio Series Balanced Fund34,0.0071,Manulife
+2234,Manulife CI Portfolio Series Growth Fund34,0.0071,Manulife
+2235,Manulife CI Portfolio Series Maximum Growth Fund34,0.0071,Manulife
+2240,Manulife CI LifeCycle Income Portfolio Fund34,0.0073,Manulife
+2241,Manulife CI LifeCycle 2020 Portfolio Fund3,0.0073,Manulife
+2242,Manulife CI LifeCycle 2025 Portfolio Fund3,0.0073,Manulife
+2243,Manulife CI LifeCycle 2030 Portfolio Fund3,0.0073,Manulife
+2244,Manulife CI LifeCycle 2035 Portfolio Fund3,0.0073,Manulife
+2245,Manulife CI LifeCycle 2040 Portfolio Fund3,0.0073,Manulife
+2246,Manulife CI LifeCycle 2045 Portfolio Fund3,0.0073,Manulife
+2247,Manulife CI LifeCycle 2050 Portfolio Fund3,0.0073,Manulife
+2248,Manulife CI LifeCycle 2055 Portfolio Fund3,0.0073,Manulife
+2288,Manulife Russell Investments Multi-Asset Income Strategy Fund34,0.0107,Manulife
+2289,Manulife Russell Investments Long-Term Growth Fund34,0.0107,Manulife
+2311,Manulife BlackRock Balanced Conservative Index Fund34,0.00438,Manulife
+2312,Manulife BlackRock Balanced Moderate Index Fund34,0.00446,Manulife
+2313,Manulife BlackRock Balanced Aggressive Index Fund34,0.00461,Manulife
+2321,Manulife BlackRock LifePath Retirement Index Fund34,0.00492,Manulife
+2324,Manulife BlackRock LifePath Index 2020 Fund34,0.00502,Manulife
+2325,Manulife BlackRock LifePath Index 2025 Fund34,0.00499,Manulife
+2326,Manulife BlackRock LifePath Index 2030 Fund34,0.00507,Manulife
+2327,Manulife BlackRock LifePath Index 2035 Fund34,0.00515,Manulife
+2328,Manulife BlackRock LifePath Index 2040 Fund34,0.00521,Manulife
+2329,Manulife BlackRock LifePath Index 2045 Fund34,0.00525,Manulife
+2330,Manulife BlackRock LifePath Index 2050 Fund34,0.00527,Manulife
+2331,Manulife BlackRock LifePath Index 2055 Fund34,0.00529,Manulife
+2332,Manulife BlackRock LifePath Index 2060 Fund34,0.00556,Manulife
+2500,Manulife Franklin LifeSmart Retirement Portfolio34,0.0074,Manulife
+2531,Manulife Franklin LifeSmart 2025 Fund34,0.0074,Manulife
+2532,Manulife Franklin LifeSmart 2030 Fund34,0.0069,Manulife
+2533,Manulife Franklin LifeSmart 2035 Fund34,0.0074,Manulife
+2534,Manulife Franklin LifeSmart 2040 Fund34,0.007,Manulife
+2535,Manulife Franklin LifeSmart 2045 Fund34,0.0074,Manulife
+2536,Manulife Franklin LifeSmart 2050 Fund34,0.0073,Manulife
+2537,Manulife Franklin LifeSmart 2055 Fund34,0.0074,Manulife
+2000,Manulife Retirement Income Fund34,0.00618,Manulife
+2680,Manulife MFS LifePlan Retiree Fund34,0.0063,Manulife
+2683,Manulife MFS LifePlan Retirement 2025 Fund34,0.0063,Manulife
+2684,Manulife MFS LifePlan Retirement 2030 Fund34,0.0063,Manulife
+2685,Manulife MFS LifePlan Retirement 2035 Fund34,0.0063,Manulife
+2686,Manulife MFS LifePlan Retirement 2040 Fund34,0.0063,Manulife
+2688,Manulife MFS LifePlan Retirement 2050 Fund34,0.0063,Manulife
+2689,Manulife MFS LifePlan Retirement 2055 Fund34,0.0063,Manulife
+3132,Manulife Canadian Money Market Fund (MIM),0.0038,Manulife
+3191,Manulife Daily High Interest Fund,0.0033,Manulife
+4012,Manulife Multi-Manager Canadian Bond Fund,0.00587,Manulife
+4013,Manulife SP Funds Dow Jones Global Sukuk ETF Fund,0.0135,Manulife
+4131,Manulife Canadian Bond Fund (MIM),0.0043,Manulife
+4133,Manulife MIM Canadian Long Duration Fixed Income Fund,0.0049,Manulife
+4136,Manulife MIM Strategic Fixed Income Fund,0.00635,Manulife
+4138,Manulife MIM Canadian Core Plus Fixed Income Fund,0.0082,Manulife
+4141,Manulife Fidelity Canadian Bond Fund,0.0068,Manulife
+4142,Manulife FIAM Canadian Bond Fund,0,Manulife
+4161,Manulife MFS Fixed Income Fund,0.0059,Manulife
+4162,Manulife MFS Long Term Fixed Income Fund,0.00725,Manulife
+4191,Manulife MIM Canadian Bond Index Fund,0.0039,Manulife
+4242,Manulife Jarislowsky Fraser Bond Fund,0.00534,Manulife
+4271,Manulife PH&N Bond Fund,0.0065,Manulife
+4273,Manulife PH&N Short Term Bond & Mortgage Fund,0.0068,Manulife
+4280,Manulife PH&N Core Plus Bond Fund,0,Manulife
+4292,Manulife Guardian Bond Fund,0.00557,Manulife
+4322,Manulife BlackRock Long Bond Index Fund,0,Manulife
+4323,Manulife BlackRock Canada Universe Bond Index Fund,0.00395,Manulife
+4341,Manulife abrdn Emerging Markets Debt Fund,0,Manulife
+4372,Manulife AllianceBernstein Canadian Core Plus Bond Fund,0.0081,Manulife
+4442,Manulife MIM Canadian Corporate Fixed Income Fund,0,Manulife
+4444,Manulife MMF Strategic Investment Grade Global Bond Fund,0.0078,Manulife
+4446,Manulife MMF US Unconstrained Bond Fund,0.0078,Manulife
+4447,Manulife MMF Global Unconstrained Bond Fund,0.0073,Manulife
+4503,Manulife Templeton Global Bond Fund,0.0078,Manulife
+4632,Manulife Beutel Goodman Fixed Income Fund,0.00571,Manulife
+4660,Manulife Canadian Mortgage Fund,0.0084,Manulife
+4661,Manulife MIM Short Term Bond Fund,0.0053,Manulife
+4663,Manulife MIM Real Return Bond Fund5,0,Manulife
+4991,Manulife PIMCO Canadian Core Plus Bond Fund,0.0083,Manulife
+5011,Manulife Balanced Fund3,0.0058,Manulife
+5012,Manulife Multi-Manager Balanced Fund3,0.00712,Manulife
+5091,Manulife Franklin Bissett Balanced Fund3,0.0071,Manulife
+5132,Manulife MMF Monthly High Income Fund3,0.0063,Manulife
+5141,Manulife Fidelity Canadian Asset Allocation Fund3,0.0082,Manulife
+5145,Manulife Fidelity Global Asset Allocation Fund3,0.01005,Manulife
+5161,Manulife MFS Balanced Growth Fund3,0.0059,Manulife
+5162,Manulife MFS Responsible Balanced Fund35,0.0065,Manulife
+5163,Manulife MFS Balanced Value Fund3,0.006,Manulife
+5164,Manulife MFS Balanced Fund3,0.0059,Manulife
+5181,Manulife Invesco Income Growth Fund3,0.0083,Manulife
+5233,Manulife CI Canadian Balanced Fund3,0.0063,Manulife
+5241,Manulife Jarislowsky Fraser Balanced Fund (Registered Plans Only)3,0.00534,Manulife
+5271,Manulife PH&N Balanced Pension Trust Fund3,0.0064,Manulife
+5291,Manulife Guardian Ethical Balanced SRI Fund3,0.00955,Manulife
+5292,Manulife Guardian Managed Balanced Fund3,0.00741,Manulife
+5313,Manulife CC&L Group Balanced Plus Fund3,0.00716,Manulife
+5441,Manulife MMF Fundamental Income Fund3,0,Manulife
+5444,Manulife MMF Global Strategic Balanced Yield Fund,0.0073,Manulife
+5445,Manulife MMF Global Monthly High Income Fund,0.0073,Manulife
+5446,Manulife MMF Yield Opportunities Fund,0.0068,Manulife
+2663,Manulife Balanced Index Portfolio Fund34,0.0039,Manulife
+5481,Manulife Greystone Balanced Fund3,0.00549,Manulife
+7481,Manulife Greystone Canadian Equity Fund,0.00527,Manulife
+7011,Manulife Canadian Equity Fund,0.0058,Manulife
+7013,Manulife Multi-Manager Canadian Large Cap Core Fund,0.00663,Manulife
+7014,Manulife Multi-Manager Canadian Large Cap Value Fund,0.00657,Manulife
+7032,Manulife Montrusco Bolton Canadian Small Capitalization Equity Fund,0.0071,Manulife
+7121,Manulife MIM Canadian Large Cap Growth Fund,0.00634,Manulife
+7122,Manulife MMF Growth Opportunities Fund,0.0068,Manulife
+7125,Manulife NEI Canadian Equity RS Fund,0.0112,Manulife
+7131,Manulife Canadian Large Cap Value Equity Fund (MIM),0.0051,Manulife
+7132,Manulife MIM Canadian Equity Index Fund,0.0038,Manulife
+7136,Manulife MIM Canadian Core Equity Focused Fund,0.0073,Manulife
+7141,Manulife Fidelity Canadian Large Cap Fund,0.0083,Manulife
+7142,Manulife Fidelity Canadian Core Equity Institutional Fund,0.00614,Manulife
+7143,Manulife Fidelity True North Fund,0.0083,Manulife
+7144,Manulife Fidelity Canadian Disciplined Equity Fund,0.0083,Manulife
+7146,Manulife FIAM Canadian Focused Equity Fund,0.00662,Manulife
+7181,Manulife Invesco Canadian Fund,0.0083,Manulife
+7241,Manulife Jarislowsky Fraser Canadian Equity Fund,0.00535,Manulife
+7272,Manulife PH&N Canadian Equity Fund,0.0065,Manulife
+7293,Manulife Guardian Canadian Growth Equity Fund,0,Manulife
+7294,Manulife Guardian Canadian Equity Fund,0.00676,Manulife
+7314,Manulife CC&L Equity Income & Growth Fund,0.00688,Manulife
+7316,Manulife CC&L Group Fundamental Canadian Equity Fund,0.00646,Manulife
+7321,Manulife BlackRock Active Canadian Equity Fund,0.00712,Manulife
+7322,Manulife BlackRock Canadian Equity Index Fund,0.00422,Manulife
+7382,Manulife FGP Canadian Equity Fund,0.00545,Manulife
+7441,Manulife MMF Canadian Dividend Growth Fund,0.0088,Manulife
+7442,Manulife MMF Fundamental Dividend Income Fund,0.0088,Manulife
+7451,Manulife Mawer Canadian Equity Fund,0,Manulife
+7502,Manulife Franklin Bissett Canadian Equity Fund,0.0063,Manulife
+7503,Manulife Franklin Bissett Small Cap Fund,0.00955,Manulife
+7601,Manulife Scheer Rowlett Canadian Equity Fund,0.0069,Manulife
+7631,Manulife Beutel Goodman Canadian Equity Fund5,0.00647,Manulife
+7632,Manulife Beutel Goodman Fundamental Canadian Equity Fund,0,Manulife
+7636,Manulife Beutel Goodman Fundamental Canadian Equity Fund II,0.00728,Manulife
+7661,Manulife MIM Canadian Equity Fund,0.0051,Manulife
+7871,Manulife BMO AM Canadian Small-Cap Equity Fund,0.00877,Manulife
+7971,Manulife NEI Canadian Equity RS Fund II,0,Manulife
+8011,Manulife EAFE Plus Equity Fund (Pictet),0.0098,Manulife
+8013,Manulife Multi-Manager US Equity Fund,0.00714,Manulife
+8014,Manulife Multi-Manager International Equity Fund,0.00879,Manulife
+8015,Manulife Multi-Manager Global Equity Fund,0.00875,Manulife
+8016,Manulife SP Funds Shariah S&P 500 ETF Fund,0.0119,Manulife
+8051,Manulife Schroders Emerging Markets Equity Fund,0.01405,Manulife
+8113,Manulife AGF Emerging Markets Equity Fund,0.0121,Manulife
+8114,Manulife AGF Global Equity Fund9,0.0088,Manulife
+8115,Manulife AGF American Growth Equity,0.0103,Manulife
+8121,Manulife NEI US Equity RS Fund,0.0122,Manulife
+8131,Manulife MIM US Equity Index Fund,0.00385,Manulife
+8132,Manulife MIM US Large Cap Core Fund,0.006,Manulife
+8139,Manulife MIM Global Small Cap Equity Fund,0.0122,Manulife
+8141,Manulife Fidelity Global Fund,0,Manulife
+8142,Manulife Fidelity US Focused Fund,0.0085,Manulife
+8143,Manulife Fidelity American Disciplined Equity Fund,0.0085,Manulife
+8161,Manulife MFS Global Equity Growth Fund5,0,Manulife
+8163,Manulife MFS US Equity Core Fund I5,0,Manulife
+8181,Manulife Invesco Global Companies Fund,0.0083,Manulife
+8184,Manulife Invesco Global Small-Cap Equity Fund,0.0126,Manulife
+8185,Manulife Invesco US Small-Cap Value Equity Fund,0.0123,Manulife
+5585,Manulife FGP Diversified Fund3,0.00647,Manulife
+5631,Manulife Beutel Goodman Balanced Fund3,0.00617,Manulife
+5661,Manulife MIM Diversified Fund3,0.00495,Manulife
+5682,Manulife MFS Balanced Growth Fund II3,0.0059,Manulife
+5972,Manulife NEI Select Balanced RS Portfolio Fund II3,0.0102,Manulife
+8231,Manulife CI American Value Fund,0.0084,Manulife
+8911,Manulife Hexavest Global Equity Fund,0.00778,Manulife
+8272,Manulife RBC Emerging Markets Equity Fund,0.0136,Manulife
+8311,Manulife CC&L Q Group Global Equity Fund,0.00984,Manulife
+8321,Manulife BlackRock International Equity Index Fund,0.00429,Manulife
+8322,Manulife BlackRock US Equity Index Fund (Registered Plans Only),0.00414,Manulife
+8323,Manulife BlackRock US Equity Index Fund (Taxable),0.00418,Manulife
+8324,Manulife BlackRock ACWI ex-Canada Index Fund,0.00505,Manulife
+8326,Manulife BlackRock Emerging Markets Index Fund,0.00637,Manulife
+8327,Manulife BlackRock Global REIT Index Fund,0.00509,Manulife
+8329,Manulife BlackRock Global Infrastructure Index Fund,0.00551,Manulife
+8342,Manulife abrdn Global Equity Fund,0.0113,Manulife
+8361,Manulife Sprucegrove International Equity Fund,0.0094,Manulife
+8362,Manulife Sprucegrove Global Equity Fund,0.00936,Manulife
+8382,Manulife FGP International Equity Fund,0.00717,Manulife
+8401,Manulife Boston Partners International Equity Fund,0.0078,Manulife
+8402,Manulife Boston Partners Global Equity Fund,0.0078,Manulife
+8421,Manulife Aristotle Capital International Equity Fund,0.00955,Manulife
+8431,Manulife JP Morgan Global Intrepid Fund,0.0096,Manulife
+8441,Manulife Global Dividend Growth Fund  (MAM),0.0093,Manulife
+8442,Manulife MMF Global Franchise Fund,0.0098,Manulife
+8444,Manulife MMF US Dividend Income Fund,0.0093,Manulife
+8451,Manulife Mawer US Equity Fund,0.00644,Manulife
+8457,Manulife Mawer Global Equity Fund,0.00808,Manulife
+8508,Manulife Franklin Global Growth Equity Fund,0.0103,Manulife
+8521,Manulife Nordea Stable Return Fund,0.0103,Manulife
+8581,Manulife Fidelity Global Real Estate Fund,0.00895,Manulife
+8631,Manulife Beutel Goodman American Equity Fund,0.00627,Manulife
+8633,Manulife Beutel Goodman Global Equity Fund,0.00672,Manulife
+8660,Manulife MIM Hedged US Equity Index Fund,0.00612,Manulife
+8664,Manulife MIM US Equity Direct Index Registered Fund,0.004,Manulife
+8670,Manulife MIM International Equity Index Fund,0.0042,Manulife
+8671,Manulife MIM Global Climate Fund,0.0093,Manulife
+8672,Manulife MIM Global Equity Index Fund,0.0046,Manulife
+8681,Manulife MFS International Equity Fund II,0.00985,Manulife
+8683,Manulife MFS US Equity Core Fund,0.008,Manulife
+8684,Manulife MFS Global Growth Equity Fund,0.0095,Manulife
+8688,Manulife MFS Global Research Equity Fund,0.0094,Manulife
+8762,Manulife State Street US Equity Fund,0.0105,Manulife
+8812,Manulife TD Low Volatility All World Equity Fund,0.00562,Manulife
+8813,Manulife TDAM Hedged Synthetic International Equity Index Fund,0.00545,Manulife
+8871,Manulife BMOAM US Equity Fund,0.0083,Manulife
+8931,Manulife Lazard Global Small-Cap Equity Fund,0.01328,Manulife
+8932,Manulife Lazard Global Infrastructure Fund,0.0127,Manulife
+8971,Manulife NEI US Equity RS Fund II,0,Manulife
+8972,Manulife NEI International Equity Fund,0.0123,Manulife
+8973,Manulife NEI Environmental Leaders Fund,0,Manulife
+9064,Manulife Schroder Diversified Growth Fund,0,Manulife
+9575,Manulife Canadian Real Estate Fund,0.01202,Manulife
+8196,Manulife US Diversified Growth Equity Fund (Wellington),0.00675,Manulife
+8243,Manulife Jarislowsky Fraser US Equity Fund,0.00533,Manulife
+2687,Manulife MFS LifePlan Retirement 2045 Fund34,0.0063,Manulife
+4192,Manulife Fixed Income Plus Fund (AllianceBernstein)5,0,Manulife
+5301,Manulife Leith Wheeler Diversified Pooled Fund (Registered Plans Only)3,0.0063,Manulife
+5452,Manulife Mawer Canadian Balanced Fund355,0,Manulife
+7012,Manulife Multi-Manager Canadian Large Cap Growth Fund,0.00671,Manulife
+7313,Manulife CC&L Group Canadian Q Growth Fund,0.006,Manulife
+7812,Manulife TD Emerald Low Volatility Canadian Equity Fund,0,Manulife
+8183,Manulife Invesco International Equity Fund,0.0095,Manulife
+8187,Manulife Invesco Global Targeted Returns Fund,0.0119,Manulife
+8294,Manulife Guardian i3 International Equity Fund,0.01007,Manulife
+8452,Manulife Mawer International Equity Fund,0.00838,Manulife
+2001,Manulife Conservative Asset Allocation Fund34,0.00592,Manulife
+2148,Manulife Fidelity ClearPath 2045 Portfolio34,0.0083,Manulife
+2287,Manulife Russell Investments Balanced Growth Fund34,0.0105,Manulife
+F00000JSEV,SL MFS US Value Seg Fund,0.0066,Sun Life
+F00000JSEX,SL MFS Global Growth Seg Fund,0.008,Sun Life
+F00000MSJT,SLF PH&N Short Bond Seg Fund,0.005,Sun Life
+F00000H9MM,SL 2045 Milestone Seg Fund,0.0081,Sun Life
+F00000JSEU,SL MFS US Growth Seg Fund,0.0065,Sun Life
+F00000JSEW,SL MFS Global Value Seg Fund,0.0081,Sun Life
+F00000MCRN,SL BlackRock Canadian Equity Seg Fund,0.0057,Sun Life
+F00000NZ56,Lazard Gl Listed Infrastructure Seg Fund,0.0109,Sun Life
+F00000PECQ,SL Dynamic Strategic Yield Seg Fund,0.0071,Sun Life
+F00000PECR,SL Dynamic Equity Income Seg Fund,0.0069,Sun Life
+F00000PH35,Fidelity ClearPath 2050 Port Seg Fund,0.006583,Sun Life
+F00000PH36,Fidelity ClearPath 2055 Port Seg Fund,0.006584,Sun Life
+F00000Q628,Invesco Global Small Cap Equity Seg Fund,0.0104,Sun Life
+F00000Q629,PH&N Cdn Equity Value Segregated Fund,0.0052,Sun Life
+F00000Q62B,PIMCO Canada Cdn CorePLUS Bond Seg Fund,0.0069,Sun Life
+F00000Q62C,TDAM Active Cdn Corporate Bond Seg Fund,0.005175,Sun Life
+F00000Q62D,TDAM Canadian Core Plus Bond Seg Fund,0.005095,Sun Life
+F00000Q62E,SL Granite Income Seg Fund,0.0067,Sun Life
+F00000QFU4,BGO Canadian Real Estate Plus Seg Fund,0.01214,Sun Life
+F00000QK01,CI Canadian Equity Segregated Fund,0.006,Sun Life
+F00000SA70,Fiera US Equity Segregated Fund,0.00797,Sun Life
+F00000SA72,Franklin Global Growth Segregated Fund,0.009,Sun Life
+F00000SA73,TDAM Globl Eq Shareholder Yld Seg Fd Reg,0.008827,Sun Life
+F00000SA74,Fiera International Equity Seg Fund,0.010867,Sun Life
+F00000SA75,Schroder Diversified Growth Seg Fund,0.0095,Sun Life
+F00000MSJV,SLF PH&N Long Bond Seg Fund,0.00505,Sun Life
+F00000NCJU,SL Granite 2050 Seg Fund,0.0062,Sun Life
+F00000OLOB,BLK LifePath Index 2050 Segregated Fund,0.005077,Sun Life
+F00000Q62F,SL Granite Enhanced Income Seg Fund,0.0071,Sun Life
+F00000TWBF,TDAM US Market Index Seg Fund (Reg),0.003232,Sun Life
+F00000MSJW,Templeton Global Bond Segregated Fund,0.0075,Sun Life
+F00000MSJZ,Invesco Global Real Est Seg Fund-Listed,0.0095,Sun Life
+F00000MSK0,SL Schroder Emerging Markets Seg Fund,0.011,Sun Life
+F00000XBW8,SL Opportunistic Fixed Income Seg Fund,0.0093,Sun Life
+F00000XDOW,T Rowe US LC Core Growth Seg Fund (Reg),0.006986,Sun Life
+F00000YT9Q,TDAM Low Vol Global Equity Seg Fund,0.00464,Sun Life
+F00000YT9S,MFS Cdn Core Plus Fixed Income Seg Fund,0.0048,Sun Life
+F00000YT9T,MFS Global Fixed Income Segregated Fund,0.0065,Sun Life
+F00000YT9U,PH&N Fossil Fuel Free Global Eq Seg Fund,0.0082,Sun Life
+F00000YT9W,BlackRock ACWI Alpha Tilts Seg Fund(Reg),0.009319,Sun Life
+F00000YT9X,BlackRock US Eq Ind Hedged Seg Fund(Reg),0.003771,Sun Life
+F00000YT9Z,T Rowe US LC Core Growth Seg Fund,0.006572,Sun Life
+F0000102IW,SL Multi-Strategy Cdn Equity Seg Fund,0.005891,Sun Life
+F0000102IX,SL Multi-Strategy Global Equity Seg Fund,0.007934,Sun Life
+F000010TYW,SL Schroder Global Mid Cap Seg Fd,0.0101,Sun Life
+F000011E5T,BLK LifePath Index 2060 Segregated Fund,0.005216,Sun Life
+F0000139VT,MFS LifePlan Retirement 2060 Seg Fund,0.0055,Sun Life
+F000013QNW,SL 2060 Milestone Seg Fund,0.0089,Sun Life
+F000013QO0,SL Granite 2060 Seg Fund,0.006296,Sun Life
+F0000147EG,WindWise Cdn Managed Volatility Seg Fund,0.0043,Sun Life
+F0000161R1,Capital Group US Equity Seg Fund,0.008,Sun Life
+F0000161R4,Schroder Global Sustainable Grwth Seg Fd,0.011,Sun Life
+F000016OJ8,TDAM Global Eq Shareholder Yield Seg Fd,0.008827,Sun Life
+F000016STN,Global Alpha Group Global Small Cp Sg Fd,0.013405,Sun Life
+F000016XIO,MFS LifePlan Retirement 2065 Seg Fund,0.0055,Sun Life
+F00001CHQ9,PH&N Fossil Fuel Free Bond Seg Fund,0.0052,Sun Life
+F00001CHQA,PH&N Fossil Fuel Free LwVol Cdn Eq Sg Fd,0.0052,Sun Life
+F00000VIQH,TRP Global Growth Equity Seg Fund,0.008329,Sun Life
+F00000VOOP,BLK LifePath Index 2055 Segregated Fund,0.00509,Sun Life
+F00000VOOQ,SL Granite 2055 Seg Fund,0.006249,Sun Life
+F00000W2E8,AlphaFixe Return Plus Segregated Fund,0.006314,Sun Life
+F00000WNR2,Mawer Global Equity Seg Fund,0.008046,Sun Life
+F00000WUXJ,SL MFS Low Vol Intl Equity Seg Fund,0.0071,Sun Life
+F00000WUXK,MFS LifePlan Retirement 2055 Seg Fund,0.0055,Sun Life
+F00000X8PN,SL 2050 Milestone Seg Fund,0.0088,Sun Life
+F00000X8PO,SL 2055 Milestone Seg Fund,0.0088,Sun Life
+F000010PCG,Fidelity ClearPath 2060 Port Seg Fund,0.006588,Sun Life
+F000011P5T,SL Unconstrained International Eq Seg Fd,0.0081,Sun Life
+F000013KCF,PIMCO Canada Monthly Income Seg Fund,0.009,Sun Life
+F000014FHD,Mawer US Equity Segregated Fund,0.006075,Sun Life
+F000014H4A,Franklin Global Real Assets Seg Fund,0.011,Sun Life
+F000014H4D,SL Multi-Strategy Real Asset Seg Fund,0.0096,Sun Life
+F0000159TR,JF SmallMid Cap Equity Segregated Fund,0.008039,Sun Life
+F0000161R0,Capital Group Global Equity Seg Fund,0.0089,Sun Life
+F0CAN069WP,MFS Conservative Allocation Seg Fund,0.006,Sun Life
+F0CAN069WQ,MFS Moderate Allocation Segregated Fund,0.006,Sun Life
+F0CAN069WR,MFS Growth Allocation Segregated Fund,0.006,Sun Life
+F0CAN06YCT,SL 2025 Milestone Seg Fund,0.0074,Sun Life
+F0CAN06YCU,SL 2030 Milestone Seg Fund,0.0079,Sun Life
+F0CAN06YCV,SL 2035 Milestone Seg Fund,0.00581,Sun Life
+F0CAN06YCW,SL 2040 Milestone Seg Fund,0.0081,Sun Life
+F0CAN06ZKT,BLK LifePath Index Retirement Seg Fund I,0.004735,Sun Life
+FOUSA06OGU,BLK LifePath Index 2025 Segregated Fund,0.004792,Sun Life
+FOUSA06OGV,BLK LifePath Index 2035 Segregated Fund,0.004953,Sun Life
+FOUSA06OJZ,TDAM Global Equity Index Segregated Fund,0.003675,Sun Life
+FOUSA06OLB,SL MFS US Equity Seg Fund,0.00615,Sun Life
+FOUSA06OLE,MFS Balanced Growth Segregated Fund,0.00495,Sun Life
+FOUSA06OLU,MFS Low Volatility Canadian Eq Seg Fund,0.0046,Sun Life
+FOUSA06OLW,BG American Equity Segregated Fund,0.00545,Sun Life
+FOUSA06OM2,MFS Cdn Fixed Income Segregated Fund,0.0045,Sun Life
+FOUSA06OM3,BG Balanced Segregated Fund,0.0054,Sun Life
+FOUSA06OM5,TDAM Hedged US Market Index Seg Fund,0.003916,Sun Life
+FOUSA06OM7,TDAM Intl Equity Index Segregated Fund,0.003608,Sun Life
+FOUSA06OMB,TDAM US Market Index Segregated Fund,0.003327,Sun Life
+FOUSA06OMC,CC&L Group Bond Segregated Fund,0.004742,Sun Life
+FOUSA06OMS,BG Canadian Equity Segregated Fund,0.0054,Sun Life
+FOUSA06OMX,BG Global Segregated Fund,0.0065,Sun Life
+FOUSA06ON3,BG International Equity Segregated Fund,0.0065,Sun Life
+FOUSA06ON4,CC&L Group Cdn Equity Segregated Fund,0.005063,Sun Life
+FOUSA06ON7,BG Small Cap Segregated Fund,0.00545,Sun Life
+FOUSA06ON8,CC&L Q Group Global Equity Seg Fund,0.008617,Sun Life
+FOUSA06ONG,MFS Global Research Segregated Fund,0.0076,Sun Life
+FOUSA06ONR,PH&N Balanced Pension Segregated Fund,0.00495,Sun Life
+FOUSA06ONU,PH&N Bond Segregated Fund,0.00505,Sun Life
+FOUSA06ONZ,PH&N Dividend Income Segregated Fund,0.0051,Sun Life
+FOUSA06OO1,PH&N Global Equity Segregated Fund,0.00805,Sun Life
+FOUSA06OO4,MFS LifePlan Retiree Segregated Fund,0.0055,Sun Life
+FOUSA06OO9,PH&N Overseas Equity Segregated Fund,0.0082,Sun Life
+FOUSA06OOC,PH&N US Equity Segregated Fund,0.0052,Sun Life
+FOUSA06OOO,MFS LifePlan Retirement 2025 Seg Fund,0.0053,Sun Life
+FOUSA06OOP,MFS LifePlan Retirement 2030 Seg Fund,0.0052,Sun Life
+FOUSA06OOQ,MFS LifePlan Retirement 2035 Seg Fund,0.0052,Sun Life
+FOUSA06OOR,MFS LifePlan Retirement 2040 Seg Fund,0.0053,Sun Life
+FOUSA06OOW,BLK US Eq Index Segregated Fund (Reg),0.002844,Sun Life
+FOUSA06OPP,CI Portfolio Series Bal Growth Seg Fund,0.0069,Sun Life
+FOUSA06OPV,CI Portfolio Series Max Growth Seg Fund,0.007,Sun Life
+FOUSA06OPY,Fidelity Cdn Asset Alloc Segregated Fund,0.0075,Sun Life
+F00001DG22,AlphaFixe Green Bond Segregated Fund,0.005389,Sun Life
+F0CAN069W5,BLK Moderate Balanced Index Seg Fund,0.003192,Sun Life
+F0CAN069W6,BLK S&PTSX Composite Index Seg Fund,0.002852,Sun Life
+F0CAN069W7,BLK Aggressive Balanced Index Seg Fund,0.003382,Sun Life
+F0CAN069W8,BLK Universe Bond Index Segregated Fund,0.00284,Sun Life
+F0CAN069W9,BLK EAFE Equity Index Segregated Fund,0.003498,Sun Life
+F0CAN069WA,BLK Conservative Balanced Index Seg Fund,0.003174,Sun Life
+F0CAN069WB,BLK US Equity Index Segregated Fund,0.002856,Sun Life
+F0CAN069WN,CC&L Group Income and Growth Seg Fund,0.005624,Sun Life
+F0CAN06ZKV,BLK LifePath Index 2040 Segregated Fund,0.005016,Sun Life
+F0CAN06ZKX,BLK LifePath Index 2030 Segregated Fund,0.004875,Sun Life
+FOUSA06OLP,MFS Balanced Value Segregated Fund,0.0049,Sun Life
+FOUSA06OLX,MFS Canadian Equity Segregated Fund,0.00445,Sun Life
+FOUSA06OM1,CC&L Group Balanced Plus Segregated Fund,0.005875,Sun Life
+FOUSA06OOS,BlackRock Cdn LEAF Segregated Fund,0.004366,Sun Life
+FOUSA06OPQ,CI Portfolio Series Bal Segregated Fund,0.0069,Sun Life
+FOUSA06OPR,CI Portfolio Series Cons Segregated Fund,0.007,Sun Life
+FOUSA06OPT,CI Portfolio Series Growth Seg Fund,0.007,Sun Life
+FOUSA06OPU,CI Portfolio Series Inc Segregated Fund,0.007,Sun Life
+FOUSA06OTO,JF Canadian Equity Segregated Fund,0.004891,Sun Life
+FOUSA06OTP,JF Global Balanced Segregated Fund,0.005043,Sun Life
+FOUSA06OTS,JF International Equity Segregated Fund,0.007554,Sun Life
+FOUSA06OTT,JF US Equity Segregated Fund,0.005046,Sun Life
+FOUSA06OXA,BLK Global Equity Index Segregated Fund,0.004346,Sun Life
+FOUSA06P82,Fidelity Cdn Core Eq Trust Seg Fund,0.006253,Sun Life
+FOUSA06P87,Franklin Bissett Cdn Equity Seg Fund,0.0049,Sun Life
+FOUSA06SOH,BLK LifePath Index 2045 Segregated Fund,0.005051,Sun Life
+FOUSA06SOI,MFS Global Equity Segregated Fund,0.0074,Sun Life
+FOUSA06VOZ,Fidelity ClearPath 2025 Port Seg Fund,0.006385,Sun Life
+FOUSA06VP0,Fidelity ClearPath 2030 Port Seg Fund,0.006412,Sun Life
+FOUSA06OQ1,Fidelity Global Segregated Fund,0.0085,Sun Life
+FOUSA06OQC,Fidelity True North Segregated Fund,0.00735,Sun Life
+FOUSA06ORT,TDAM Canadian Bond Index Segregated Fund,0.003249,Sun Life
+FOUSA06ORX,CC&L Group Canadian Q Growth Seg Fund,0.005039,Sun Life
+FOUSA06ORW,TDAM Cdn Long Bond Index Segregated Fund,0.003296,Sun Life
+FOUSA06ORU,TDAM Cdn Balanced Index Segregated Fund,0.003528,Sun Life
+FOUSA06SOJ,MFS International Equity Segregated Fund,0.0076,Sun Life
+FOUSA06VO2,Fidelity ClearPath Inc Port Seg Fund,0.006357,Sun Life
+FOUSA06OQ4,Fidelity US Focused Stock Seg Fund,0.0079,Sun Life
+FOUSA06OQH,Invesco Global Companies Segregated Fund,0.00785,Sun Life
+FOUSA06OR0,JF Balanced Segregated Fund,0.004947,Sun Life
+FOUSA06ORE,Fiera Cdn Eq Small Cap Core Seg Fund,0.008744,Sun Life
+FOUSA06ORN,SLF Money Market Segregated Fund,0.0019,Sun Life
+FOUSA08ZG4,SL Granite Retirement Seg Fund,0.00618,Sun Life
+FOUSA08ZG8,SL Granite 2030 Seg Fund,0.006206,Sun Life
+F00000JSEY,SL MFS International Growth Seg Fund,0.0081,Sun Life
+F00000MSJU,SL Multi-Strategy Bond Seg Fund,0.0048,Sun Life
+F00000Q625,MFS Low Volatility Global Eq Seg Fund,0.0069,Sun Life
+FOUSA06VP1,Fidelity ClearPath 2035 Port Seg Fund,0.006436,Sun Life
+FOUSA06VP2,Fidelity ClearPath 2040 Port Seg Fund,0.006476,Sun Life
+FOUSA06VP3,Fidelity ClearPath 2045 Port Seg Fund,0.006483,Sun Life
+FOUSA08MZ1,MFS LifePlan Retirement 2045 Seg Fund,0.0054,Sun Life
+FOUSA08MZ2,MFS LifePlan Retirement 2050 Seg Fund,0.0055,Sun Life
+FOUSA08PDZ,SL Granite Conservative Seg Fund,0.006,Sun Life
+FOUSA08PE0,SL Granite Moderate Seg Fund,0.00615,Sun Life
+FOUSA08PE1,SL Granite Balanced Seg Fund,0.0061,Sun Life
+FOUSA08PE2,SL Granite Growth Seg Fund,0.0061,Sun Life
+FOUSA08PE3,SL Granite Aggressive Seg Fund,0.0061,Sun Life
+FOUSA08ZG7,SL Granite 2025 Seg Fund,0.006198,Sun Life
+FOUSA08ZG9,SL Granite 2035 Seg Fund,0.006209,Sun Life
+FOUSA08ZGA,SL Granite 2040 Seg Fund,0.006208,Sun Life
+FOUSA08ZGB,SL Granite 2045 Seg Fund,0.006204,Sun Life
+F00001CHQ8,PH&N Fossil Fuel Free Balanced Seg Fund,0.0052,Sun Life
+F00001DDU7,SL KBI Glbl Sustainable Infrastr Seg Fd,0.0095,Sun Life
+F00000T67C,BLK MSCI Emerging Markets Index Seg Fund,0.004955,Sun Life
+F00000VYJK,PH&N Core Plus Bond Segregated Fund,0.00555,Sun Life
+F00000YT9O,TDAM Low Volatility US Equity Seg Fund,0.0045,Sun Life
+FOUSA06OQG,Invesco Income Growth Segregated Fund,0.00635,Sun Life
+FOUSA06ORV,TDAM Cdn Equity Index Segregated Fund,0.003251,Sun Life
+FOUSA06SLO,CI Canadian Income & Growth Seg Fund,0.007114749,Sun Life
+FOUSA07ZPR,Mawer International Equity Seg Fund,0.008247,Sun Life
+F00000SA6Y,BG Fundamental Canadian Equity Seg Fund,0.00645,Sun Life

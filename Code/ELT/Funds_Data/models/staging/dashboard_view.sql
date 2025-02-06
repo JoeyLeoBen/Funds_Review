@@ -1,0 +1,77 @@
+
+WITH x_view AS (
+	SELECT 
+		fund_company, 
+		fund_type, 
+		invested, 
+		fund_category,
+		NULL AS sub_peer_group,
+		fund_identifier,
+		funds, 
+		market_value,
+		member_count,
+		NULL AS fees, 
+		NULL AS date, 
+		NULL AS net_net_compounded_returns_12_rolling,
+		NULL AS net_net_compounded_returns_36_rolling,
+		NULL AS net_net_compounded_returns_60_rolling,
+		return_type,
+		net_compounded_returns,
+		net_returns_avg,
+		net_returns_stddev,
+		peer_groups,
+		peer_group_identifier,
+		peer_net_compounded_returns,
+		'all' AS which_table
+	FROM {{ ref('all_returns_view') }}
+	UNION 
+	SELECT 
+		fund_company,
+		fund_type,
+		invested,
+		fund_category,
+		sub_peer_group,
+		fund_identifier,
+		funds,
+		market_value,
+		member_count, 
+		fees,	
+		date,		
+		net_net_compounded_returns_12_rolling,
+		net_net_compounded_returns_36_rolling,
+		net_net_compounded_returns_60_rolling,
+		NULL AS return_type, 
+		NULL AS net_compounded_returns, 
+		NULL AS net_returns_avg, 
+		NULL AS net_returns_stddev, 
+		NULL AS peer_groups,
+		NULL AS peer_group_identifier,
+		NULL AS peer_net_compounded_returns,
+		'rolling' AS which_table
+	FROM {{ ref('rolling_returns_view') }}
+)
+
+SELECT 	
+	fund_company,
+	fund_type,
+	invested,
+	fund_category,
+	sub_peer_group,
+	fund_identifier,
+	TRIM(regexp_replace(CONCAT(CASE WHEN fund_identifier IS NULL THEN 'BENCH' WHEN fund_identifier IS NOT NULL THEN fund_identifier END, ' - ', CASE WHEN funds IS NULL THEN 'Name Not Available' WHEN funds IS NOT NULL THEN funds END), '\s+', ' ', 'g')) AS funds,
+	market_value,
+	member_count, 
+	fees,		
+	CAST(date AS DATE),
+	net_net_compounded_returns_12_rolling,
+	net_net_compounded_returns_36_rolling,
+	net_net_compounded_returns_60_rolling,
+	return_type, 
+	net_compounded_returns, 
+	net_returns_avg, 
+	net_returns_stddev, 
+	peer_groups,
+	peer_group_identifier,
+	peer_net_compounded_returns,
+	which_table
+FROM x_view

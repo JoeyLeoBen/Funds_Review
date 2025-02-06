@@ -1,0 +1,309 @@
+fund_identifier,fund_category,fund_company_id
+S029,Money Market,0
+LLMON,Money Market,0
+PMM,Money Market,0
+MMF,Money Market,0
+LTBL,Fixed Income,0
+SRBP,Fixed Income,0
+LCBIL,Fixed Income,0
+CCLB,Fixed Income,0
+LCBG,Fixed Income,0
+LGBG,Fixed Income,0
+CPBPH,Fixed Income,0
+LBOBG,Fixed Income,0
+BJF,Fixed Income,0
+CBR,Fixed Income,0
+FIMB,Fixed Income,0
+FRIMK,Fixed Income,0
+UFIMK,Fixed Income,0
+S019,Fixed Income,0
+S158,Fixed Income,0
+ULTBP,Fixed Income,0
+S209,Fixed Income,0
+S079,Fixed Income,0
+LLBON,Fixed Income,0
+BSR,Fixed Income,0
+S149,Fixed Income,0
+CBTF,Fixed Income,0
+STBP,Fixed Income,0
+CORBP,Fixed Income,0
+RRBP,Fixed Income,0
+NABMK,Fixed Income,0
+HFIPS,Fixed Income,0
+LLMRT,Fixed Income,0
+LMG,Fixed Income,0
+LIBP,Fixed Income,0
+S036,Fixed Income,0
+CPBF,Fixed Income,0
+CPBLW,Fixed Income,0
+CBMER,Fixed Income,0
+FITA,Fixed Income,0
+SICB,Fixed Income,0
+LCOPR,Asset Allocation,0
+LCOPO,Asset Allocation,0
+S605,Asset Allocation,0
+LMOPR,Asset Allocation,0
+LMOPO,Asset Allocation,0
+S606,Asset Allocation,0
+LBAPR,Asset Allocation,0
+LBAPO,Asset Allocation,0
+S607,Asset Allocation,0
+LCFPR,Asset Allocation,0
+LADPO,Asset Allocation,0
+S608,Asset Allocation,0
+LAGPR,Asset Allocation,0
+LAGPO,Asset Allocation,0
+S609,Asset Allocation,0
+CONCI,Asset Allocation,0
+MODCI,Asset Allocation,0
+BALCI,Asset Allocation,0
+BGRCI,Asset Allocation,0
+ADVCI,Asset Allocation,0
+AGGCI,Asset Allocation,0
+AGGIT,Asset Allocation,0
+BALIT,Asset Allocation,0
+ADVIT,Asset Allocation,0
+CONIT,Asset Allocation,0
+MODIT,Asset Allocation,0
+BGI10,Target Date Funds,0
+BGI15,Target Date Funds,0
+BGI20,Target Date Funds,0
+BGI25,Target Date Funds,0
+BGI30,Target Date Funds,0
+BGI35,Target Date Funds,0
+BGI40,Target Date Funds,0
+BGI45,Target Date Funds,0
+BGI50,Target Date Funds,0
+BGI55,Target Date Funds,0
+BGI60,Target Date Funds,0
+CAD10,Target Date Funds,0
+CAD15,Target Date Funds,0
+CAD20,Target Date Funds,0
+CAD25,Target Date Funds,0
+CAD30,Target Date Funds,0
+CAD35,Target Date Funds,0
+CAD40,Target Date Funds,0
+CAD45,Target Date Funds,0
+CAD50,Target Date Funds,0
+CAD55,Target Date Funds,0
+CAD60,Target Date Funds,0
+CNT10,Target Date Funds,0
+CNT15,Target Date Funds,0
+CNT20,Target Date Funds,0
+CNT25,Target Date Funds,0
+CNT30,Target Date Funds,0
+CNT35,Target Date Funds,0
+CNT40,Target Date Funds,0
+CNT45,Target Date Funds,0
+CNT50,Target Date Funds,0
+CNT55,Target Date Funds,0
+CNT60,Target Date Funds,0
+CP10,Target Date Funds,0
+CP15,Target Date Funds,0
+CP20,Target Date Funds,0
+CP25,Target Date Funds,0
+CP30,Target Date Funds,0
+CP35,Target Date Funds,0
+CP40,Target Date Funds,0
+CP45,Target Date Funds,0
+CP50,Target Date Funds,0
+CP55,Target Date Funds,0
+CP60,Target Date Funds,0
+VAN20,Target Date Funds,0
+VAN25,Target Date Funds,0
+VAN30,Target Date Funds,0
+VAN35,Target Date Funds,0
+VAN40,Target Date Funds,0
+VAN45,Target Date Funds,0
+VAN50,Target Date Funds,0
+VAN55,Target Date Funds,0
+VAN60,Target Date Funds,0
+VAN65,Target Date Funds,0
+VANRT,Target Date Funds,0
+CI15,Target Date Funds,0
+CI20,Target Date Funds,0
+CI25,Target Date Funds,0
+CI30,Target Date Funds,0
+CI35,Target Date Funds,0
+CI40,Target Date Funds,0
+CI45,Target Date Funds,0
+CI50,Target Date Funds,0
+CI55,Target Date Funds,0
+H15,Target Date Funds,0
+H20,Target Date Funds,0
+H25,Target Date Funds,0
+H30,Target Date Funds,0
+H35,Target Date Funds,0
+H40,Target Date Funds,0
+H45,Target Date Funds,0
+H50,Target Date Funds,0
+H55,Target Date Funds,0
+H60,Target Date Funds,0
+JPM25,Target Date Funds,0
+JPM30,Target Date Funds,0
+JPM35,Target Date Funds,0
+JPM40,Target Date Funds,0
+JPM45,Target Date Funds,0
+JPM50,Target Date Funds,0
+JPM55,Target Date Funds,0
+JPM60,Target Date Funds,0
+MFS25,Target Date Funds,0
+MFS30,Target Date Funds,0
+MFS35,Target Date Funds,0
+MFS40,Target Date Funds,0
+MFS45,Target Date Funds,0
+MFS50,Target Date Funds,0
+MFS55,Target Date Funds,0
+MFS60,Target Date Funds,0
+LINMK,Canadian Balanced Funds,0
+LBGRL,Canadian Balanced Funds,0
+LLDIV,Canadian Balanced Funds,0
+PCB,Canadian Balanced Funds,0
+TRIG,Canadian Balanced Funds,0
+LDG,Canadian Balanced Funds,0
+LEBG,Canadian Balanced Funds,0
+LBIG,Canadian Balanced Funds,0
+LBABG,Canadian Balanced Funds,0
+LBMK,Canadian Balanced Funds,0
+LCBM,Canadian Balanced Funds,0
+BALJF,Canadian Balanced Funds,0
+S311,Canadian Balanced Funds,0
+S014,Canadian Balanced Funds,0
+S104,Canadian Balanced Funds,0
+S191,Canadian Balanced Funds,0
+S208,Canadian Balanced Funds,0
+S080,Canadian Balanced Funds,0
+BALSR,Canadian Balanced Funds,0
+S196,Canadian Balanced Funds,0
+AGGI,Canadian Balanced Funds,0
+DYPF,Canadian Balanced Funds,0
+PSB,Canadian Balanced Funds,0
+LGIMK,Canadian Balanced Funds,0
+S147,Canadian Balanced Funds,0
+CBALF,Canadian Balanced Funds,0
+BALBG,Canadian Balanced Funds,0
+SRBAL,Canadian Balanced Funds,0
+LIG,Canadian Balanced Funds,0
+LINCL,Canadian Balanced Funds,0
+CAACI,Canadian Balanced Funds,0
+PBA,Canadian Balanced Funds,0
+BGMB,Canadian Balanced Funds,0
+BALTA,Canadian Balanced Funds,0
+S124,Canadian Balanced Funds,0
+S288,Canadian Balanced Funds,0
+LLCNE,Canadian Equity Funds,0
+LDVDG,Canadian Equity Funds,0
+LLCMK,Canadian Equity Funds,0
+LDVDM,Canadian Equity Funds,0
+LGREL,Canadian Equity Funds,0
+PCE,Canadian Equity Funds,0
+S039,Canadian Equity Funds,0
+TRCE,Canadian Equity Funds,0
+LCEG,Canadian Equity Funds,0
+LEIG,Canadian Equity Funds,0
+LNABG,Canadian Equity Funds,0
+LEMK,Canadian Equity Funds,0
+LCEGM,Canadian Equity Funds,0
+CEJF,Canadian Equity Funds,0
+S289,Canadian Equity Funds,0
+JSMER,Canadian Equity Funds,0
+S002,Canadian Equity Funds,0
+S103,Canadian Equity Funds,0
+S176,Canadian Equity Funds,0
+S123,Canadian Equity Funds,0
+CVDY,Canadian Equity Funds,0
+S120,Canadian Equity Funds,0
+CESR,Canadian Equity Funds,0
+PSE,Canadian Equity Funds,0
+LLEG,Canadian Equity Funds,0
+S269,Canadian Equity Funds,0
+CDEF,Canadian Equity Funds,0
+CGCF,Canadian Equity Funds,0
+CCEF,Canadian Equity Funds,0
+HCEPS,Canadian Equity Funds,0
+AGGE,Canadian Equity Funds,0
+LMCCG,Canadian Equity Funds,0
+MTGE,Canadian Equity Funds,0
+LSCMK,Canadian Equity Funds,0
+S195,Canadian Equity Funds,0
+S105,Canadian Equity Funds,0
+PEA,Canadian Equity Funds,0
+LDVDL,Canadian Equity Funds,0
+FCECC,Canadian Equity Funds,0
+LCEMO,Canadian Equity Funds,0
+CEBG,Canadian Equity Funds,0
+CEGMB,Canadian Equity Funds,0
+CETA,Canadian Equity Funds,0
+LLUSE,US Equity Funds,0
+LAGAG,US Equity Funds,0
+LUSEG,US Equity Funds,0
+LLMCG,US Equity Funds,0
+LAEM,US Equity Funds,0
+LUSET,US Equity Funds,0
+USEJF,US Equity Funds,0
+AEMB,US Equity Funds,0
+S178,US Equity Funds,0
+S329,US Equity Funds,0
+USMER,US Equity Funds,0
+S261,US Equity Funds,0
+GRAF,US Equity Funds,0
+USLC,US Equity Funds,0
+AMDEF,US Equity Funds,0
+USIXG,US Equity Funds,0
+USGSL,US Equity Funds,0
+USVEP,US Equity Funds,0
+USLVP,US Equity Funds,0
+USDVG,US Equity Funds,0
+USITD,US Equity Funds,1
+LLINE,International Equity Funds,0
+SPIE,International Equity Funds,0
+CCLI,International Equity Funds,0
+LIEP,International Equity Funds,0
+LIOP,International Equity Funds,0
+LIEIT,International Equity Funds,0
+ISMK,International Equity Funds,0
+IEMB,International Equity Funds,0
+IEMER,International Equity Funds,0
+LIETN,International Equity Funds,0
+IESR,International Equity Funds,0
+SIEF,International Equity Funds,0
+IES,International Equity Funds,0
+IEJF,International Equity Funds,0
+IEMA,International Equity Funds,0
+LLPS,International Equity Funds,0
+LIET,International Equity Funds,0
+LGEL,Global Equity Funds,0
+TRGE,Global Equity Funds,0
+LGEM,Global Equity Funds,0
+FEMK,Global Equity Funds,0
+GGR,Global Equity Funds,0
+GES,Global Equity Funds,0
+GEMB,Global Equity Funds,0
+S034,Global Equity Funds,0
+S184,Global Equity Funds,0
+S244,Global Equity Funds,0
+GLEQC,Global Equity Funds,0
+HFEPS,Global Equity Funds,0
+LCOMK,Global Equity Funds,0
+GSCMK,Global Equity Funds,0
+SRGES,Global Equity Funds,0
+GDIVS,Global Equity Funds,0
+GECG,Global Equity Funds,0
+GEMA,Global Equity Funds,0
+GGERP,Global Equity Funds,0
+GSRR,Global Equity Funds,0
+GEFPH,Global Equity Funds,0
+S066,Global Equity Funds,0
+IGEIB,Global Equity Funds,0
+LEES,Other Funds,0
+LSGAG,Other Funds,0
+LLEMS,Other Funds,0
+LCRAG,Other Funds,0
+LREG,Other Funds,0
+LLSTG,Other Funds,0
+LNRM,Other Funds,0
+LPMM,Other Funds,0
+GINFL,Other Funds,0
+HSEPS,Other Funds,0
+EMP,Other Funds,0
+S038,Other Funds,0

@@ -1,0 +1,1471 @@
+﻿fund_identifier,funds,fund_type
+CAD50,Cadence 2050 (PSG),Available
+CAD55,Cadence 2055 (PSG),Available
+CAD60,Cadence 2060 (PSG),Available
+CADEQ,Cadence Equity (PSG),Available
+CADFI,Cadence Fixed Income (PSG),Available
+CBMER,Socially Responsible Bond (NEI),Not Available
+CBALF,Canadian Balanced (Fidelity),Available
+CBTF,Canadian Bond Instl (Fidelity),Available
+CDEF,Canadian Disciplined Equity (Fidelity),Available
+CBR,Core Plus Bond (CIBC),Available
+CCLB,Bond (CC&L),Available
+CCEF,Cdn Core Equity Instl (Fidelity),Available
+CEGMB,Canadian Equity (MFS),Not Available
+CCLI,International Equity (CC&L),Not Available
+CEBG,Pure Canadian Equity (Beutel Goodman),Available
+CECMB,Canadian Research Equity (MFS),Not Available
+CEJF,Canadian Equity (Jarislowsky Fraser),Available
+CEPMB,Canadian Equity Plus (MFS),Not Available
+CESR,Canadian Equity (SRA),Available
+CETA,Equity (CIBC Global AM)*,Not Available
+CEVMB,Cdn Low Volatility Equity (MFS),Not Available
+CNT10,Continuum Retirement 2010 (PSG),Not Available
+CNT15,Continuum 2015 Retirement (PSG),Not Available
+CNT25,Continuum 2025 (PSG),Available
+CNT20,Continuum 2020 Retirement (PSG),Not Available
+CNT30,Continuum 2030 (PSG),Available
+CNT40,Continuum 2040 (PSG),Available
+CNT35,Continuum 2035 (PSG),Available
+CNT50,Continuum 2050 (PSG),Available
+CNT45,Continuum 2045 (PSG),Available
+CNT55,Continuum 2055 (PSG),Available
+CNT60,Continuum 2060 (PSG),Available
+CNY20,Continuum Con Retirement 2020 (PSG),Not Available
+CNY15,Continuum Con 2015 Retirement (PSG),Not Available
+CNZ15,Continuum Agg 2015 Retire (PSG),Not Available
+CNY30,Continuum Conservative 2030 (PSG),Available
+CNY25,Continuum Conservative 2025 (PSG),Available
+CNY40,Continuum Conservative 2040 (PSG),Available
+CNY35,Continuum Conservative 2035 (PSG),Available
+CNZ30,Continuum Aggressive 2030 (PSG),Available
+CNY45,Continuum Conservative 2045 (PSG),Available
+CNY50,Continuum Conservative 2050 (PSG),Available
+CNY55,Continuum Conservative 2055 (PSG),Available
+CNZ20,Continuum Agg Retire 2020 (PSG),Not Available
+CNZ25,Continuum Aggressive 2025 (PSG),Available
+CNZ35,Continuum Aggressive 2035 (PSG),Available
+CNZ40,Continuum Aggressive 2040 (PSG),Available
+CNZ45,Continuum Aggressive 2045 (PSG),Available
+CNZ50,Continuum Aggressive 2050 (PSG),Available
+CORBP,Corporate Bond (Mackenzie),Available
+CNZ55,Continuum Aggressive 2055 (PSG),Available
+CNZ60,Continuum Aggressive 2060 (PSG),Available
+CP20,ClearPath 2020 (Fidelity),Available
+CP10,ClearPath 2010 (Fidelity),Not Available
+CP15,ClearPath 2015 (Fidelity),Not Available
+CP25,ClearPath 2025 (Fidelity),Available
+CP30,ClearPath 2030 (Fidelity),Available
+CP35,ClearPath 2035 (Fidelity),Available
+CP50,ClearPath 2050 (Fidelity),Available
+CP40,ClearPath 2040 (Fidelity),Available
+CP45,ClearPath 2045 (Fidelity),Available
+CPBLW,Canadian Core Plus Bond (LW),Available
+CP55,ClearPath 2055 (Fidelity),Available
+CP60,ClearPath 2060 (Fidelity),Available
+CPBPH,Canadian Core Plus Bond (PH&N),Available
+CPIF,ClearPath Income (Fidelity),Available
+CVDY,Canadian Value (FGP),Available
+DYPF,Partners (Dynamic),Available
+EMP,Emerging Markets (Putnam),Available
+AGGE,Growth Equity (AGF),Available
+AEMB,American Equity (MFS),Available
+BALSR,Balanced (SRA),Available
+BALBG,Balanced Global (Beutel Goodman),Available
+BALJF,Balanced (Jarislowsky Fraser)*,Available
+BALTA,Balanced (CIBC Global AM)*,Not Available
+BGI10,BlackRock LifePath 2010 Retirement,Not Available
+BGI15,BlackRock LifePath 2015 Retirement,Not Available
+BGI20,BlackRock LifePath 2020 Retirement,Not Available
+BGI25,BlackRock LifePath 2025 Retirement,Available
+BGI30,BlackRock LifePath 2030,Available
+BGI35,BlackRock LifePath 2035,Available
+BGI40,BlackRock LifePath 2040,Available
+BGI45,BlackRock LifePath 2045,Available
+BGI50,BlackRock LifePath 2050,Available
+BGI55,BlackRock LifePath 2055,Available
+BGI60,BlackRock LifePath 2060,Available
+BGI65,BlackRock LifePath 2065,Available
+BGIRT,BlackRock LifePath Retirement,Available
+BJF,Bond (Jarislowsky Fraser),Available
+BLCMB,Balanced (MFS),Not Available
+BSR,Bond (SRA),Available
+CAD20,Cadence 2020 Retirement (PSG),Not Available
+BVMB,Balanced Value (MFS),Not Available
+CAACI,Cambridge Asset Allocation (CI),Available
+CAD35,Cadence 2035 (PSG),Available
+CAD10,Cadence Retirement 2010 (PSG),Not Available
+CAD15,Cadence 2015 Retirement (PSG),Not Available
+CAD25,Cadence 2025 (PSG),Available
+CAD30,Cadence 2030 (PSG),Available
+CAD40,Cadence 2040 (PSG),Available
+CAD45,Cadence 2045 (PSG),Available
+HY30,Harmonized Conservative 2030 (PSG),Available
+HY50,Harmonized Conservative 2050 (PSG),Available
+HY35,Harmonized Conservative 2035 (PSG),Available
+HY40,Harmonized Conservative 2040 (PSG),Available
+HZ15,Harmonized Agg 2015 Retire (PSG),Not Available
+HY55,Harmonized Conservative 2055 (PSG),Available
+HY60,Harmonized Conservative 2060 (PSG),Available
+HZ20,Harmonized Agg Retire 2020 (PSG),Not Available
+HZ25,Harmonized Aggressive 2025 (PSG),Available
+HZ30,Harmonized Aggressive 2030 (PSG),Available
+HZ35,Harmonized Aggressive 2035 (PSG),Available
+HZ40,Harmonized Aggressive 2040 (PSG),Available
+HZ45,Harmonized Aggressive 2045 (PSG),Available
+HZ50,Harmonized Aggressive 2050 (PSG),Available
+IEJF,International Equity (Jarislowsky Fraser),Available
+HZ55,Harmonized Aggressive 2055 (PSG),Available
+HZ60,Harmonized Aggressive 2060 (PSG),Available
+IEMER,Socially Responsible Intl Equity (NEI),Not Available
+IEMA,International Equity (Mawer),Available
+IEMB,International Equity (MFS),Available
+IES,International Equity (Setanta),Available
+IESR,International Equity Q (CC&L),Available
+ISMK,International Equity (Mackenzie),Available
+JPM40,Sustainable TD 2040 (JPM),Available
+JPM25,Sustainable TD 2025 (JPM),Available
+JPM30,Sustainable TD 2030 (JPM),Available
+JPM55,Sustainable TD 2055 (JPM),Available
+JPM45,Sustainable TD 2045 (JPM),Available
+JPM50,Sustainable TD 2050 (JPM),Available
+JPM60,Sustainable TD 2060 (JPM),Available
+JSMER,Socially Responsible Cdn Equity (NEI),Not Available
+KBCB,Canadian Bond (CI)*,Not Available
+LADPO,Advanced Portfolio (PSG),Available
+LAEM,US Growth (Putnam),Available
+LAGAG,American Growth (AGF),Available
+LAGPO,Aggressive Portfolio (PSG),Available
+LAGPR,Aggressive Profile (PSG),Available
+JPMIN,Sustainable Income (JPM),Available
+LBABG,Balanced (Beutel Goodman),Available
+LBAPR,Balanced Profile (PSG),Available
+LBAPO,Balanced Portfolio (PSG),Available
+LBIG,Balanced Index (Mackenzie),Available
+LBMK,Global Strategic Income (Mackenzie),Available
+LBOBG,Bond (Beutel Goodman),Available
+LCBG,Cdn Core Fixed Income (Mackenzie),Available
+LCBIL,Cdn Bond Universe Index (Mackenzie),Available
+LCBM,Strategic Income (Mackenzie),Available
+LCEG,Canadian All Cap Growth (Mackenzie),Available
+LCFPR,Advanced Profile (PSG),Available
+LCEGM,Canadian Core Growth (Mackenzie),Available
+LCEMO,Canadian Equity (Montrusco Bolton),Not Available
+LCOPR,Conservative Profile (PSG),Available
+LCOMK,Global Low Volatility (ILIM),Available
+LCOPO,Conservative Portfolio (PSG),Available
+LCRAG,Global Resources (Mackenzie),Available
+LDG,Strategic Income III (Mackenzie),Available
+LDVDG,Dividend (Mackenzie),Available
+LDVDL,Cdn Diversified Divid (Mackenzie),Not Available
+LDVDM,Canadian Large Cap Dividend (Mackenzie),Available
+LEBG,Cdn Growth Balanced (Mackenzie),Available
+LEES,European Equity (Setanta),Available
+LEMK,Equity (Mackenzie),Available
+LGBG,Government Bond (Mackenzie),Available
+LGEL,Global Equity (Putnam),Available
+LGEM,Global Growth (Mackenzie),Available
+LGIMK,Canadian Balanced Ivy (Mackenzie),Available
+FEMK,Ivy Foreign Equity (Mackenzie),Available
+FIMB,Fixed Income (MFS),Available
+GDIVS,Global Dividend (Setanta),Available
+FRIMK,Floating Rate Income (Mackenzie),Available
+GECG,Global Equity (Capital Group),Available
+GEFC,Global Equity (Fiera Capital)  ,Available
+GEFPH,Global Equity Focus (PH&N),Available
+GEMB,Global Equity (MFS),Available
+GEMA,Global Equity (Mawer),Available
+GES,Global Equity (Sprucegrove),Available
+GGR,Global Growth (Renaissance),Available
+GGERP,Global Growth Equity (T Rowe Price),Available
+GINFL,Global Infrastr Equity (Mackenzie),Available
+GLEQC,Global Equity (CLAM),Available
+GRAF,US Focused Stock (Fidelity),Available
+GSCMK,Global Small-Mid Cap Equity (Mackenzie),Available
+GSRR,Global Sectors (Renaissance),Available
+H15,Harmonized 2015 Retirement (PSG),Not Available
+H20,Harmonized 2020 Retirement (PSG),Not Available
+H25,Harmonized 2025 (PSG),Available
+H30,Harmonized 2030 (PSG),Available
+H35,Harmonized 2035 (PSG),Available
+H40,Harmonized 2040 (PSG),Available
+H45,Harmonized 2045 (PSG),Available
+H55,Harmonized 2055 (PSG),Available
+H60,Harmonized 2060 (PSG),Available
+HCEPS,Harmonized Canadian Equity (PSG),Available
+HFEPS,Harmonized Foreign Equity (PSG),Available
+HFIPS,Harmonized Fixed Income (PSG),Available
+HSEPS,Harmonized Special Equity (PSG),Available
+HY15,Harmonized Con 2015 Retire (PSG),Not Available
+HY20,Harmonized Con Retire 2020 (PSG),Not Available
+HY25,Harmonized Conservative 2025 (PSG),Available
+MFS30,LifePlan 2030 (MFS),Available
+MFS35,LifePlan 2035 (MFS),Available
+MFS40,LifePlan 2040 (MFS),Available
+MFS45,LifePlan 2045 (MFS),Available
+MFS50,LifePlan 2050 (MFS),Available
+MFS55,LifePlan 2055 (MFS),Available
+MFS60,LifePlan 2060 (MFS),Available
+MFSRT,LifePlan Retirement (MFS),Available
+MFS65,LifePlan 2065 (MFS),Available
+MTGE,Growth Equity (Montrusco Bolton),Available
+NABMK,North American High Yield Bond (Mackenzie),Available
+PBA,North American Balanced (Mackenzie),Available
+PCB,Balanced (CC&L),Available
+PCE,Canadian Equity (CC&L),Available
+PSB,Balanced Core (Fiera Capital),Available
+RES25,CL Education Savings Fund 2025,Available
+PSE,Equity (Fiera Capital),Available
+RES30,CL Education Savings Fund 2030,Available
+RES40,CL Education Savings Fund 2040,Available
+RES35,CL Education Savings Fund 2035,Available
+RESST,CL Study Fund,Available
+RRBP,Real Return Bond (Canada Life),Available
+S002,Canadian Equity (Mackenzie),Available
+S014,Strategic Income IV (Mackenzie),Not Available
+S019,Core Plus Bond (Mackenzie),Available
+S029,Money Market (LK) (Mackenzie),Available
+S034,Global Equity (Setanta),Available
+S036,Foreign Bond (CLAM),Available
+S038,Far East Equity (CLAM),Not Available
+S066,Global Equity (Montrusco Bolton),Not Available
+S079,Canadian Bond Index (TDAM),Available
+S080,Balanced Index (TDAM),Available
+S103,Canadian Equity (ClearBridge),Available
+S104,Balanced (Templeton),Available
+S105,Canadian Small Cap Equity (ClearBridge),Available
+S120,Canadian Equity Index (TDAM),Available
+S123,Canadian Equity (Fiera Capital),Not Available
+S124,Balanced (Fiera Capital),Not Available
+S143,Money Market (MFS),Not Available
+S147,Balanced Pension Trust (PH&N),Available
+S158,Core Plus Bond (Franklin Canada),Available
+S149,Bond (PH&N),Available
+S176,True North (Fidelity),Available
+S184,Global (Fidelity),Available
+S178,US Disciplined Value (Mackenzie),Available
+S196,Balanced (Leith Wheeler),Available
+S191,Canadian Asset Allocation (Fidelity),Available
+S195,Canadian Equity (Leith Wheeler),Available
+S228,Fixed Income (Fiera Capital),Not Available
+S201,Money Market (SRA),Not Available
+S208,Balanced (TD Greystone),Available
+S244,Global Equity Index (TDAM),Available
+S261,American Equity (Beutel Goodman),Available
+S311,Global Balanced (Jarislowsky Fraser),Available
+S269,Canadian Equity (PH&N),Available
+S288,Balanced (Invesco),Not Available
+S322,Long-Term Growth (Russell),Not Available
+S289,Canadian Growth (Invesco),Available
+S320,Multi-Asset Income Strategy (Russell),Not Available
+S321,Balanced Growth (Russell),Not Available
+S328,Multi-Asset Growth Strat (Russell),Not Available
+S329,US Companies (Invesco),Available
+S337,Canadian Core Plus Bond (Invesco),Not Available
+S605,Conservative Continuum (PSG),Available
+S606,Moderate Continuum (PSG),Available
+S608,Advanced Continuum (PSG),Available
+S607,Balanced Continuum (PSG),Available
+SICB,Bond (Fiera Capital),Not Available
+S609,Aggressive Continuum (PSG),Available
+LIETN,International Equity N (Templeton),Available
+LIBP,Global Bond (Brandywine),Available
+LIEP,International Equity (Putnam),Available
+LIG,Cdn Fix Income Bal III (Mackenzie),Available
+LINCL,Cdn Fix Income Bal (Mackenzie),Not Available
+LLCMK,Canadian Low Volatility (Mackenzie),Available
+LINMK,Cdn Fix Income Bal II (Mackenzie),Available
+LLEG,SRI Canadian Equity (Mackenzie),Available
+LIOP,International Opportunity (JPMorgan),Available
+LLBON,Core Bond (Mackenzie),Available
+LLDIV,Strategic Income II (Mackenzie),Available
+LLCNE,Canadian Value Equity (Mackenzie),Available
+LLINE,International Equity (JPMorgan),Available
+LLEMS,Emerging Markets (Mackenzie),Available
+LLMCG,US Mid Cap (Mackenzie),Available
+LLMRT,Mortgage (Canada Life),Available
+LLMON,Canadian Money Market (Mackenzie),Available
+LLSTG,Science & Technology (Mackenzie),Available
+LMCCG,Mid Cap Canada (Mackenzie),Available
+LLUSE,US Core Growth (Mackenzie),Available
+LMG,Commercial Mortgage (Canada Life),Available
+LMOPR,Moderate Profile (PSG),Available
+LMOPO,Moderate Portfolio (PSG),Available
+LNRM,Global Resource (Mackenzie),Available
+LREG,Real Estate (GWLRA),Available
+LPMM,Precious Metals (Mackenzie),Available
+LSCMK,Smaller Company (Mackenzie),Available
+LSGAG,Far East (CLAM),Available
+LTBL,Long Term Bond (Canada Life),Available
+LUSEG,US Large Cap Equity (Mackenzie),Available
+LUSET,US Equity Index (TDAM),Available
+LUSMO,US Equity (Montrusco Bolton),Not Available
+MFS25,LifePlan 2025 (MFS),Available
+USLVP,US Low Volatility (Putnam),Available
+USVEP,US Value Equity (Putnam),Available
+2003,Manulife Balanced Asset Allocation Fund34,Available
+2000,Manulife Retirement Income Fund34,Available
+SRBP,SRI Bond (Mackenzie),Available
+2142,Manulife Fidelity ClearPath 2015 Portfolio34,Available
+2143,Manulife Fidelity ClearPath 2020 Portfolio34,Available
+2025,Manulife Retirement Date 2025 Fund34,Available
+2040,Manulife Retirement Date 2040 Fund34,Available
+ULTBP,Ultra Long Term Bond (Canada Life),Available
+2146,Manulife Fidelity ClearPath 2035 Portfolio34,Available
+2147,Manulife Fidelity ClearPath 2040 Portfolio34,Available
+2149,Manulife Fidelity ClearPath 2050 Portfolio34,Available
+2150,Manulife Fidelity ClearPath 2055 Portfolio34,Available
+2151,Manulife Fidelity ClearPath 2060 Portfolio34,Available
+2161,Manulife MFS Conservative Allocation Fund34,Available
+2162,Manulife MFS Moderate Allocation Fund34,Available
+2163,Manulife MFS Growth Allocation Fund34,Available
+2193,Manulife Group IncomePlus Balanced Asset Allocation Fund,Available
+2231,Manulife CI Portfolio Series Income Fund34,Available
+2232,Manulife CI Portfolio Series Moderate Fund34,Available
+2233,Manulife CI Portfolio Series Balanced Fund34,Available
+2234,Manulife CI Portfolio Series Growth Fund34,Available
+2235,Manulife CI Portfolio Series Maximum Growth Fund34,Available
+2240,Manulife CI LifeCycle Income Portfolio Fund34,Available
+2242,Manulife CI LifeCycle 2025 Portfolio Fund3,Available
+2243,Manulife CI LifeCycle 2030 Portfolio Fund3,Available
+2244,Manulife CI LifeCycle 2035 Portfolio Fund3,Available
+2245,Manulife CI LifeCycle 2040 Portfolio Fund3,Available
+2246,Manulife CI LifeCycle 2045 Portfolio Fund3,Available
+2247,Manulife CI LifeCycle 2050 Portfolio Fund3,Available
+2248,Manulife CI LifeCycle 2055 Portfolio Fund3,Available
+2288,Manulife Russell Investments Multi-Asset Income Strategy Fund34,Available
+2289,Manulife Russell Investments Long-Term Growth Fund34,Available
+2311,Manulife BlackRock Balanced Conservative Index Fund34,Available
+2312,Manulife BlackRock Balanced Moderate Index Fund34,Available
+2313,Manulife BlackRock Balanced Aggressive Index Fund34,Available
+2321,Manulife BlackRock LifePath Retirement Index Fund34,Available
+2325,Manulife BlackRock LifePath Index 2025 Fund34,Available
+2326,Manulife BlackRock LifePath Index 2030 Fund34,Available
+2327,Manulife BlackRock LifePath Index 2035 Fund34,Available
+2328,Manulife BlackRock LifePath Index 2040 Fund34,Available
+2241,Manulife CI LifeCycle 2020 Portfolio Fund3,Available
+2329,Manulife BlackRock LifePath Index 2045 Fund34,Available
+2330,Manulife BlackRock LifePath Index 2050 Fund34,Available
+2324,Manulife BlackRock LifePath Index 2020 Fund345,Available
+2331,Manulife BlackRock LifePath Index 2055 Fund34,Available
+2500,Manulife Franklin LifeSmart Retirement Portfolio34,Available
+2332,Manulife BlackRock LifePath Index 2060 Fund34,Available
+2531,Manulife Franklin LifeSmart 2025 Fund34,Available
+2532,Manulife Franklin LifeSmart 2030 Fund34,Available
+2533,Manulife Franklin LifeSmart 2035 Fund34,Available
+2534,Manulife Franklin LifeSmart 2040 Fund34,Available
+2535,Manulife Franklin LifeSmart 2045 Fund34,Available
+2536,Manulife Franklin LifeSmart 2050 Fund34,Available
+2537,Manulife Franklin LifeSmart 2055 Fund34,Available
+2581,Manulife Fidelity ClearPath Institutional 2015 Fund34,Available
+2582,Manulife Fidelity ClearPath Institutional 2020 Fund34,Available
+2583,Manulife Fidelity ClearPath Institutional 2025 Fund34,Available
+2584,Manulife Fidelity ClearPath Institutional 2030 Fund34,Available
+SRBAL,SRI Balanced (Mackenzie),Available
+2002,Manulife Moderate Asset Allocation Fund34,Available
+STBP,Canadian Short Term Bond (Mackenzie),Available
+2004,Manulife Growth Asset Allocation Fund34,Available
+TRIG,Income Growth (Invesco),Available
+UFIMK,Unconstrained Fixed Income (Mackenzie),Available
+2030,Manulife Retirement Date 2030 Fund34,Available
+2035,Manulife Retirement Date 2035 Fund34,Available
+USEJF,US Equity (Jarislowsky Fraser),Available
+USESR,US Equity (SRA),Not Available
+2050,Manulife Retirement Date 2050 Fund34,Available
+USIXG,US Index Registered (Mackenzie)*,Available
+2060,Manulife Retirement Date 2060 Fund34,Available
+USMER,Socially Responsible US Equity (NEI),Not Available
+2005,Manulife Aggressive Asset Allocation Fund34,Available
+TRGE,Global Equity (Invesco),Available
+USDVG,US Dividend (Mackenzie),Available
+2144,Manulife Fidelity ClearPath 2025 Portfolio34,Available
+2145,Manulife Fidelity ClearPath 2030 Portfolio34,Available
+USGSL,US Mid Cap Equity (Mackenzie),Not Available
+2045,Manulife Retirement Date 2045 Fund34,Available
+2055,Manulife Retirement Date 2055 Fund34,Available
+USLC,US Large Cap Core Instl (Fidelity)*,Available
+USITD,US Index Registered (TDAM)* ,Available
+2140,Manulife Fidelity ClearPath Income Portfolio34,Available
+2141,Manulife Fidelity ClearPath 2010 Portfolio34,Available
+4136,Manulife MIM Strategic Fixed Income Fund,Available
+4138,Manulife MIM Canadian Core Plus Fixed Income Fund,Available
+4139,Manulife AlphaFixe ESG Return Plus Fund,Available
+4141,Manulife Fidelity Canadian Bond Fund,Available
+4142,Manulife FIAM Canadian Bond Fund,Available
+4143,Manulife FIAM Canadian Bond Core Plus Fund,Available
+4161,Manulife MFS Fixed Income Fund,Available
+4162,Manulife MFS Long Term Fixed Income Fund,Available
+4173,Manulife Canso Corporate Bond Fund,Available
+4191,Manulife MIM Canadian Bond Index Fund,Available
+4202,Manulife CIBC Canadian Bond Core Plus Fund,Available
+4231,Manulife CI Canadian Core Bond Fund,Available
+4242,Manulife Jarislowsky Fraser Bond Fund,Available
+4271,Manulife PH&N Bond Fund,Available
+4273,Manulife PH&N Short Term Bond & Mortgage Fund,Available
+4274,Manulife PH&N LongTerm Bond Fund,Available
+4280,Manulife PH&N Core Plus Bond Fund,Available
+4292,Manulife Guardian Bond Fund,Available
+4322,Manulife BlackRock Long Bond Index Fund,Available
+4323,Manulife BlackRock Canada Universe Bond Index Fund,Available
+4341,Manulife abrdn Emerging Markets Debt Fund,Available
+4372,Manulife AllianceBernstein Canadian Core Plus Bond Fund,Available
+4413,Manulife Brandywine Global Fixed Income Fund,Available
+4442,Manulife MIM Canadian Corporate Fixed Income Fund,Available
+4444,Manulife MMF Strategic Investment Grade Global Bond Fund,Available
+4446,Manulife MMF US Unconstrained Bond Fund,Available
+4447,Manulife MMF Global Unconstrained Bond Fund,Available
+4501,Manulife Franklin Canadian Core Plus Bond Fund,Available
+4503,Manulife Templeton Global Bond Fund,Available
+4632,Manulife Beutel Goodman Fixed Income Fund,Available
+4660,Manulife Canadian Mortgage Fund,Available
+4661,Manulife MIM Short Term Bond Fund,Available
+4663,Manulife MIM Real Return Bond Fund5,Available
+4702,Manulife Fiera Capital Active Fixed Income Fund,Available
+4703,Manulife Fiera Capital Bond Fund,Available
+4981,Manulife Quantitative Universe Bond Fund (Optimum),Available
+4991,Manulife PIMCO Canadian Core Plus Bond Fund,Available
+5011,Manulife Balanced Fund3,Available
+5012,Manulife Multi-Manager Balanced Fund3,Available
+5091,Manulife Franklin Canadian Balanced Fund3,Available
+5121,Manulife NEI Global Sustainable Balanced Fund3,Available
+5132,Manulife MMF Monthly High Income Fund3,Available
+5141,Manulife Fidelity Canadian Asset Allocation Fund3,Available
+5161,Manulife MFS Balanced Growth Fund3,Available
+5162,Manulife MFS Responsible Balanced Fund35,Available
+5163,Manulife MFS Balanced Value Fund3,Available
+5164,Manulife MFS Balanced Fund3,Available
+5181,Manulife Invesco Income Growth Fund3,Available
+5233,Manulife CI Canadian Balanced Fund3,Available
+5241,Manulife Jarislowsky Fraser Balanced Fund (Registered Plans Only)3,Available
+5271,Manulife PH&N Balanced Pension Trust Fund3,Available
+5291,Manulife Guardian Ethical Balanced SRI Fund3,Available
+5292,Manulife Guardian Managed Balanced Fund3,Available
+5302,Manulife Leith Wheeler Diversified Pooled Fund3,Available
+5313,Manulife CC&L Group Balanced Plus Fund3,Available
+5441,Manulife MMF Fundamental Income Fund3,Available
+5444,Manulife MMF Global Strategic Balanced Yield Fund,Available
+5145,Manulife Fidelity Global Asset Allocation Fund3,Available
+5445,Manulife MMF Global Monthly High Income Fund,Available
+5446,Manulife MMF Yield Opportunities Fund,Available
+2586,Manulife Fidelity ClearPath Institutional 2040 Fund34,Available
+2587,Manulife Fidelity ClearPath Institutional 2045 Fund34,Available
+2588,Manulife Fidelity ClearPath Institutional 2050 Fund34,Available
+2589,Manulife Fidelity ClearPath Institutional 2055 Fund34,Available
+2590,Manulife Fidelity ClearPath Institutional 2060 Fund34,Available
+2661,Manulife Income Index Portfolio Fund34,Available
+2663,Manulife Balanced Index Portfolio Fund34,Available
+2664,Manulife Growth Index Portfolio Fund34,Available
+2680,Manulife MFS LifePlan Retiree Fund34,Available
+2683,Manulife MFS LifePlan Retirement 2025 Fund34,Available
+2684,Manulife MFS LifePlan Retirement 2030 Fund34,Available
+2685,Manulife MFS LifePlan Retirement 2035 Fund34,Available
+2686,Manulife MFS LifePlan Retirement 2040 Fund34,Available
+2688,Manulife MFS LifePlan Retirement 2050 Fund34,Available
+2689,Manulife MFS LifePlan Retirement 2055 Fund34,Available
+2690,Manulife MFS LifePath Retirement 2060 Fund34,Available
+3131,Manulife Money Fund (MIM),Available
+3132,Manulife Canadian Money Market Fund (MIM),Available
+3191,Manulife Daily High Interest Fund,Available
+3501,Manulife Franklin Canadian Money Market Fund,Available
+4012,Manulife Multi-Manager Canadian Bond Fund,Available
+4013,Manulife SP Funds Dow Jones Global Sukuk ETF Fund,Available
+4101,Manulife Foresters Canadian Bond Fund,Available
+4131,Manulife Canadian Bond Fund (MIM),Available
+4132,Manulife MIM Canadian Core Fixed Income Fund,Available
+4133,Manulife MIM Canadian Long Duration Fixed Income Fund,Available
+5481,Manulife Greystone Balanced Fund3,Available
+7481,Manulife Greystone Canadian Equity Fund,Available
+7161,Manulife MFS Canadian Equity Fund,Available
+7163,Manulife MFS Low Volatility Canadian Equity Fund,Available
+7164,Manulife MFS Canadian Research Equity Fund,Available
+7181,Manulife Invesco Canadian Fund,Available
+7232,Manulife CI Canadian All Cap Equity Fund,Available
+7241,Manulife Jarislowsky Fraser Canadian Equity Fund,Available
+7272,Manulife PH&N Canadian Equity Fund,Available
+7282,Manulife Russell Canadian Equity Fund,Available
+7293,Manulife Guardian Canadian Growth Equity Fund,Available
+7294,Manulife Guardian Canadian Equity Fund,Available
+7314,Manulife CC&L Equity Income & Growth Fund,Available
+7316,Manulife CC&L Group Fundamental Canadian Equity Fund,Available
+7321,Manulife BlackRock Active Canadian Equity Fund,Available
+7322,Manulife BlackRock Canadian Equity Index Fund,Available
+7382,Manulife FGP Canadian Equity Fund,Available
+7441,Manulife MMF Canadian Dividend Growth Fund,Available
+7442,Manulife MMF Fundamental Dividend Fund,Available
+7451,Manulife Mawer Canadian Equity Fund,Available
+7502,Manulife Franklin ClearBridge Canadian Equity Fund,Available
+7503,Manulife Franklin ClearBridge Canadian Small Cap Fund,Available
+7601,Manulife Scheer Rowlett Canadian Equity Fund,Available
+7631,Manulife Beutel Goodman Canadian Equity Fund5,Available
+7632,Manulife Beutel Goodman Fundamental Canadian Equity Fund,Available
+7636,Manulife Beutel Goodman Fundamental Canadian Equity Fund II,Available
+7661,Manulife MIM Canadian Core Equity Fund,Available
+7701,Manulife Fiera Capital Canadian Equity Fund,Available
+7702,Manulife Fiera Capital Canada Plus Equity Fund,Available
+7761,Manulife GE Asset Management Canadian Equity Fund,Available
+7811,Manulife TD Dividend Growth Fund,Available
+7971,Manulife NEI Canadian Equity RS Fund II,Available
+7973,Manulife NEI ESG Canadian Enhanced Index Fund,Available
+8013,Manulife Multi-Manager US Equity Fund,Available
+8014,Manulife Multi-Manager International Equity Fund,Available
+8015,Manulife Multi-Manager Global Equity Fund,Available
+8016,Manulife SP Funds Shariah S&P 500 ETF Fund,Available
+8051,Manulife Schroders Emerging Markets Equity Fund,Available
+8113,Manulife AGF Emerging Markets Equity Fund,Available
+8114,Manulife AGF Global Equity Fund9,Available
+8115,Manulife AGF American Growth Equity,Available
+8121,Manulife NEI US Equity RS Fund,Available
+8131,Manulife MIM US Equity Index Fund,Available
+8132,Manulife MIM US Large Cap Core Fund,Available
+8136,Manulife MIM Global Equity II Fund,Available
+7871,Manulife BMO AM Canadian Small-Cap Equity Fund,Available
+8137,Manulife MIM Emerging Markets Equity Fund,Available
+8139,Manulife MIM Global Small Cap Equity Fund,Available
+8011,Manulife EAFE Plus Equity Fund (Pictet),Available
+8141,Manulife Fidelity Global Fund,Available
+8142,Manulife Fidelity US Stock Focused Fund,Available
+8143,Manulife Fidelity American Disciplined Equity Fund,Available
+8161,Manulife MFS Global Equity Growth Fund5,Available
+8162,Manulife MFS International Equity Fund5,Available
+8163,Manulife MFS US Equity Core Fund I5,Available
+8181,Manulife Invesco Global Companies Fund,Available
+8182,Manulife Invesco Global Real Estate Fund,Available
+8184,Manulife Invesco Global Small-Cap Equity Fund,Available
+8185,Manulife Invesco US Small-Cap Value Equity Fund,Available
+5585,Manulife FGP Diversified Fund3,Available
+8112,Manulife AGF Global Equity Fund II,Available
+5631,Manulife Beutel Goodman Balanced Fund3,Available
+5661,Manulife MIM Diversified Fund3,Available
+5682,Manulife MFS Balanced Growth Fund II3,Available
+5702,Manulife Fiera Capital SRI Balanced Fund3,Available
+5703,Manulife Fiera Capital Balanced Fund3,Available
+5972,Manulife NEI Select Balanced RS Portfolio Fund II3,Available
+6203,Manulife Group IncomePlus Balanced Asset Allocation Fund,Available
+7011,Manulife Canadian Equity Fund5,Available
+7013,Manulife Multi-Manager Canadian Large Cap Core Fund,Available
+7014,Manulife Multi-Manager Canadian Large Cap Value Fund,Available
+7021,Manulife QV Canadian Equity Fund,Available
+7032,Manulife Montrusco Bolton Canadian Small Capitalization Equity Fund,Available
+7081,Manulife Triasima Canadian Equity Fund,Available
+7121,Manulife MIM Canadian Large Cap Growth Fund,Available
+7122,Manulife MMF Growth Opportunities Fund,Available
+7125,Manulife NEI Canadian Equity RS Fund,Available
+7131,Manulife Canadian Large Cap Value Equity Fund (MIM),Available
+7132,Manulife MIM Canadian Equity Index Fund,Available
+7136,Manulife MIM Canadian Core Equity Focused Fund,Available
+7141,Manulife Fidelity Canadian Large Cap Fund,Available
+7142,Manulife Fidelity Canadian Core Equity Institutional Fund,Available
+7143,Manulife Fidelity True North Fund,Available
+7144,Manulife Fidelity Canadian Disciplined Equity Fund,Available
+7146,Manulife FIAM Canadian Focused Equity Fund,Available
+7149,Manulife Fidelity Canadian Growth Company Fund,Available
+8231,Manulife CI American Value Fund,Available
+8911,Manulife Hexavest Global Equity Fund,Available
+9577,Manulife Canadian Pooled Real Estate Fund,Available
+8401,Manulife Boston Partners International Equity Fund,Available
+8402,Manulife Boston Partners Global Equity Fund,Available
+8421,Manulife Aristotle Capital International Equity Fund,Available
+8432,Manulife JP Morgan Emerging Markets Fund,Available
+8441,Manulife Global Dividend Growth Fund  (MAM),Available
+8442,Manulife MMF Global Franchise Fund,Available
+8444,Manulife MMF US Dividend Income Fund,Available
+8451,Manulife Mawer US Equity Fund,Available
+8457,Manulife Mawer Global Equity Fund,Available
+8505,Manulife Franklin US Rising Dividends Fund,Available
+8508,Manulife Franklin Global Growth Equity Fund,Available
+8521,Manulife Nordea Stable Return Fund,Available
+8581,Manulife Fidelity Global Real Estate Fund,Available
+8582,Manulife FIAM Select International Equity Fund,Available
+8583,Manulife FIAM Select Global Equity Fund,Available
+8631,Manulife Beutel Goodman American Equity Fund,Available
+8633,Manulife Beutel Goodman Global Equity Fund,Available
+8341,Manulife Aberdeen International Equity Fund,Available
+8431,Manulife JP Morgan Global Intrepid Fund,Available
+8634,Manulife Beutel Goodman International Equity Fund,Available
+8660,Manulife MIM Hedged US Equity Index Fund,Available
+8664,Manulife MIM US Equity Direct Index Registered Fund,Available
+8670,Manulife MIM International Equity Index Fund,Available
+8671,Manulife MIM Global Climate Fund,Available
+8672,Manulife MIM Global Equity Index Fund,Available
+8681,Manulife MFS International Equity Fund II,Available
+8683,Manulife MFS US Equity Core Fund,Available
+8684,Manulife MFS Global Growth Equity Fund,Available
+8688,Manulife MFS Global Research Equity Fund,Available
+8703,Manulife Fiera Capital US Equity Fund,Available
+8741,Manulife TRowe Price Global Focused Growth Equity Fund,Available
+8762,Manulife State Street US Equity Fund,Available
+8812,Manulife TD Low Volatility All World Equity Fund,Available
+8813,Manulife TDAM Hedged Synthetic International Equity Index Fund,Available
+8814,Manulife Epoch US Shareholder Yield Fund,Available
+8815,Manulife Epoch Global Shareholder Yield Fund,Available
+8852,Manulife US Equity Fund (abrdn),Available
+8853,Manulife US Equity Non-Registered Fund (abrdn),Available
+8871,Manulife BMOAM US Equity Fund,Available
+8931,Manulife Lazard Global Small-Cap Equity Fund,Available
+8932,Manulife Lazard Global Infrastructure Fund,Available
+8971,Manulife NEI US Equity RS Fund II,Available
+8972,Manulife NEI International Equity RS Fund,Available
+8973,Manulife NEI Environmental Leaders Fund,Available
+9064,Manulife Schroder Diversified Growth Fund,Available
+9575,Manulife Canadian Real Estate Fund,Available
+8196,Manulife Wellington US Quality Growth Fund,Available
+8203,Manulife CIBC Global Equity Growth Fund,Available
+F00000JSEU,SL MFS US Growth Seg Fund,Available
+F00000MCRN,SL BlackRock Canadian Equity Seg Fund,Available
+F00000MJTJ,Russell 1000 TR CAD,Benchmark
+F00000JSEV,SL MFS US Value Seg Fund,Available
+8244,Manulife Jarislowsky Fraser International Equity Fund,Available
+8254,Manulife Russell US Equity Fund,Available
+F00000H9MM,SL 2045 Milestone Seg Fund,Available
+F00000JSEW,SL MFS Global Value Seg Fund,Available
+8262,Manulife Pier 21 Global Value Fund,Available
+F00000JSEX,SL MFS Global Growth Seg Fund,Available
+8292,Manulife Guardian i3 Global Equity Fund,Available
+8233,Manulife CI Synergy American Fund,Available
+8311,Manulife CC&L Q Group Global Equity Fund,Available
+F00000M0AT,MSCI EAFE - JF Net CAD,Benchmark
+F00000MO4H,Invesco Global Companies Benchmark,Benchmark
+8323,Manulife BlackRock US Equity Index Fund (Taxable),Available
+8324,Manulife BlackRock ACWI ex-Canada Index Fund,Available
+F00000MSJT,SLF PH&N Short Bond Seg Fund,Available
+F00000HGU1,SL 2045 Milestone Benchmark,Benchmark
+8272,Manulife RBC Emerging Markets Equity Fund,Available
+8291,Manulife Guardian US Equity Fund,Available
+8204,Manulife Walter Scott Global Equity Growth Fund,Available
+8322,Manulife BlackRock US Equity Index Fund (Registered Plans Only),Available
+8234,Manulife CI Global Leaders Fund,Available
+8243,Manulife Jarislowsky Fraser US Equity Fund,Available
+8326,Manulife BlackRock Emerging Markets Index Fund,Available
+8255,Manulife Russell Multi-Asset Growth Strategy Fund,Available
+8327,Manulife BlackRock Global REIT Index Fund,Available
+8256,Manulife Russell International Equity Fund,Available
+8329,Manulife BlackRock Global Infrastructure Index Fund,Available
+F00000JSEZ,SL MFS International Value Seg Fund,Available
+8342,Manulife abrdn Global Equity Fund,Available
+8361,Manulife Sprucegrove International Equity Fund,Available
+8362,Manulife Sprucegrove Global Equity Fund,Available
+8321,Manulife BlackRock International Equity Index Fund,Available
+8382,Manulife FGP International Equity Fund,Available
+F00000NMH4,SL Granite 2020 Conservative Seg Fund,Not Available
+F00000SA71,Fiera Global Equity Segregated Fund,Available
+F00000PH12,MSCI EM NR CAD,Benchmark
+F00000PEB3,SL Dynamic Strategic Yield Benchmark,Benchmark
+F00000NMH8,SL Granite 2020 Moderate Seg Fund,Not Available
+F00000PECR,SL Dynamic Equity Income Seg Fund,Available
+F00000MTDR,60% S&P/TSX Sm Cap 40% S&P/TSX Complete,Available
+F00000PH36,Fidelity ClearPath 2055 Port Seg Fund,Available
+F00000Q629,PH&N Cdn Equity Value Segregated Fund,Available
+F00000Q62F,SL Granite Enhanced Income Seg Fund,Available
+F00000QFU4,BGO Canadian Real Estate Plus Seg Fund,Available
+F00000SA73,TDAM Globl Eq Shareholder Yld Seg Fd Reg,Available
+F00000SA74,Fiera International Equity Seg Fund,Available
+F00000SCFE,MSCI World Index Net Dividend (C$),Benchmark
+F00000O9GC,Consumer Price Index + 5% Benchmark,Benchmark
+F00000T687,SL Granite 2025 Aggressive Seg Fund,Available
+F00000T688,SL Granite 2035 Aggressive Seg Fund,Available
+F00000T689,SL Granite 2045 Aggressive Seg Fund,Available
+F00000T68B,SL Granite 2025 Conservative Seg Fund,Available
+F00000T68C,SL Granite 2035 Conservative Seg Fund,Available
+F00000T68D,SL Granite 2045 Conservative Seg Fund,Available
+F00000T68F,SL Granite 2025 Moderate Seg Fund,Available
+F00000T68G,SL Granite 2035 Moderate Seg Fund,Available
+F00000T68H,SL Granite 2045 Moderate Seg Fund,Available
+F00000T6D9,SL Granite Aggressive 2035 Benchmark,Benchmark
+F00000T6DA,SL Granite Aggressive 2045 Benchmark,Benchmark
+F00000SA72,Franklin Global Growth Segregated Fund,Not Available
+F00000T6DC,SL Granite Conservative 2025 Benchmark,Benchmark
+F00000T6DD,SL Granite Conservative 2035 Benchmark,Benchmark
+F00000T6DE,SL Granite Conservative 2045 Benchmark,Benchmark
+F00000TWBF,TDAM US Market Index Seg Fund (Reg),Available
+F00000ONYY,MFS® Balanced Growth Benchmark,Benchmark
+F00000ONYZ,MFS® Balanced Value Benchmark,Benchmark
+F00000PECQ,SL Dynamic Strategic Yield Seg Fund,Available
+F00000MSJZ,Invesco Global Real Est Seg Fund-Listed,Available
+F00000MSK0,SL Schroder Emerging Markets Seg Fund,Available
+F00000MTDQ,JPM Global Government Bond Index (C$),Benchmark
+F00000NCJU,SL Granite 2050 Seg Fund,Available
+F00000ND1J,SL Granite 2050 Benchmark,Benchmark
+F00000NMH1,SL Granite 2030 Aggressive Seg Fund,Available
+F00000NUJE,MFS® Global Benchmark,Benchmark
+F00000NMH2,SL Granite 2040 Aggressive Seg Fund,Available
+F00000NMH3,SL Granite 2050 Aggressive Seg Fund,Available
+F00000NMH5,SL Granite 2030 Conservative Seg Fund,Available
+F00000NMH6,SL Granite 2040 Conservative Seg Fund,Available
+F00000NMKT,SL Granite Conservative 2040 Benchmark,Benchmark
+F00000NZ56,Lazard Gl Listed Infrastructure Seg Fund,Available
+F00000P794,TDAM Low Volatility Cdn Equity Seg Fund,Available
+F00000NUJF,MFS International Benchmark,Benchmark
+F00000PH35,Fidelity ClearPath 2050 Port Seg Fund,Available
+F00000PGYD,MSCI EAFE GR CAD,Available
+F00000NMIP,SL Granite Aggressive 2020 Benchmark,Benchmark
+F00000PH0W,MSCI World GR CAD,Benchmark
+F00000ONYX,S&P 500 Net of dividends Index,Benchmark
+F00000NMIT,SL Granite Conservative 2020 Benchmark,Benchmark
+F00000PH3H,Fidelity Clearpath 2050 Benchmark,Benchmark
+F00000Q628,Invesco Global Small Cap Equity Seg Fund,Available
+F00000Q62B,PIMCO Canada Cdn CorePLUS Bond Seg Fund,Available
+F00000Q62C,TDAM Active Cdn Corporate Bond Seg Fund,Available
+F00000Q62D,TDAM Canadian Core Plus Bond Seg Fund,Available
+F00000Q62E,SL Granite Income Seg Fund,Available
+F00000Q65T,SL Granite Income Benchmark,Benchmark
+F00000Q65U,SL Granite Enhanced Income Benchmark,Benchmark
+F00000QAE7,MSCI ACWI Small Cap Index (Cdn $),Benchmark
+F00000QG64,BGO Real Estate Plus Benchmark,Benchmark
+F00000SA70,Fiera US Equity Segregated Fund,Available
+F00000SA75,Schroder Diversified Growth Seg Fund,Available
+F00000SCFF,Schroder Diversified Growth Benchmark,Benchmark
+F00000T6CI,BlackRock Emerging Markets Benchmark,Benchmark
+F00000QK01,CI Canadian Equity Segregated Fund,Not Available
+F00000T6D8,SL Granite Aggressive 2025 Benchmark,Benchmark
+F00000MTDS,FTSE EPRA Nareit Developed Real Estate CAD,Benchmark
+F00000NMH7,SL Granite 2050 Conservative Seg Fund,Available
+F00000NMH9,SL Granite 2030 Moderate Seg Fund,Available
+F00000NMHB,SL Granite 2050 Moderate Seg Fund,Available
+F00000NMHA,SL Granite 2040 Moderate Seg Fund,Available
+F00000NMIO,SL Granite Aggressive 2030 Benchmark,Benchmark
+F00000NMIQ,SL Granite Aggressive 2040 Benchmark,Benchmark
+F00000NMIR,SL Granite Aggressive 2050 Benchmark,Benchmark
+F00000NMIS,SL Granite Conservative 2030 Benchmark,Benchmark
+F00000NMIU,SL Granite Conservative 2050 Benchmark,Benchmark
+F00000MSJV,SLF PH&N Long Bond Seg Fund,Available
+F00000MSJW,Templeton Global Bond Segregated Fund,Available
+F00000OLOB,BLK LifePath Index 2050 Segregated Fund,Available
+F00000OM6J,BLK LifePath Index 2050 Benchmark,Benchmark
+F00000NMH0,SL Granite 2020 Aggressive Seg Fund,Not Available
+F000011DMZ,BLK LifePath Index 2060 Benchmark,Benchmark
+F000011E5T,BLK LifePath Index 2060 Segregated Fund,Available
+F000011KRL,MSCI ACW ex US Index (C$),Benchmark
+F000011P5S,Morgan Stanley Gl Franchise Seg Fund NR,Available
+F000011XHN,Morgan Stanley GI Franchise Seg Fd (Reg),Available
+F000010TYW,SL Schroder Global Mid Cap Seg Fd,Available
+F000012530,MFS LifePlan Retirement 2060 Benchmark,Benchmark
+F0000139VT,MFS LifePlan Retirement 2060 Seg Fund,Available
+F000013HSS,PIMCO Monthly Income Benchmark,Benchmark
+F000013KCF,PIMCO Canada Monthly Income Seg Fund,Available
+F000013PWV,SL Granite Conservative 2060 Benchmark,Benchmark
+F000013PWW,SL Granite 2060 Benchmark,Benchmark
+F000013QNX,SL Granite 2060 Aggressive Seg Fund,Available
+F000013QNY,SL Granite 2060 Conservative Seg Fund,Available
+F000013QNZ,SL Granite 2060 Moderate Seg Fund,Available
+F000013QO0,SL Granite 2060 Seg Fund,Available
+F000014H4A,Franklin Global Real Assets Seg Fund,Available
+F000014FHD,Mawer US Equity Segregated Fund,Available
+F000014H4D,SL Multi-Strategy Real Asset Seg Fund,Available
+F000014H6K,Sun Life Real Asset Benchmark,Benchmark
+F00000VOOP,BLK LifePath Index 2055 Segregated Fund,Available
+F000014M0L,MSCI ACW Index Net (C$),Benchmark
+F0000159TR,JF SmallMid Cap Equity Segregated Fund,Available
+F000015HNN,SL Multi-Strategy Core Plus Bond Seg Fd,Available
+F0000161R4,Schroder Global Sustainable Grwth Seg Fd,Available
+F000016OJ8,TDAM Global Eq Shareholder Yield Seg Fd,Available
+F000016STN,Global Alpha Group Global Small Cp Sg Fd,Available
+F00001CHQ9,PH&N Fossil Fuel Free Bond Seg Fund,Available
+F00001CHQA,PH&N Fossil Fuel Free LwVol Cdn Eq Sg Fd,Available
+F00001CHQB,PH&N Fossil Fuel Free ST Bond Seg Fund,Available
+F00001CHQC,PH&N Short Core Plus Bond Seg Fund,Available
+F00001D74H,MSCI ACWI Islamic Index TR (C$),Benchmark
+F00001D74I,BLK LifePath Index 2065 Benchmark,Benchmark
+F00001D836,BlackRock MSCI ACWI Islamic Eq Index Fnd,Available
+F00000VOOQ,SL Granite 2055 Seg Fund,Available
+F00000VOSI,BLK LifePath Index 2055 Benchmark,Benchmark
+F00000VOSJ,SL Granite Aggressive 2055 Benchmark,Benchmark
+F00000VOSK,SL Granite Conservative 2055 Benchmark,Benchmark
+F00000W2E8,AlphaFixe Return Plus Segregated Fund,Available
+F00000WNR2,Mawer Global Equity Seg Fund,Available
+F00000WUXJ,SL MFS Low Vol Intl Equity Seg Fund,Available
+F00000WUXK,MFS LifePlan Retirement 2055 Seg Fund,Available
+F00000WUYE,MFS LifePlan Retirement 2055 Benchmark,Benchmark
+F00000XBW8,SL Opportunistic Fixed Income Seg Fund,Available
+F00000XCBQ,SL Opportunistic Fixed Income Benchmark,Benchmark
+F00000XDOW,T Rowe US LC Core Growth Seg Fund (Reg),Available
+F00000YT9Q,TDAM Low Vol Global Equity Seg Fund,Available
+F00000X90V,SL 2055 Milestone Benchmark,Benchmark
+F00000ZCTE,Fiera Cash In Action Benchmark,Benchmark
+F00000YT9S,MFS Cdn Core Plus Fixed Income Seg Fund,Available
+F00000YT9T,MFS Global Fixed Income Segregated Fund,Available
+F00000YT9U,PH&N Fossil Fuel Free Global Eq Seg Fund,Available
+F00000YT9W,BlackRock ACWI Alpha Tilts Seg Fund(Reg),Available
+F00000YT9Z,T Rowe US LC Core Growth Seg Fund,Available
+F00000ZA2A,Mawer Global Benchmark,Benchmark
+F00000ZG0J,S&P Composite 1500 Index C$,Benchmark
+F0000102IW,SL Multi-Strategy Cdn Equity Seg Fund,Available
+F0000102IX,SL Multi-Strategy Global Equity Seg Fund,Available
+F000010AO3,Beutel Goodman Small Cap Benchmark,Benchmark
+F00000VIQH,TRP Global Growth Equity Seg Fund,Available
+F000010PAU,MSCI World Small Cap Index Net (C$),Benchmark
+F000010PCG,Fidelity ClearPath 2060 Port Seg Fund,Available
+F000010SJF,Fidelity Clearpath 2060 Benchmark,Benchmark
+F000010TYU,SLC Mgmt Core Plus Bond Seg Fund,Available
+F00000XMU2,Cambridge Asset Allocation Benchmark,Benchmark
+F00000XMW1,CI Canadian Asset Allocation Seg Fund,Not Available
+F000011P5T,SL Unconstrained International Eq Seg Fd,Available
+F000010SNK,MSCI World Small Cap C$ Index,Benchmark
+F000013PWU,SL Granite Aggressive 2060 Benchmark,Benchmark
+F0000147EG,WindWise Cdn Managed Volatility Seg Fund,Available
+F0000161R0,Capital Group Global Equity Seg Fund,Available
+F0000161R1,Capital Group US Equity Seg Fund,Available
+F000016XIO,MFS LifePlan Retirement 2065 Seg Fund,Available
+F00001767V,MFS LifePlan Retirement 2065 Benchmark,Benchmark
+F00001CUZO,PH&N Fossil Fuel Free Balanced Benchmark,Benchmark
+F00001D6E2,BLK LifePath Index 2065 Segregated Fund,Available
+F00000X8PN,SL 2050 Milestone Seg Fund,Available
+F00000X90S,SL 2050 Milestone Benchmark,Benchmark
+F00000X8PO,SL 2055 Milestone Seg Fund,Available
+F00000VOOR,SL Granite 2055 Moderate Seg Fund,Available
+F00000VOOS,SL Granite 2055 Conservative Seg Fund,Available
+F00000VOOT,SL Granite 2055 Aggressive Seg Fund,Available
+F00000VOSH,SL Granite 2055 Benchmark,Benchmark
+F000013PWT,SL 2060 Milestone Benchmark,Benchmark
+F000013QNW,SL 2060 Milestone Seg Fund,Available
+F00000YT9X,BlackRock US Eq Ind Hedged Seg Fund(Reg),Available
+F00000YTMS,S&P 500 CAD Daily Hedged Index,Benchmark
+FOUSA06OPO,CI Global Value Segregated Fund,Not Available
+FOUSA06OM2,MFS Cdn Fixed Income Segregated Fund,Available
+FOUSA06OM3,BG Balanced Segregated Fund,Available
+FOUSA06OM5,TDAM Hedged US Market Index Seg Fund,Available
+FOUSA06OM7,TDAM Intl Equity Index Segregated Fund,Available
+FOUSA06OMB,TDAM US Market Index Segregated Fund,Available
+FOUSA06OMC,CC&L Group Bond Segregated Fund,Available
+FOUSA06OMX,BG Global Segregated Fund,Available
+FOUSA06ON1,BG Income Segregated Fund,Available
+FOUSA06ON3,BG International Equity Segregated Fund,Available
+FOUSA06ON8,CC&L Q Group Global Equity Seg Fund,Available
+FOUSA06ONG,MFS Global Research Segregated Fund,Available
+FOUSA06ONR,PH&N Balanced Pension Trust Seg Fund,Available
+FOUSA06ONU,PH&N Bond Segregated Fund,Available
+FOUSA06OG1,TD Greystone Balanced Segregated Fund,Not Available
+FOUSA06ONZ,PH&N Dividend Income Segregated Fund,Available
+FOUSA06OO1,PH&N Global Equity Segregated Fund,Available
+F00001DG22,AlphaFixe Green Bond Segregated Fund,Available
+FOUSA06ONE,CC&L NS Partners Intl Equity Seg Fund,Available
+FOUSA06OOC,PH&N US Equity Segregated Fund,Available
+F00001E2BX,SL Granite 2065 Seg Fund,Available
+FOUSA06OOO,MFS LifePlan Retirement 2025 Seg Fund,Available
+FOUSA06OOP,MFS LifePlan Retirement 2030 Seg Fund,Available
+FOUSA06OLP,MFS® Balanced Value Segregated Fund,Available
+FOUSA06OOQ,MFS LifePlan Retirement 2035 Seg Fund,Available
+FOUSA06OOR,MFS LifePlan Retirement 2040 Seg Fund,Available
+FOUSA06OOS,BlackRock Cdn LEAF Segregated Fund,Available
+FOUSA06OOW,BLK US Eq Index Segregated Fund (Reg),Available
+FOUSA06OPY,Fidelity Cdn Asset Alloc Segregated Fund,Available
+F0CAN06YCT,SL 2025 Milestone Seg Fund,Available
+F0CAN06YCU,SL 2030 Milestone Seg Fund,Available
+F0CAN069WJ,MFS Responsible Cdn Research Eq Seg Fund,Available
+F0CAN06YCV,SL 2035 Milestone Seg Fund,Available
+FOUSA06OO5,PH&N Money Market Segregated Fund,Available
+FOUSA06OPV,CI Portfolio Series Max Growth Seg Fund,Available
+FOUSA06OPT,CI Portfolio Series Growth Seg Fund,Available
+FOUSA06OO7,CI US Stock Selection Segregated Fund,Not Available
+FOUSA06OOT,Sun Life Money Market Segregated Fund,Available
+FOUSA06OPP,CI Portfolio Series Bal Growth Seg Fund,Available
+FOUSA06OLE,MFS® Balanced Growth Segregated Fund,Available
+F00001E2BY,SL Granite 2065 Conservative Seg Fund,Available
+F00001E2BZ,SL Granite 2065 Aggressive Seg Fund,Available
+F00001E2C0,SL Granite 2065 Moderate Seg Fund,Available
+F00001E8EI,SL Granite Conservative 2065 Benchmark,Benchmark
+F00001E8EK,SL Granite 2065 Benchmark,Benchmark
+F00001E8EL,SL Granite Aggressive 2065 Benchmark,Benchmark
+F0CAN069W5,BLK Moderate Balanced Index Seg Fund,Available
+F0CAN069W6,BLK S&PTSX Composite Index Seg Fund,Available
+F0CAN069W7,BLK Aggressive Balanced Index Seg Fund,Available
+F0CAN069W9,BLK EAFE Equity Index Segregated Fund,Available
+F0CAN069WA,BLK Conservative Balanced Index Seg Fund,Available
+F0CAN069WB,BLK US Equity Index Segregated Fund,Available
+F0CAN069WN,CC&L Group Income and Growth Seg Fund,Available
+F0CAN06ZKT,BLK LifePath Index Retirement Seg Fund I,Available
+F0CAN06ZKV,BLK LifePath Index 2040 Segregated Fund,Available
+F0CAN06ZKX,BLK LifePath Index 2030 Segregated Fund,Available
+FOUSA06G9K,FTSE Canada All Corp Bond,Benchmark
+FOUSA06OLB,SL MFS US Equity Seg Fund,Available
+FOUSA06OLL,MFS Balanced Segregated Fund,Available
+FOUSA06OLU,MFS Low Volatility Canadian Eq Seg Fund,Available
+FOUSA06OLW,BG American Equity Segregated Fund,Available
+FOUSA06OLX,MFS Canadian Equity Segregated Fund,Available
+FOUSA06OMS,BG Canadian Equity Segregated Fund,Available
+F0CAN06PWV,MFS Responsible Cdn Fixed Inc Seg Fund,Not Available
+FOUSA06OM1,CC&L Group Balanced Plus Segregated Fund,Available
+FOUSA06ONV,PH&N Canadian Equity Segregated Fund,Available
+FOUSA06ON4,CC&L Group Cdn Equity Segregated Fund,Available
+FOUSA06ONB,Sun Life MFS US Equity Segregated Fund A,Available
+FOUSA06ON7,BG Small Cap Segregated Fund,Available
+FOUSA06OO0,MFS® International Eq Segregated Fund B,Available
+FOUSA06OO4,MFS LifePlan Retiree Segregated Fund,Available
+FOUSA06OO9,PH&N Overseas Equity Segregated Fund,Available
+FOUSA06OOV,MFS Responsible Balanced Segregated Fund,Available
+F0CAN069W8,BLK Universe Bond Index Segregated Fund,Available
+F0CAN069WP,MFS Conservative Allocation Seg Fund,Available
+F0CAN069WQ,MFS Moderate Allocation Segregated Fund,Available
+F0CAN069WR,MFS Growth Allocation Segregated Fund,Available
+FOUSA06ONH,MFS® International Eq Segregated Fund A,Available
+F0CAN06YCW,SL 2040 Milestone Seg Fund,Available
+FOUSA06OPU,CI Portfolio Series Inc Segregated Fund,Available
+FOUSA06OPR,CI Portfolio Series Cons Segregated Fund,Available
+FOUSA06OPQ,CI Portfolio Series Bal Segregated Fund,Available
+FOUSA06OGU,BLK LifePath Index 2025 Segregated Fund,Available
+FOUSA06OGV,BLK LifePath Index 2035 Segregated Fund,Available
+FOUSA06OJZ,TDAM Global Equity Index Segregated Fund,Available
+FOUSA06RBX,CI Portfolio Series Growth Benchmark,Benchmark
+FOUSA06RBW,CI Portfolio Series Max Growth Benchmark,Benchmark
+FOUSA06ORB,Fiera Cash in Action Segregated Fund,Available
+FOUSA06RC5,TDAM Canadian Balanced Benchmark,Benchmark
+FOUSA06RC3,MFS® Balanced Benchmark,Benchmark
+FOUSA06OQ4,Fidelity US Focused Stock Seg Fund,Available
+FOUSA06RCF,MFS Conservative Allocation Benchmark,Benchmark
+FOUSA06RCG,MFS Moderate Allocation Benchmark,Benchmark
+FOUSA06OUJ,TD Greystone Canadian Equity Seg Fund,Not Available
+FOUSA06RCR,BLK Moderate Balanced Benchmark,Benchmark
+FOUSA06RDS,CC&L Income and Growth Benchmark,Benchmark
+FOUSA06RF4,S&P 500 (Net) Index (Cdn $),Benchmark
+FOUSA06RF5,MSCI EAFE (Net) Index (Cdn $),Benchmark
+FOUSA06RF6,MSCI World Ex Canada Net (Cdn$),Benchmark
+FOUSA06RD7,SL 2040 Milestone Benchmark,Benchmark
+FOUSA06RBT,CI Portfolio Series Cons Benchmark,Benchmark
+FOUSA06RGR,Mawer International Benchmark,Benchmark
+FOUSA06RHW,BLK Aggressive Balanced Benchmark,Benchmark
+FOUSA06RLJ,CC&L Global Equity Benchmark,Benchmark
+FOUSA06RLS,BLK LifePath Index 2030 Benchmark,Benchmark
+FOUSA06S75,BLK LifePath Index 2025 Benchmark,Benchmark
+FOUSA06S76,BLK LifePath Index 2035 Benchmark,Benchmark
+FOUSA06SSO,BLK LifePath Index 2045 Benchmark,Benchmark
+FOUSA06VO2,Fidelity ClearPath Inc Port Seg Fund,Available
+FOUSA06VO5,Fidelity ClearPath 2015 Port Seg Fund,Available
+FOUSA06VOY,Fidelity ClearPath 2020 Port Seg Fund,Available
+FOUSA06VOZ,Fidelity ClearPath 2025 Port Seg Fund,Available
+FOUSA06VP0,Fidelity ClearPath 2030 Port Seg Fund,Available
+FOUSA06RD5,SL 2030 Milestone Benchmark,Benchmark
+FOUSA06RD6,SL 2035 Milestone Benchmark,Benchmark
+FOUSA06ORU,TDAM Cdn Balanced Index Segregated Fund,Available
+FOUSA06RC6,Invesco Income Growth Benchmark,Benchmark
+FOUSA06ORX,CC&L Group Canadian Q Growth Seg Fund,Available
+FOUSA06SSP,CI Signature Income & Growth Benchmark,Benchmark
+FOUSA06OTO,JF Canadian Equity Segregated Fund,Available
+FOUSA06OTP,JF Global Balanced Segregated Fund,Available
+FOUSA06OTT,JF US Equity Segregated Fund,Available
+FOUSA06OXA,BLK Global Equity Index Segregated Fund,Available
+FOUSA06PI9,Fidelity Clearpath 2010 Benchmark,Benchmark
+FOUSA06PIA,Fidelity Clearpath 2015 Benchmark,Benchmark
+FOUSA06PIB,Fidelity Clearpath 2020 Benchmark,Benchmark
+FOUSA06PIC,Fidelity Clearpath 2025 Benchmark,Benchmark
+FOUSA06PIE,Fidelity Clearpath 2035 Benchmark,Benchmark
+FOUSA06RBZ,CC&L Balanced Plus Benchmark,Benchmark
+FOUSA06RBV,CI Portfolio Series Bal Growth Benchmark,Benchmark
+FOUSA06ORA,Franklin Bissett Cdn Balanced Seg Fund,Not Available
+FOUSA06SOH,BLK LifePath Index 2045 Segregated Fund,Available
+FOUSA06SDF,MSCI World (Net) CAD Index,Available
+FOUSA06RCH,MFS Growth Allocation Benchmark,Benchmark
+FOUSA06RBS,CI Portfolio Series Income Benchmark,Benchmark
+FOUSA06RBU,CI Portfolio Series Balanced Benchmark,Benchmark
+FOUSA06RF7,MFS LifePlan Retiree Benchmark,Benchmark
+FOUSA06RFB,MFS LifePlan Retirement 2025 Benchmark,Benchmark
+FOUSA06RFC,MFS LifePlan Retirement 2030 Benchmark,Benchmark
+FOUSA06RBK,Bissett Cdn Bal Bench (FID),Benchmark
+FOUSA06RFE,MFS LifePlan Retirement 2040 Benchmark,Benchmark
+FOUSA06RFD,MFS LifePlan Retirement 2035 Benchmark,Benchmark
+FOUSA06RGG,BLK LifePath Index Ret I Benchmark,Benchmark
+FOUSA06RGK,BLK LifePath Index 2040 Benchmark,Benchmark
+FOUSA06RGV,MSCI ACWI (Net C$) (Fidelity),Benchmark
+FOUSA06RHV,BLK Conservative Balanced Benchmark,Benchmark
+FOUSA06RH5,MSCI ACWI ex-Canada Index,Benchmark
+FOUSA06RI0,Jarislowsky Fraser Balanced Benchmark,Benchmark
+FOUSA06RI1,Jarislowsky Fraser Global Bal Benchmark,Benchmark
+FOUSA06RL1,CC&L Canadian Equity Benchmark,Benchmark
+FOUSA06OQ1,Fidelity Global Segregated Fund,Available
+FOUSA06SOI,MFS Global Equity Segregated Fund,Available
+FOUSA06SOJ,MFS International Equity Segregated Fund,Available
+FOUSA06RD4,SL 2025 Milestone Benchmark,Benchmark
+FOUSA06OQC,Fidelity True North Segregated Fund,Available
+FOUSA06OQH,Invesco Global Companies Segregated Fund,Available
+FOUSA06RGN,TD Greystone Balanced Benchmark,Benchmark
+FOUSA06ORE,Fiera Cdn Eq Small Cap Core Seg Fund,Available
+FOUSA06OR0,JF Balanced Segregated Fund,Available
+FOUSA06ORN,SLF Money Market Segregated Fund,Available
+FOUSA06ORT,TDAM Canadian Bond Index Segregated Fund,Available
+FOUSA06ORW,TDAM Cdn Long Bond Index Segregated Fund,Available
+FOUSA06OTS,JF International Equity Segregated Fund,Available
+FOUSA06P82,Fidelity Cdn Core Eq Trust Seg Fund,Available
+FOUSA06P87,Franklin ClearBridge Cdn Equity Seg Fund,Available
+FOUSA06PHS,Fidelity Can Asset Alloc Blend,Benchmark
+FOUSA06PID,Fidelity Clearpath 2030 Benchmark,Benchmark
+FOUSA06PIF,Fidelity Clearpath 2040 Benchmark,Benchmark
+FOUSA06PIG,Fidelity Clearpath 2045 Benchmark,Benchmark
+FOUSA06PIH,Fidelity Clearpath Inc Benchmark,Benchmark
+FOUSA06RBQ,PH&N Balanced Pension Trust Benchmark,Benchmark
+FOUSA06RBY,Beutel Balanced Benchmark,Benchmark
+XIUSA04GRE,FTSE Canada LT Bond,Benchmark
+F00000Q622,TD Greystone 8 Yr Target Duration Seg Fd,Available
+F00000Q623,TD Greystone 15 Yr Tgt Duration Seg Fd,Available
+BGMB,Balanced Growth (MFS),Not Available
+2585,Manulife Fidelity ClearPath Institutional 2035 Fund34,Available
+FOUSA08ZG6,SL Granite 2020 Seg Fund,Not Available
+F00000MSJU,SL Multi-Strategy Bond Seg Fund,Available
+CGCF,Canadian Growth Company (Fidelity),Available
+FITA,Fixed Income (CIBC Global AM)*,Not Available
+MMF,Canadian Money Market (Fidelity),Not Available
+F00000JSEY,SL MFS International Growth Seg Fund,Available
+F00000Q65S,TD Greystone 20+ Target Dur Benchmark,Benchmark
+FOUSA08PHS,SL Balanced Granite Benchmark,Benchmark
+5452,Manulife Mawer Balanced Fund355,Available
+FOUSA08PHU,SL Aggressive Granite Benchmark,Benchmark
+FOUSA06VP2,Fidelity ClearPath 2040 Port Seg Fund,Available
+7812,Manulife TD Emerald Low Volatility Canadian Equity Fund,Available
+FOUSA06VP1,Fidelity ClearPath 2035 Port Seg Fund,Available
+LBGRL,Cdn Growth Balanced II (Mackenzie),Not Available
+FOUSA08ZA9,SL Granite 2030 Benchmark,Benchmark
+LEIG,Canadian Equity Index (Mackenzie),Available
+8294,Manulife Guardian i3 International Equity Fund,Available
+LIEIT,International Equity Index (TDAM),Available
+FOUSA08N02,MFS LifePlan Retirement 2045 Benchmark,Benchmark
+8452,Manulife Mawer International Equity Fund,Available
+S209,Fixed Income (TD Greystone),Available
+S039,Cdn Concentrated Divid (Mackenzie),Available
+SRGES,SRI Global Equity (Setanta),Available
+SIEF,Select Intl Eq Instl (Fidelity),Not Available
+FOUSA08PDZ,SL Granite Conservative Seg Fund,Available
+FOUSA08PE0,SL Granite Moderate Seg Fund,Available
+2001,Manulife Conservative Asset Allocation Fund34,Available
+FOUSA08PE1,SL Granite Balanced Seg Fund,Available
+F00000Q625,MFS Low Volatility Global Eq Seg Fund,Available
+FOUSA08PE2,SL Granite Growth Seg Fund,Available
+F00000Q62G,TD Greystone 3 Yr Target Duration Seg Fd,Available
+CNY60,Continuum Conservative 2060 (PSG),Available
+FCECC,Fundamental Canadian Equity (CC&L),Available
+8187,Manulife Invesco Global Targeted Returns Fund,Available
+5301,Manulife Leith Wheeler Diversified Pooled Fund (Registered Plans Only)3,Available
+4701,Manulife Fiera Capital Tactical Fixed Income Fund,Available
+HY45,Harmonized Conservative 2045 (PSG),Available
+FOUSA08MZ1,MFS LifePlan Retirement 2045 Seg Fund,Available
+7313,Manulife CC&L Group Canadian Q Growth Fund,Available
+FOUSA08MZ2,MFS LifePlan Retirement 2050 Seg Fund,Available
+8183,Manulife Invesco EQV International Equity Fund,Available
+FOUSA08N03,MFS LifePlan Retirement 2050 Benchmark,Benchmark
+SPIE,International Equity (Sprucegrove),Available
+2687,Manulife MFS LifePlan Retirement 2045 Fund34,Available
+F00000Q65Q,TD Greystone 3 Yr Target Dur Benchmark,Benchmark
+F00000Q624,TD Greystone 20+ Yr Tgt Duration Seg Fd,Available
+2148,Manulife Fidelity ClearPath 2045 Portfolio34,Available
+FOUSA08PHR,SL Moderate Granite Benchmark,Benchmark
+FOUSA08PHT,SL Growth Granite Benchmark,Benchmark
+FOUSA08QSM,Fidelity ClearPath 2010 Port Seg Fund,Available
+FOUSA08ZA5,SL Granite Retirement Benchmark,Benchmark
+FOUSA08ZA8,SL Granite 2025 Benchmark,Benchmark
+FOUSA08ZAA,SL Granite 2035 Benchmark,Benchmark
+FOUSA08ZAB,SL Granite 2040 Benchmark,Benchmark
+FOUSA08ZAC,SL Granite 2045 Benchmark,Benchmark
+FOUSA08ZG4,SL Granite Retirement Seg Fund,Available
+FOUSA08ZG7,SL Granite 2025 Seg Fund,Available
+FOUSA08ZG8,SL Granite 2030 Seg Fund,Available
+FOUSA08ZG9,SL Granite 2035 Seg Fund,Available
+FOUSA08ZGA,SL Granite 2040 Seg Fund,Available
+FOUSA08ZGB,SL Granite 2045 Seg Fund,Available
+XIUSA04GA2,S&PTSX Small Cap TR,Benchmark
+F00000Q626,BlackRock Real Return Bond Index Seg Fd,Available
+XIUSA04GSD,S&P/TSX Capped Composite TR CAD,Available
+XIUSA04GRH,FTSE Canada ST Bond,Benchmark
+XIUSA04GRB,FTSE Canada 91 Day TBill,Available
+XIUSA04GRI,FTSE Canada Universe Bond,Benchmark
+F00000MSJX,CC&L Canadian Small Cap Segregated Fund,Available
+AGGI,Tact Asset Alloc Income (Fidelity),Available
+XIUSA04GSY,S&P 500 TR CAD,Available
+XIUSA04GRC,FTSE Canada Cdn Trsy Bill 30 Day,Available
+FOUSA08ZA7,SL Granite 2020 Benchmark,Benchmark
+4192,Manulife Fixed Income Plus Fund (AllianceBernstein)5,Available
+F00000Q65R,TD Greystone 15Yr Target Dur Benchmark,Benchmark
+H50,Harmonized 2050 (PSG),Available
+7012,Manulife Multi-Manager Canadian Large Cap Growth Fund,Available
+JPM35,Sustainable TD 2035 (JPM),Available
+FOUSA06VP3,Fidelity ClearPath 2045 Port Seg Fund,Available
+LGREL,Canadian Lrg Cap Growth (Mackenzie),Not Available
+LNABG,Canadian Equity (Beutel Goodman),Available
+8704,Manulife Fiera Capital International Equity Fund,Available
+FOUSA08PE3,SL Granite Aggressive Seg Fund,Available
+2580,Manulife Fidelity ClearPath Institutional Income Fund34,Available
+CADRT,Cadence Retirement (PSG),Not Available
+HY65,Harmonized Conservative 2065 (PSG),Available
+F00000VYJK,PH&N Core Plus Bond Segregated Fund,Available
+HZ65,Harmonized Aggressive 2065 (PSG),Available
+MIPI,Monthly Income (PIMCO),Available
+RETBA,Retirement Balanced Fund,Available
+RETCO,Retirement Conservative Fund,Available
+F00001EMZK,Sun Life MFS Diversified Income Seg Fund,Available
+RETMO,Retirement Moderate Fund,Available
+2287,Manulife Russell Investments Balanced Growth Fund34,Available
+F00001EUGX,SL MFS Diversified Income Benchmark,Benchmark
+2700,Manulife Retirement Date Index+ Income Fund34,Available
+F00000WILB,BGO Prime Canadian Property Seg Fund,Available
+2725,Manulife Retirement Date Index+ 2025 Fund34,Available
+2730,Manulife Retirement Date Index+ 2030 Fund34,Available
+FOUSA06OQG,Invesco Income Growth Segregated Fund,Available
+2735,Manulife Retirement Date Index+ 2035 Fund34,Available
+FOUSA06ORV,TDAM Cdn Equity Index Segregated Fund,Available
+FOUSA06RLK,85% S&P 500 Hedged Total Return Index - C$ 15% S&P 500 Hedged Price Index - C$,Benchmark
+FOUSA07ZPR,Mawer International Equity Seg Fund,Available
+FOUSA08PHQ,SL Conservative Granite Benchmark,Benchmark
+F00000WIQQ,BGO Prime Canadian Property Benchmark,Benchmark
+F00000YT9O,TDAM Low Volatility US Equity Seg Fund,Available
+F00000YXC5,S&P Global Infrastructure Index (Canadian Dollar) (TR)SPGTINTC,Benchmark
+F000010TYV,SLC Mgmt Long Core Plus Bond Seg Fund,Available
+FOUSA06SLO,CI Canadian Income & Growth Seg Fund,Not Available
+FU720BRUT,ClearPath 2065,Available
+2740,Manulife Retirement Date Index+ 2040 Fund34,Available
+F000013C46,Invesco Global Direct Real Est Benchmark,Benchmark
+F0CAN06ZKW,BLK LifePath Index 2020 Segregated Fund,Not Available
+FOUSA06G8M,FTSE Canada Real Return Bond,Available
+XIUSA04GA4,S&P/TSX Composite TR,Available
+FOUSA06OLT,MFS Canadian Research Eq Segregated Fund,Available
+2745,Manulife Retirement Date Index+ 2045 Fund34,Available
+FOUSA06ONY,PH&N Cdn Eq Plus Pension Segregated Fund,Available
+F000013E0N,Invesco Global Direct Real Estate Seg Fd,Available
+F000016XIP,SLC Mgmt Cdn Lng Duration Overlay Seg Fd,Available
+F00000PH3I,Fidelity Clearpath 2055 Benchmark,Benchmark
+F00000Q65P,TD Greystone 8 Yr Target Dur Benchmark,Benchmark
+F0000170OB,SLC M Cdn Lng Duration Overlay Benchmark,Benchmark
+F000017H5N,SLC Mgmt Long Corporate Bond Benchmark,Benchmark
+F000017I94,SLC Mgmt Long Corporate Bond Seg Fund,Available
+F00000T67C,BLK MSCI Emerging Markets Index Seg Fund,Available
+F00001CHQ8,PH&N Fossil Fuel Free Balanced Seg Fund,Available
+CAD65,Cadence 2065 (PSG),Available
+F00000V8TF,SLC Mgmt Cdn Commercial Mortgage Seg Fd,Available
+F00001D5UW,IFM Global Infrastructure Segregated Fnd,Available
+F00001DDU7,SL KBI Glbl Sustainable Infrastr Seg Fd,Available
+CNT65,Continuum 2065 (PSG),Available
+F00001EMT9,Baillie Gifford Global Alpha Seg Fund,Available
+F00001EMTA,Baillie Gifford Positive Change Eq Sg Fd,Available
+2750,Manulife Retirement Date Index+ 2050 Fund34,Available
+CNY65,Continuum Conservative 2065 (PSG),Available
+CNZ65,Continuum Aggressive 2065 (PSG),Available
+2755,Manulife Retirement Date Index+ 2055 Fund34,Available
+2760,Manulife Retirement Date Index+ 2060 Fund34,Available
+FOUSA06RGI,BLK LifePath Index 2020 Benchmark,Benchmark
+4140,Manulife AlphaFixe ESG Green Bond Fund,Available
+F00000V8TG,SLC Mgmt Private Fixed Inc Plus Seg Fund,Available
+F00000V911,SL Cdn Commercial Mortgage Benchmark,Benchmark
+F00000V913,SL Private Fixed Income Plus Benchmark,Benchmark
+F00000VFFO,Bloomberg Global Aggregate TR CAD,Benchmark
+CPBF,Canadian Core Plus Bond (Fidelity),Available
+H65,Harmonized 2065 (PSG),Available
+2691,Manulife MFS LifePlan Retirement 2065 Fund34,Available
+2765,Manulife Retirement Date Index+ 2065 Fund34,Available
+FU464BRUT,Canadian Equity Growth,Available
+F00001F4B8,Fidelity Clearpath 2065 Benchmark,Benchmark
+FU488BRUT,Canadian Equity (Jarislowsky),Available
+F00001F4B0,TD Greystone 2060 Target Date Plus Benchmark,Benchmark
+FU070BRUT,Money Market,Available
+F00001F0DI,TD Greystone 2060 Target Date Seg Fund,Available
+FU860BRUT,Core Plus Bond (PIMCO),Available
+FU020BRUT,Bond,Available
+FU160BRUT,Dividend,Available
+FU633BRUT,Canadian Equity Value (PH&N),Available
+FU871BRUT,Fidelity Canadian Focused Equity,Available
+FU360BRUT,Canadian Equity (MFS),Available
+FU870BRUT,Canadian Equity Small Cap,Available
+FU876BRUT,Global Equity Index ACWI (BlackRock),Available
+F00001F78H,Fidelity ClearPath 2065 Port Seg Fund,Available
+FU861BRUT,Core Plus Long Term Bond (PIMCO),Available
+CP65,ClearPath 2065 (Fidelity),Available
+F00000SA6Y,BG Fundamental Canadian Equity Seg Fund,Available
+F00000X17X,TD Greystone 2030 TD Plus Benchmark,Benchmark
+F00000X17W,TD Greystone 2025 TD Plus Benchmark,Benchmark
+F00000X17Y,TD Greystone 2035 TD Plus Benchmark,Benchmark
+FU506BRUT,Asset Allocation - Conservative ,Available
+2065,Manulife Retirement Date 2065 Fund34,Available
+F00000X181,TD Greystone 2050 TD Plus Benchmark,Benchmark
+F00000X180,TD Greystone 2045 TD Plus Benchmark,Benchmark
+2591,Manulife Fidelity ClearPath Institutional 2065 Fund34,Available
+F00000X1A3,TD Greystone 2025 Target Date Plus Sg Fd,Available
+F00000X1A4,TD Greystone 2030 Target Date Plus Sg Fd,Available
+F00000X17Z,TD Greystone 2040 TD Plus Benchmark,Benchmark
+F00000X1A5,TD Greystone 2035 Target Date Plus Sg Fd,Available
+F00000X1A7,TD Greystone 2045 Target Date Plus Sg Fd,Available
+2333,Manulife BlackRock LifePath Index 2065 Fund34,Available
+FU924BRUT,Portfolio Series Balanced (CI),Available
+FU923BRUT,Portfolio Series Conservative (CI),Available
+FU707BRUT,Global Equity,Available
+FU886BRUT,Global Equity Low Volatility ACWI (TD),Available
+FU754BRUT,Global Equity (Sprucegrove),Available
+2538,Manulife Franklin LifeSmart 2060 Fund34,Available
+F00000X183,TD Greystone Retirement Plus Benchmark,Benchmark
+F00000X1A6,TD Greystone 2040 Target Date Plus Sg Fd,Available
+2539,Manulife Franklin LifeSmart 2065 Fund34,Available
+FU508BRUT,Asset Allocation - Balanced ,Available
+FU509BRUT,Asset Allocation - Growth ,Available
+FU922BRUT,Portfolio Series Income (CI),Available
+FU925BRUT,Portfolio Series Balanced Growth (CI),Available
+F00000X1A8,TD Greystone 2050 Target Date Plus Sg Fd,Available
+F00000X182,TD Greystone 2055 TD Plus Benchmark,Benchmark
+FU926BRUT,Portfolio Series Growth (CI),Available
+FU521BRUT,Bond (PH&N),Available
+F00000X1AA,TD Greystone Retirement Plus Seg Fund,Available
+FU507BRUT,Asset Allocation - Moderate ,Available
+FU453BRUT,ReturnPlus (AlphaFixe),Available
+FU021BRUT,Canadian Corporate Bond,Available
+F00001F4V6,BLK Global Infrastructure Eq Index Sg Fd,Available
+FU893BRUT,Global Fixed Income (PIMCO),Available
+F0CAN069WK,MFS Responsible Global Research Seg Fund,Available
+F00000X1A9,TD Greystone 2055 Target Date Plus Sg Fd,Available
+FU111BRUT,Floating Rate Bank Loan (AlphaFixe)*,Available
+FU240BRUT,Diversified Security,Available
+FU040BRUT,Diversified,Available
+FU463BRUT,Balanced (Jarislowsky)*,Available
+FU522BRUT,Balanced (PH&N),Available
+FU250BRUT,Diversified Opportunity,Available
+FU462BRUT,Fidelity Canadian Asset Allocation,Available
+FU899BRUT,Canadian Equity Q Growth (CC&L),Available
+FU010BRUT,North American Equity,Available
+FU270BRUT,Fidelity True North,Available
+F00001F4SO,Dow Jones Brookfield Global Infrastructure CAD,Benchmark
+FU751BRUT,Balanced (Beutel Goodman),Available
+FU380BRUT,Balanced Growth (MFS),Available
+FU510BRUT,Asset Allocation - Aggressive Growth ,Available
+2152,Manulife Fidelity ClearPath 2065 Portfolio34,Available
+FU390BRUT,Global Research Equity (MFS),Available
+IGEIB,Islamic Global Eq Ind (BlackRock),Available
+FU504BRUT,Long Term Bond,Available
+FU889BRUT,Balanced Moderate Index (BlackRock),Available
+FU887BRUT,Canadian Dividend (Beutel Goodman),Available
+FU632BRUT,Core Plus Bond (PH&N),Available
+FU541BRUT,Canadian Equity Small Cap (QV),Available
+FU472BRUT,Bond (Fiera Capital),Available
+FU170BRUT,Short Term Bond,Available
+FU121BRUT,International Equity (Aberdeen),Available
+FU153BRUT,Global Direct Real Estate - 100% (UBS)*,Available
+FU443BRUT,Global Direct Infrastructure - 100% (IFM)***,Available
+FU334BRUT,Diversified Alternatives*,Available
+FU884BRUT,LifePath Retirement Index I,Available
+FU879BRUT,LifePath 2025 Index,Available
+FU880BRUT,LifePath 2030 Index,Available
+FU881BRUT,LifePath 2035 Index,Available
+FU882BRUT,LifePath 2040 Index,Available
+FU883BRUT,LifePath 2045 Index,Available
+FU894BRUT,LifePath 2050 Index,Available
+FU912BRUT,LifePath 2055 Index,Available
+FU411BRUT,ClearPath Income,Available
+FU412BRUT,ClearPath 2020,Available
+FU414BRUT,ClearPath 2030,Available
+FU416BRUT,ClearPath 2040,Available
+FU417BRUT,ClearPath 2045,Available
+FU418BRUT,ClearPath 2050,Available
+FU419BRUT,ClearPath 2055,Available
+FU944BRUT,Sustainable Balanced,Available
+FU587BRUT,Responsible Fossil Fuel Free Bond,Available
+FU359BRUT,Fundamental Canadian Equity (Beutel Goodman),Available
+FU752BRUT,Canadian Equity (Beutel Goodman)**,Available
+FU862BRUT,Fidelity Canadian Systematic Equity,Available
+FU593BRUT,Canadian Equity (Fiera Capital),Available
+FU385BRUT,Canadian Equity Fossil Fuel Free (Jarislowsky),Available
+FU351BRUT,Fidelity Global Low Volatility Equity,Available
+FU342BRUT,Global Equity (Burgundy),Available
+FU358BRUT,Global Equity Opportunistic Value (Wellington),Available
+FU945BRUT,Climate Strategy (Wellington),Available
+FU456BRUT,Global Equity (Walter Scott),Available
+FU595BRUT,Global Equity (Fiera Capital)**,Available
+FU724BRUT,Global Equity (PH&N) ,Available
+FU641BRUT,Global Equity Growth (T Rowe Price),Available
+FU131BRUT,International Equity (Mawer),Available
+FU467BRUT,International Equity (MFS),Available
+FU760BRUT,US Equity Index (BlackRock),Available
+FU895BRUT,US Equity Index Non-Registered (BlackRock),Available
+FU132BRUT,US Equity (Mawer),Available
+FU927BRUT,LifePath 2060 Index,Available
+FU757BRUT,Global Infrastructure (Lazard)*,Available
+FU332BRUT,Emerging Markets (Baillie Gifford)*,Available
+FU721BRUT,ClearPath 2060,Available
+FU723BRUT,Canadian Equity Index (BlackRock),Available
+FU540BRUT,Fidelity Global Real Estate*,Available
+FU413BRUT,ClearPath 2025,Available
+FU383BRUT,Green Bond (AlphaFixe),Available
+FU888BRUT,Canadian Equity Low Volatility (TD),Available
+FU518BRUT,US Dividend Growth,Available
+FU479BRUT,US Equity (Fiera Capital)**,Available
+FU642BRUT,US Large Cap Core Growth Equity (T Rowe Price),Available
+FU331BRUT,Global Equity (Baillie Gifford),Available
+FU235BRUT,GLOBAL EQUITY (C$-HEDGED) (FIERA CAPITAL),Available
+FU237BRUT,GLOBAL EQUITY HIGH INCOME AND LOW VOLATILITY (C$-HEDGED)) (AMUNDI),Available
+FU771BRUT,Diversified - Short-Term Projects,Available
+FU772BRUT,Diversified - Medium-Term Projects,Available
+FU052BRUT,Balanced AQTIS,Available
+FU386BRUT,Global Equity Fossil Fuel Free (Jarislowsky),Available
+FU352BRUT,Canadian Equity Low Volatility (Optimum),Available
+FU353BRUT,Global Equity Fossil Fuel Free (Montrusco),Available
+FU758BRUT,Emerging Markets (Templeton)*,Available
+FU512BRUT,US Equity (Jarislowsky),Available
+FU387BRUT,Sustainable Growth (Baillie Gifford),Available
+FU122BRUT,Emerging Markets (abrdn)*,Available
+FU897BRUT,Global Infrastructure Equity Index (BlackRock)*,Available
+FU341BRUT,Fundamental Canadian Equity (Beutel Goodman),Available
+FU609BRUT,Global Equity Small Cap (Global Alpha),Available
+FU343BRUT,U.S. Equity Index (C$ - Hedged) (BlackRock),Available
+FU442BRUT,Private Debt (TD)*,Available
+FU706BRUT,International Equity,Available
+FU233BRUT,Thematic Innovation,Available
+FU300BRUT,International Equity Index (BlackRock),Available
+FU940BRUT,Medavie Asset Allocation - Balanced,Available
+FU941BRUT,Medavie Asset Allocation - Aggressive,Available
+FU769BRUT,Innovation (Franklin),Available
+FU441BRUT,Commercial Mortgage (Addenda)*,Available
+FU130BRUT,Global Equity Small Cap (Mawer)**,Available
+FU896BRUT,Global Developed Real Estate Index (BlackRock)*,Available
+FU949BRUT,LifePath 2065 Index,Available
+FU513BRUT,US Equity Core (MFS),Available
+FU781BRUT,Global Equity Small Cap (Fisher),Available
+FU333BRUT,Diversified Fixed Income Alternatives*,Available
+FU483BRUT,International Equity (Jarislowsky),Available
+FU335BRUT,Balanced Growth (BCV),Available
+FU489BRUT,Emerald Canadian Bond Index (TD),Available
+FU753BRUT,Canadian Equity Index (TD),Available
+FU473BRUT,Canadian Equity Opportunities (Fiera Capital),Available
+FU705BRUT,US Equity,Available
+FU491BRUT,Balanced-Risk Allocation (Invesco),Available
+FU152BRUT,Global Direct Real Estate - Portfolios (UBS)*,Available
+FU863BRUT,Global Equity Select (Pyramis),Available
+FU852BRUT,International Equity (Hexavest),Available
+FU634BRUT,Canadian Equity (QV),Available
+FU514BRUT,Responsible Canadian Research Equity (MFS),Available
+FU600BRUT,Global Targeted Returns (Invesco),Available
+FU782BRUT,Global Equity Small Cap (Lazard),Available
+FU722BRUT,Canadian Bond Index (BlackRock),Available
+FU384BRUT,Canadian Ethical Equity Fossil Fuel Free (Fiera Capital),Available
+FU133BRUT,Global Equity (Mawer),Available
+FU898BRUT,Emerging Markets Equity Index (BlackRock)*,Available
+FU415BRUT,ClearPath 2035,Available
+FU9000BRUT,Conservative - Attitude 2006-2010,Available
+FU9546BRUT,Conservative - Attitude 2011-2015,Available
+FU9001BRUT,Conservative - Attitude 2016-2020,Available
+FU9547BRUT,Conservative - Attitude 2021-2025,Available
+FU9002BRUT,Conservative - Attitude 2026-2030,Available
+FU9548BRUT,Conservative - Attitude 2031-2035,Available
+FU9003BRUT,Conservative - Attitude 2036-2040,Available
+FU9549BRUT,Conservative - Attitude 2041-2045,Available
+FU9004BRUT,Conservative - Attitude 2046-2050,Available
+FU9550BRUT,Conservative - Attitude 2051-2055,Available
+FU9339BRUT,Conservative - Attitude 2056-2060,Available
+AMDEF,American Disciplined Equity (Fidelity),Not Available
+FU236BRUT,GLOBAL EQUITY HIGH INCOME AND LOW VOLATILITY (AMUNDI),Available
+FU151BRUT,Canadian Equity All Cap (Triasima),Available
+FU708BRUT,Global Equity Shareholder Yield (TD-Epoch),Available
+FU709BRUT,Global Equity Shareholder Yield (C$-Hedged) (TD-Epoch),Available
+FU465BRUT,Global Equity (Templeton),Available
+FU080BRUT,International Equity (Templeton),Available
+FU878BRUT,LifePath 2020 Index (BlackRock),Available
+FU702BRUT,Global Diversifier (Forstrong),Available
+FU588BRUT,Canadian Equity SRI (Meritas),Available
+FU589BRUT,Global Equity SRI (Inhance),Available
+FU500BRUT,Global Equity (Hexavest),Available
+FU865BRUT,Global Equity (C$-Hedged) (Hexavest),Available
+FU534BRUT,Global Equity (QV),Available
+FU051BRUT,U.S. Equity Index (C$-Hedged) (BlackRock) ,Available
+FU005BRUT,Conservative - Attitude 2061-2065,Available
+FU134BRUT,Conservative - Attitude 2066-2070,Available
+FU004BRUT,Moderate - Attitude 2061-2065,Available
+FU003BRUT,Balanced - Attitude 2061-2065,Available
+FU002BRUT,Growth - Attitude 2061-2065,Available
+FU001BRUT,Aggressive - Attitude 2061-2065,Available
+FUA132BRUT,Balanced - Attitude 2066-2070,Available
+FUA002BRUT,Growth - Attitude 2061-2065,Available
+F00001GOC5,SL Granite Conservative Ret Benchmark,Benchmark
+CIP25,Clearpath Index Pl 2025 (Fidelity),Available
+USCTE,US Carbon Transition Equity (JPM),Available
+FUA131BRUT,Growth - Attitude 2066-2070,Available
+SGLBD,Sustainable Global Bond (JPM),Available
+FU9015BRUT,Growth - Attitude 2006-2010,Available
+SGLEQ,Sustainable Global Equity (JPM),Available
+F00001GOC6,SL Granite Aggressive Ret Benchmark,Benchmark
+F00001GOLS,TD Greystone 2065 Target Date Plus Sg Fd,Available
+FU9553BRUT,Moderate - Attitude 2011-2015,Available
+FU9567BRUT,Growth - Attitude 2011-2015,Available
+FU9006BRUT,Moderate - Attitude 2016-2020,Available
+FU9010BRUT,Balanced - Attitude 2006-2010,Available
+FU9560BRUT,Balanced - Attitude 2011-2015,Available
+FU9013BRUT,Balanced - Attitude 2036-2040,Available
+FU9563BRUT,Balanced - Attitude 2041-2045,Available
+FUA005BRUT,Conservative - Attitude 2061-2065,Available
+F00001GOLV,SL Granite Moderate Retirement Fund,Available
+FUA134BRUT,Conservative - Attitude 2066-2070,Available
+CIP20,Clearpath Index Pl 2020 (Fidelity),Available
+F00001GOLT,PH&N Future Solutions Bond Seg Fund,Available
+FU9014BRUT,Balanced - Attitude 2046-2050,Available
+FU9564BRUT,Balanced - Attitude 2051-2055,Available
+FU9005BRUT,Moderate - Attitude 2006-2010,Available
+FU9341BRUT,Balanced - Attitude 2056-2060,Available
+FU9016BRUT,Growth - Attitude 2016-2020,Available
+FU9569BRUT,Growth - Attitude 2031-2035,Available
+FU9018BRUT,Growth - Attitude 2036-2040,Available
+FU9570BRUT,Growth - Attitude 2041-2045,Available
+FU9020BRUT,Aggressive - Attitude 2006-2010,Available
+FU9574BRUT,Aggressive - Attitude 2011-2015,Available
+FU9021BRUT,Aggressive - Attitude 2016-2020,Available
+FU9575BRUT,Aggressive - Attitude 2021-2025,Available
+FU9022BRUT,Aggressive - Attitude 2026-2030,Available
+FU9576BRUT,Aggressive - Attitude 2031-2035,Available
+FU9023BRUT,Aggressive - Attitude 2036-2040,Available
+FU9577BRUT,Aggressive - Attitude 2041-2045,Available
+FU9343BRUT,Aggressive - Attitude 2056-2060,Available
+FUA001BRUT,Aggressive - Attitude 2061-2065,Available
+FUA130BRUT,Aggressive - Attitude 2066-2070,Available
+FU9554BRUT,Moderate - Attitude 2021-2025,Available
+FU9007BRUT,Moderate - Attitude 2026-2030,Available
+FU9555BRUT,Moderate - Attitude 2031-2035,Available
+PEA,Equity (P) (Mackenzie),Not Available
+FU9008BRUT,Moderate - Attitude 2036-2040,Available
+FU9556BRUT,Moderate - Attitude 2041-2045,Available
+FU9009BRUT,Moderate - Attitude 2046-2050,Available
+FU9557BRUT,Moderate - Attitude 2051-2055,Available
+FU9340BRUT,Moderate - Attitude 2056-2060,Available
+FUA004BRUT,Moderate - Attitude 2061-2065,Available
+FU9011BRUT,Balanced - Attitude 2016-2020,Available
+FU9561BRUT,Balanced - Attitude 2021-2025,Available
+FU9012BRUT,Balanced - Attitude 2026-2030,Available
+FU9024BRUT,Aggressive - Attitude 2046-2050,Available
+CIP30,Clearpath Index Pl 2030 (Fidelity),Available
+F000014H6L,Canadian Total Consumer Price Index + 4%,Benchmark
+CIP35,Clearpath Index Pl 2035 (Fidelity),Available
+F00001G9DG,SL Granite Conservative Retirement Sg Fd,Available
+F00001I0OK,TD Greystone 2065 TD Plus Benchmark,Benchmark
+PIA,Fixed Income (P) (Mackenzie),Not Available
+FUA133BRUT,Moderate - Attitude 2066-2070,Available
+FU9562BRUT,Balanced - Attitude 2031-2035,Available
+FUA003BRUT,Balanced - Attitude 2061-2065,Available
+FU9019BRUT,Growth - Attitude 2046-2050,Available
+FU9578BRUT,Aggressive - Attitude 2051-2055,Available
+PMM,Money Market (P) (Mackenzie),Not Available
+FU9571BRUT,Growth - Attitude 2051-2055,Available
+FU9568BRUT,Growth - Attitude 2021-2025,Available
+F00001G9DH,SL Granite Aggressive Retirement Seg Fd,Available
+FU9017BRUT,Growth - Attitude 2026-2030,Available
+FU9342BRUT,Growth - Attitude 2056-2060,Available
+CIP40,Clearpath Index Pl 2040 (Fidelity),Available
+CIP45,Clearpath Index Pl 2045 (Fidelity),Available
+CIP50,Clearpath Index Pl 2050 (Fidelity),Available
+CIP55,Clearpath Index Pl 2055 (Fidelity),Available
+CIP60,Clearpath Index Pl 2060 (Fidelity),Available
+CIP65,Clearpath Index Pl 2065 (Fidelity),Available
+EMKCE,Emerging Markets Concentrated Equity (Northcape),Available
+ESGUS,ESG US Equity (JPM),Available
+GSCGA,Global Small Cap (Global Alpha),Available
+SEMEQ,SustainableEmerging MarketsEquity (JPM),Available
+F00001KM5E,Boston Partners International Eq Seg Fnd,Available
+F00001M6SS,PineStone Global Equity Segregated Fund,Available
+F00001M6ST,PineStone US Equity Segregated Fund,Available
+F00001M6SU,PineStone International Equity Seg Fund,Available
+F00001MP6J,Boston Partners Global Equity Seg Fund,Available
+CIPIF,Clearpath Index Pl Inc (Fidelity),Available
+CPP20,ClearPath Portfolio 2020 (Fidelity),Available
+CPP25,ClearPath Portfolio 2025 (Fidelity),Available
+CPP30,ClearPath Portfolio 2030 (Fidelity),Available
+CPP35,ClearPath Portfolio 2035 (Fidelity),Available
+CPP40,ClearPath Portfolio 2040 (Fidelity),Available
+CPP45,ClearPath Portfolio 2045 (Fidelity),Available
+CPP50,ClearPath Portfolio 2050 (Fidelity),Available
+CPP55,ClearPath Portfolio 2055 (Fidelity),Available
+CPP60,ClearPath Portfolio 2060 (Fidelity),Available
+CPP65,ClearPath Portfolio 2065 (Fidelity),Available
+CPPIF,ClearPath Portfolio Income (Fidelity),Available
+RES45,CL Education Savings Fund 2045,Available
+TRP25,T Rowe Price Retirement Date 2025,Available
+TRP30,T Rowe Price Retirement Date 2030,Available
+TRP35,T Rowe Price Retirement Date 2035,Available
+TRP40,T Rowe Price Retirement Date 2040,Available
+TRP45,T Rowe Price Retirement Date 2045,Available
+TRP50,T Rowe Price Retirement Date 2050,Available
+TRP55,T Rowe Price Retirement Date 2055,Available
+TRP60,T Rowe Price Retirement Date 2060,Available
+TRP65,T Rowe Price Retirement Date 2065,Available

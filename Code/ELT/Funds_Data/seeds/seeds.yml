@@ -1,0 +1,267 @@
+version: 2
+
+seeds:
+
+  # Raw Assets
+  ##################################################
+  - name: raw_assets
+    description: shows all assets invested in or offered to the client
+    columns:
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          - unique
+          - not_null
+
+      - name: funds
+        description: unique funds
+        data_tests:
+          - unique
+          - not_null
+
+      - name: market_value
+        description: current market value of funds held by the client
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: member_count
+        description: counts the number of members the client has invested in a fund
+        data_tests:
+        # - unique
+          - not_null
+
+      - name: fund_company
+        description: unique fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: invested
+        description: flags if the analyzed client owns the fund
+        data_tests:
+        # - unique
+          - not_null
+
+
+  # Raw Fees
+  ##################################################
+  - name: raw_fees
+    description: shows all fees offered to the client
+    columns:
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          - unique
+          - not_null
+
+      - name: funds
+        description: unique funds
+        data_tests:
+          - unique
+          - not_null
+
+      - name: fees
+        description: annual fund fees
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company
+        description: unique fund company
+        data_tests:
+          # - unique
+          - not_null
+
+
+  # Raw Canada Life fund categories
+  ##################################################
+  - name: raw_canada_life_fund_categories
+    description: shows all Canada Life funds categorized
+    columns:
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          - unique
+          - not_null
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+
+  # Raw Manulife fund categories
+  ##################################################
+  - name: raw_manulife_fund_categories
+    description: shows all Manulife funds categorized
+    columns:
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          - unique
+          - not_null
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+
+  # Raw Sun Life fund categories
+  ##################################################
+  - name: raw_sun_life_fund_categories
+    description: shows all Sun Life funds categorized
+    columns:
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique - duplicates to have the same fund under different categories
+          - not_null
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+
+  # Raw Canada Life benchmarks
+  ##################################################
+  - name: raw_canada_life_benchmarks
+    description: Shows all Canada Life benchmarks to be compared to and peer group funds to set as the peer group.
+    columns:
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          - unique
+          - not_null
+
+      - name: peer_group
+        description: unique category for specific funds
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: sub_peer_group
+        description: unique sub category for specific funds (target date and asset allocation)
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+
+  # Raw Manulife benchmarks
+  ##################################################
+  - name: raw_manulife_benchmarks
+    description: Shows all Manulife benchmarks to be compared to and peer group funds to set as the peer group.
+    columns:
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: peer_group
+        description: unique category for specific funds
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: sub_peer_group
+        description: unique sub category for specific funds (target date and asset allocation)
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+  # Raw Industrial Alliance fund categories
+  ##################################################
+  - name: raw_industrial_alliance_fund_categories
+    description: shows all Industrial Alliance funds categorized
+    columns:
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          - unique
+          - not_null
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+  # Raw Industrial Alliance benchmarks
+  ##################################################
+  - name: raw_industrial_alliance_benchmarks
+    description: Shows all Industrial Alliance benchmarks to be compared to and peer group funds to set as the peer group.
+    columns:
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: peer_group
+        description: unique category for specific funds
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: sub_peer_group
+        description: unique sub category for specific funds (target date and asset allocation)
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null

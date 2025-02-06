@@ -1,0 +1,498 @@
+version: 2
+
+models:
+
+  # All returns view
+  ##################################################
+  - name: all_returns_view
+    description: shows all returns minus fees for different time periods. Fund meta data is also availabe
+    columns:
+
+      - name: fund_company
+        description: unique fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_type
+        description: flags if the fund is currenly available or not by the fund company
+        data_tests: []
+          # - not_null
+
+      - name: invested
+        description: flags if the analyzed client owns the fund
+        data_tests: []
+          # - not_null
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: funds
+        description: unique funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: market_value
+        description: current market value of funds held by the client
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: member_count
+        description: counts the number of members the client has invested in a fund
+        data_tests: []
+          # - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: net compounded returns per fund per return type
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_returns_avg
+        description: average net returns
+        data_tests:
+          - not_null       
+
+      - name: net_returns_stddev
+        description: net returns standard deviation
+        data_tests: []
+          # - not_null 
+
+      - name: peer_groups
+        description: unique category for specific funds
+        data_tests:
+          # - unique
+          - not_null        
+
+      - name: peer_group_identifier
+        description: an id to used to help join the table to the all_returns_view
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: peer_net_compounded_returns
+        description: peer group net compounded returns
+        data_tests: []
+          # - unique
+          # - not_null
+
+
+ # Dashboard view
+  ##################################################
+  - name: dashboard_view
+    description: uses union to join the two views as one, allowing for Excel to filter both tables with a single set of slicers
+    columns:
+
+      - name: fund_company
+        description: unique fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_type
+        description: flags if the fund is currenly available or not by the fund company
+        data_tests: []
+          # - not_null
+
+      - name: invested
+        description: flags if the analyzed client owns the fund
+        data_tests: []
+          # - not_null
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: sub_peer_group
+        description: unique sub category for specific funds (target date and asset allocation)
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: funds
+        description: unique funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: market_value
+        description: current market value of funds held by the client
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: member_count
+        description: counts the number of members the client has invested in a fund
+        data_tests: []
+          # - not_null
+
+      - name: fees
+        description: annual fund fees
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: date
+        description: date per return per fund
+        data_tests: []
+          # - not_null
+
+      - name: net_net_compounded_returns_12_rolling
+        description: peer group net compounded returns on a rolling 12 month basis minus benchmarks (net of fees compounded returns)
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: net_net_compounded_returns_36_rolling
+        description: peer group net compounded returns on a rolling 36 month basis minus benchmarks (net of fees compounded returns)
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: net_net_compounded_returns_60_rolling
+        description: peer group net compounded returns on a rolling 60 month basis minus benchmarks (net of fees compounded returns)
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: net_compounded_returns
+        description: net compounded returns per fund per return type
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: net_returns_avg
+        description: average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: net returns standard deviation
+        data_tests: []
+          # - not_null 
+
+      - name: peer_groups
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null        
+
+      - name: peer_group_identifier
+        description: an id to used to help join the table to the all_returns_view
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: peer_net_compounded_returns
+        description: peer group net compounded returns
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: which_table
+        description: flags the different stacked views
+        data_tests:
+          - not_null 
+
+
+  # Null categories and fees 
+  ##################################################
+  - name: null_categories_fees_view
+    description: shows all the funds that have no category or fee attached to them
+    columns:
+
+      - name: fund_company
+        description: unique fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_type
+        description: flags if the fund is currenly available or not by the fund company
+        data_tests: []
+          # - not_null
+
+      - name: invested
+        description: flags if the analyzed client owns the fund
+        data_tests: []
+          # - not_null
+
+      - name: 'Fund Category'
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: funds
+        description: unique funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fees
+        description: annual fund fees
+        data_tests: []
+          # - unique
+          # - not_null
+
+
+ # Rolling net returns view
+  ##################################################
+  - name: rolling_returns_view
+    description: shows all funds and fund categories with their returns net of fees for all companies on a rolling 12, 36, and 60 month basis minus benchmarks (net of fees compounded returns)
+    columns:
+
+      - name: fund_company
+        description: unique fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_type
+        description: flags if the fund is currenly available or not by the fund company
+        data_tests: []
+          # - not_null
+
+      - name: invested
+        description: flags if the analyzed client owns the fund
+        data_tests: []
+          # - not_null
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: sub_peer_group
+        description: unique sub category for specific funds (target date and asset allocation)
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: funds
+        description: unique funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: market_value
+        description: current market value of funds held by the client
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: member_count
+        description: counts the number of members the client has invested in a fund
+        data_tests: []
+          # - not_null   
+
+      - name: fees
+        description: annual fund fees
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: date
+        description: date per return per fund
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: net_net_compounded_returns_12_rolling
+        description: peer group net compounded returns on a rolling 12 month basis minus benchmarks (net of fees compounded returns)
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: net_net_compounded_returns_36_rolling
+        description: peer group net compounded returns on a rolling 36 month basis minus benchmarks (net of fees compounded returns)
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: net_net_compounded_returns_60_rolling
+        description: peer group net compounded returns on a rolling 60 month basis minus benchmarks (net of fees compounded returns)
+        data_tests: []
+          # - unique
+          # - not_null
+
+
+  # All raw returns
+  ##################################################
+  - name: all_raw_returns_view
+    description: shows all funds and fund returns
+    columns:
+
+      - name: fund_company
+        description: unique fund company
+        data_tests:
+          # - unique
+          - not_null  
+
+      - name: fund_identifier
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null  
+
+      - name: funds
+        description: unique funds    
+        data_tests: []
+          # - unique
+          # - not_null  
+
+      - name: date
+        description: date per return per fund
+        data_tests:
+          # - unique
+          - not_null 
+
+      - name: returns
+        description: retruns per fund per date
+        data_tests:
+          - not_null
+
+
+  # Returns less fees
+  ##################################################
+  - name: returns_less_fees_view
+    description: shows all funds and fund returns with returns less quotes fees
+    columns:
+
+      - name: fund_company
+        description: unique fund company
+        data_tests:
+          # - unique
+          - not_null  
+
+      - name: fund_identifier
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null  
+
+      - name: funds
+        description: unique funds    
+        data_tests:
+          # - unique
+          - not_null  
+
+      - name: date
+        description: date per return per fund
+        data_tests:
+          # - unique
+          - not_null 
+
+      - name: returns
+        description: retruns per fund per date
+        data_tests:
+          - not_null
+
+      - name: fees
+        description: annual fund fees
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: returns_less_fees
+        description: monthly returns less monthly fees
+        data_tests:
+          # - unique
+          - not_null
+
+# Returns less fees
+##################################################
+  - name: returns_less_fees_master_view
+    description: shows all funds and fund returns with returns less quotes fees and is only used in the master file
+    columns:
+
+      - name: fund_company
+        description: unique fund company
+        data_tests:
+          # - unique
+          - not_null  
+
+      - name: fund_identifier
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null  
+
+      - name: funds
+        description: unique funds    
+        data_tests:
+          # - unique
+          - not_null  
+
+      - name: date
+        description: date per return per fund
+        data_tests:
+          # - unique
+          - not_null 
+
+      - name: returns
+        description: retruns per fund per date
+        data_tests:
+          - not_null
+
+      - name: fees
+        description: annual fund fees
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: returns_less_fees
+        description: monthly returns less monthly fees
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: master_funds
+        description: unique funds    
+        data_tests:
+          # - unique
+          - not_null  

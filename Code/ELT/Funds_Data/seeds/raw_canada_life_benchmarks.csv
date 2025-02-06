@@ -1,0 +1,83 @@
+fund_identifier,peer_group,sub_peer_group,fund_company_id
+S079,Fixed Income,,0
+S080,Canadian Balanced Funds,,0
+LEIG,Canadian Equity Funds,,0
+USIXG,US Equity Funds,,0
+LIEIT,International Equity Funds,,0
+S244,Global Equity Funds,,0
+LCOPR,Asset Allocation,Conservative (25% Equity & 75% Fixed Income),0
+LCOPO,Asset Allocation,Conservative (25% Equity & 75% Fixed Income),0
+S605,Asset Allocation,Conservative (25% Equity & 75% Fixed Income),0
+LMOPR,Asset Allocation,Moderate (40% Equity & 60% Fixed Income),0
+LMOPO,Asset Allocation,Moderate (40% Equity & 60% Fixed Income),0
+S606,Asset Allocation,Moderate (40% Equity & 60% Fixed Income),0
+LBAPR,Asset Allocation,Balanced (60% Equity & 40% Fixed Income),0
+LBAPO,Asset Allocation,Balanced (60% Equity & 40% Fixed Income),0
+S607,Asset Allocation,Balanced (60% Equity & 40% Fixed Income),0
+LCFPR,Asset Allocation,Advanced (80% Equity & 20% Fixed Income),0
+LADPO,Asset Allocation,Advanced (80% Equity & 20% Fixed Income),0
+S608,Asset Allocation,Advanced (80% Equity & 20% Fixed Income),0
+LAGPR,Asset Allocation,Aggressive (100% Equity),0
+LAGPO,Asset Allocation,Aggressive (100% Equity),0
+S609,Asset Allocation,Aggressive (100% Equity),0
+CAD20,Target Date Funds,2020 Funds,0
+CP20,Target Date Funds,2020 Funds,0
+BGI20,Target Date Funds,2020 Funds,0
+CNT20,Target Date Funds,2020 Funds,0
+H20,Target Date Funds,2020 Funds,0
+BGI25,Target Date Funds,2025 Funds,0
+CAD25,Target Date Funds,2025 Funds,0
+CNT25,Target Date Funds,2025 Funds,0
+CP25,Target Date Funds,2025 Funds,0
+H25,Target Date Funds,2025 Funds,0
+JPM25,Target Date Funds,2025 Funds,0
+MFS25,Target Date Funds,2025 Funds,0
+BGI30,Target Date Funds,2030 Funds,0
+CAD30,Target Date Funds,2030 Funds,0
+CNT30,Target Date Funds,2030 Funds,0
+CP30,Target Date Funds,2030 Funds,0
+H30,Target Date Funds,2030 Funds,0
+JPM30,Target Date Funds,2030 Funds,0
+MFS30,Target Date Funds,2030 Funds,0
+BGI35,Target Date Funds,2035 Funds,0
+CAD35,Target Date Funds,2035 Funds,0
+CNT35,Target Date Funds,2035 Funds,0
+CP35,Target Date Funds,2035 Funds,0
+H35,Target Date Funds,2035 Funds,0
+JPM35,Target Date Funds,2035 Funds,0
+MFS35,Target Date Funds,2035 Funds,0
+BGI40,Target Date Funds,2040 Funds,0
+CAD40,Target Date Funds,2040 Funds,0
+CNT40,Target Date Funds,2040 Funds,0
+CP40,Target Date Funds,2040 Funds,0
+H40,Target Date Funds,2040 Funds,0
+JPM40,Target Date Funds,2040 Funds,0
+MFS40,Target Date Funds,2040 Funds,0
+BGI45,Target Date Funds,2045 Funds,0
+CAD45,Target Date Funds,2045 Funds,0
+CNT45,Target Date Funds,2045 Funds,0
+CP45,Target Date Funds,2045 Funds,0
+H45,Target Date Funds,2045 Funds,0
+JPM45,Target Date Funds,2045 Funds,0
+MFS45,Target Date Funds,2045 Funds,0
+BGI50,Target Date Funds,2050 Funds,0
+CAD50,Target Date Funds,2050 Funds,0
+CNT50,Target Date Funds,2050 Funds,0
+CP50,Target Date Funds,2050 Funds,0
+H50,Target Date Funds,2050 Funds,0
+JPM50,Target Date Funds,2050 Funds,0
+MFS50,Target Date Funds,2050 Funds,0
+BGI55,Target Date Funds,2055 Funds,0
+CAD55,Target Date Funds,2055 Funds,0
+CNT55,Target Date Funds,2055 Funds,0
+CP55,Target Date Funds,2055 Funds,0
+H55,Target Date Funds,2055 Funds,0
+JPM55,Target Date Funds,2055 Funds,0
+MFS55,Target Date Funds,2055 Funds,0
+BGI60,Target Date Funds,2060 Funds,0
+CAD60,Target Date Funds,2060 Funds,0
+CNT60,Target Date Funds,2060 Funds,0
+CP60,Target Date Funds,2060 Funds,0
+H60,Target Date Funds,2060 Funds,0
+JPM60,Target Date Funds,2060 Funds,0
+MFS60,Target Date Funds,2060 Funds,0

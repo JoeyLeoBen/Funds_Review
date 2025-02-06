@@ -1,0 +1,193 @@
+﻿fund_identifier,funds,returns,fund_type,fund_company
+FU506BRUT,Asset Allocation - Conservative ,2.025119,Available,Industrial Alliance
+FU507BRUT,Asset Allocation - Moderate ,2.125246,Available,Industrial Alliance
+FU508BRUT,Asset Allocation - Balanced ,2.177955,Available,Industrial Alliance
+FU509BRUT,Asset Allocation - Growth ,2.241261,Available,Industrial Alliance
+FU510BRUT,Asset Allocation - Aggressive Growth ,2.276838,Available,Industrial Alliance
+FU922BRUT,Portfolio Series Income (CI),1.711972,Available,Industrial Alliance
+FU923BRUT,Portfolio Series Conservative (CI),1.818232,Available,Industrial Alliance
+FU924BRUT,Portfolio Series Balanced (CI),2.069045,Available,Industrial Alliance
+FU925BRUT,Portfolio Series Balanced Growth (CI),2.149824,Available,Industrial Alliance
+FU926BRUT,Portfolio Series Growth (CI),2.320104,Available,Industrial Alliance
+FU070BRUT,Money Market,0.39098,Available,Industrial Alliance
+FU170BRUT,Short Term Bond,1.347468,Available,Industrial Alliance
+FU722BRUT,Canadian Bond Index (BlackRock),1.9390110000000003,Available,Industrial Alliance
+FU383BRUT,Green Bond (AlphaFixe),1.963398,Available,Industrial Alliance
+FU020BRUT,Bond,1.933154,Available,Industrial Alliance
+FU587BRUT,Responsible Fossil Fuel Free Bond,1.9333360000000002,Available,Industrial Alliance
+FU472BRUT,Bond (Fiera Capital),2.130615,Available,Industrial Alliance
+FU521BRUT,Bond (PH&N),1.878382,Available,Industrial Alliance
+FU632BRUT,Core Plus Bond (PH&N),1.9009309999999997,Available,Industrial Alliance
+FU860BRUT,Core Plus Bond (PIMCO),2.035593,Available,Industrial Alliance
+FU453BRUT,ReturnPlus (AlphaFixe),1.8516299999999999,Available,Industrial Alliance
+FU021BRUT,Canadian Corporate Bond,2.250023,Available,Industrial Alliance
+FU504BRUT,Long Term Bond,2.732541,Available,Industrial Alliance
+FU861BRUT,Core Plus Long Term Bond (PIMCO),2.756425,Available,Industrial Alliance
+FU893BRUT,Global Fixed Income (PIMCO),1.412467,Available,Industrial Alliance
+FU111BRUT,Floating Rate Bank Loan (AlphaFixe)*,0.252868,Available,Industrial Alliance
+FU240BRUT,Diversified Security,1.838416,Available,Industrial Alliance
+FU889BRUT,Balanced Moderate Index (BlackRock),2.432967,Available,Industrial Alliance
+FU040BRUT,Diversified,1.9219340000000003,Available,Industrial Alliance
+FU751BRUT,Balanced (Beutel Goodman),1.908377,Available,Industrial Alliance
+FU463BRUT,Balanced (Jarislowsky)*,3.2393030000000005,Available,Industrial Alliance
+FU944BRUT,Sustainable Balanced,2.438927,Available,Industrial Alliance
+FU380BRUT,Balanced Growth (MFS),2.430805,Available,Industrial Alliance
+FU522BRUT,Balanced (PH&N),2.415064,Available,Industrial Alliance
+FU250BRUT,Diversified Opportunity,2.007689,Available,Industrial Alliance
+FU462BRUT,Fidelity Canadian Asset Allocation,2.483045,Available,Industrial Alliance
+FU723BRUT,Canadian Equity Index (BlackRock),3.155973,Available,Industrial Alliance
+FU160BRUT,Dividend,2.303664,Available,Industrial Alliance
+FU887BRUT,Canadian Dividend (Beutel Goodman),2.13542,Available,Industrial Alliance
+FU888BRUT,Canadian Equity Low Volatility (TD),3.077031,Available,Industrial Alliance
+FU359BRUT,Fundamental Canadian Equity (Beutel Goodman),2.322014,Available,Industrial Alliance
+FU752BRUT,Canadian Equity (Beutel Goodman)**,2.541626,Available,Industrial Alliance
+FU633BRUT,Canadian Equity Value (PH&N),2.996883,Available,Industrial Alliance
+FU871BRUT,Fidelity Canadian Focused Equity,2.446556,Available,Industrial Alliance
+FU862BRUT,Fidelity Canadian Systematic Equity,1.8520169999999998,Available,Industrial Alliance
+FU464BRUT,Canadian Equity Growth,2.679995,Available,Industrial Alliance
+FU899BRUT,Canadian Equity Q Growth (CC&L),2.862769,Available,Industrial Alliance
+FU593BRUT,Canadian Equity (Fiera Capital),2.273868,Available,Industrial Alliance
+FU384BRUT,Canadian Ethical Equity Fossil Fuel Free (Fiera Capital),2.478054,Available,Industrial Alliance
+FU488BRUT,Canadian Equity (Jarislowsky),4.313438,Available,Industrial Alliance
+FU385BRUT,Canadian Equity Fossil Fuel Free (Jarislowsky),4.437561,Available,Industrial Alliance
+FU360BRUT,Canadian Equity (MFS),2.439847,Available,Industrial Alliance
+FU270BRUT,Fidelity True North,2.157293,Available,Industrial Alliance
+FU870BRUT,Canadian Equity Small Cap,2.583554,Available,Industrial Alliance
+FU541BRUT,Canadian Equity Small Cap (QV),1.852027,Available,Industrial Alliance
+FU876BRUT,Global Equity Index ACWI (BlackRock),2.468252,Available,Industrial Alliance
+FU707BRUT,Global Equity,2.570681,Available,Industrial Alliance
+FU886BRUT,Global Equity Low Volatility ACWI (TD),1.318768,Available,Industrial Alliance
+FU351BRUT,Fidelity Global Low Volatility Equity,0.880208,Available,Industrial Alliance
+FU754BRUT,Global Equity (Sprucegrove),2.578949,Available,Industrial Alliance
+FU342BRUT,Global Equity (Burgundy),1.172366,Available,Industrial Alliance
+FU358BRUT,Global Equity Opportunistic Value (Wellington),2.792173,Available,Industrial Alliance
+FU945BRUT,Climate Strategy (Wellington),3.2636360000000004,Available,Industrial Alliance
+FU386BRUT,Global Equity Fossil Fuel Free (Jarislowsky),2.950516,Available,Industrial Alliance
+FU390BRUT,Global Research Equity (MFS),2.439586,Available,Industrial Alliance
+FU133BRUT,Global Equity (Mawer),-0.576055,Available,Industrial Alliance
+FU456BRUT,Global Equity (Walter Scott),0.319883,Available,Industrial Alliance
+FU595BRUT,Global Equity (Fiera Capital)**,1.88583,Available,Industrial Alliance
+FU724BRUT,Global Equity (PH&N) ,2.947433,Available,Industrial Alliance
+FU641BRUT,Global Equity Growth (T Rowe Price),2.441724,Available,Industrial Alliance
+FU331BRUT,Global Equity (Baillie Gifford),3.2290559999999995,Available,Industrial Alliance
+FU387BRUT,Sustainable Growth (Baillie Gifford),3.8444479999999994,Available,Industrial Alliance
+FU781BRUT,Global Equity Small Cap (Fisher),1.801194,Available,Industrial Alliance
+FU609BRUT,Global Equity Small Cap (Global Alpha),2.153664,Available,Industrial Alliance
+FU130BRUT,Global Equity Small Cap (Mawer)**,-0.335963,Available,Industrial Alliance
+FU300BRUT,International Equity Index (BlackRock),1.156765,Available,Industrial Alliance
+FU706BRUT,International Equity,0.993012,Available,Industrial Alliance
+FU483BRUT,International Equity (Jarislowsky),2.372245,Available,Industrial Alliance
+FU131BRUT,International Equity (Mawer),0.564665,Available,Industrial Alliance
+FU467BRUT,International Equity (MFS),1.742576,Available,Industrial Alliance
+FU760BRUT,US Equity Index (BlackRock),2.357682,Available,Industrial Alliance
+FU895BRUT,US Equity Index Non-Registered (BlackRock),2.35151,Available,Industrial Alliance
+FU518BRUT,US Dividend Growth,2.557228,Available,Industrial Alliance
+FU705BRUT,US Equity,2.250198,Available,Industrial Alliance
+FU512BRUT,US Equity (Jarislowsky),3.763966,Available,Industrial Alliance
+FU132BRUT,US Equity (Mawer),1.343475,Available,Industrial Alliance
+FU513BRUT,US Equity Core (MFS),1.149214,Available,Industrial Alliance
+FU479BRUT,US Equity (Fiera Capital)**,2.506982,Available,Industrial Alliance
+FU233BRUT,Thematic Innovation,1.452726,Available,Industrial Alliance
+FU642BRUT,US Large Cap Core Growth Equity (T Rowe Price),3.1250890000000004,Available,Industrial Alliance
+FU898BRUT,Emerging Markets Equity Index (BlackRock)*,6.857037000000001,Available,Industrial Alliance
+FU122BRUT,Emerging Markets (abrdn)*,6.290808,Available,Industrial Alliance
+FU758BRUT,Emerging Markets (Templeton)*,5.820493,Available,Industrial Alliance
+FU332BRUT,Emerging Markets (Baillie Gifford)*,4.079791,Available,Industrial Alliance
+FU491BRUT,Balanced-Risk Allocation (Invesco),2.410116,Available,Industrial Alliance
+FU896BRUT,Global Developed Real Estate Index (BlackRock)*,3.3402440000000007,Available,Industrial Alliance
+FU540BRUT,Fidelity Global Real Estate*,2.873303,Available,Industrial Alliance
+FU897BRUT,Global Infrastructure Equity Index (BlackRock)*,2.816472,Available,Industrial Alliance
+FU757BRUT,Global Infrastructure (Lazard)*,0.872852,Available,Industrial Alliance
+FU441BRUT,Commercial Mortgage (Addenda)*,0.9461889999999998,Available,Industrial Alliance
+FU442BRUT,Private Debt (TD)*,2.474882,Available,Industrial Alliance
+FU333BRUT,Diversified Fixed Income Alternatives*,1.738735,Available,Industrial Alliance
+FU152BRUT,Global Direct Real Estate - Portfolios (UBS)*,0.72323,Available,Industrial Alliance
+FU153BRUT,Global Direct Real Estate - 100% (UBS)*,0.014688,Available,Industrial Alliance
+FU443BRUT,Global Direct Infrastructure - 100% (IFM)***,9999999900.0,Available,Industrial Alliance
+FU334BRUT,Diversified Alternatives*,0.678476,Available,Industrial Alliance
+FU884BRUT,LifePath Retirement Index I,2.267519,Available,Industrial Alliance
+FU879BRUT,LifePath 2025 Index,2.264216,Available,Industrial Alliance
+FU880BRUT,LifePath 2030 Index,2.361051,Available,Industrial Alliance
+FU881BRUT,LifePath 2035 Index,2.454547,Available,Industrial Alliance
+FU882BRUT,LifePath 2040 Index,2.543408,Available,Industrial Alliance
+FU883BRUT,LifePath 2045 Index,2.641462,Available,Industrial Alliance
+FU894BRUT,LifePath 2050 Index,2.717115,Available,Industrial Alliance
+FU912BRUT,LifePath 2055 Index,2.763285,Available,Industrial Alliance
+FU927BRUT,LifePath 2060 Index,2.746361,Available,Industrial Alliance
+FU949BRUT,LifePath 2065 Index,2.728038,Available,Industrial Alliance
+FU411BRUT,ClearPath Income,1.635041,Available,Industrial Alliance
+FU412BRUT,ClearPath 2020,2.023454,Available,Industrial Alliance
+FU413BRUT,ClearPath 2025,2.188528,Available,Industrial Alliance
+FU414BRUT,ClearPath 2030,2.351149,Available,Industrial Alliance
+FU415BRUT,ClearPath 2035,2.467799,Available,Industrial Alliance
+FU416BRUT,ClearPath 2040,2.604695,Available,Industrial Alliance
+FU417BRUT,ClearPath 2045,2.716711,Available,Industrial Alliance
+FU418BRUT,ClearPath 2050,2.712602,Available,Industrial Alliance
+FU419BRUT,ClearPath 2055,2.723985,Available,Industrial Alliance
+FU721BRUT,ClearPath 2060,2.696978,Available,Industrial Alliance
+FU720BRUT,ClearPath 2065,2.712161,Available,Industrial Alliance
+FU9000BRUT,Conservative - Attitude 2006-2010,1.73466,Available,Industrial Alliance
+FU9546BRUT,Conservative - Attitude 2011-2015,1.7316600000000002,Available,Industrial Alliance
+FU9001BRUT,Conservative - Attitude 2016-2020,1.7254200000000002,Available,Industrial Alliance
+FU9547BRUT,Conservative - Attitude 2021-2025,1.72134,Available,Industrial Alliance
+FU9002BRUT,Conservative - Attitude 2026-2030,1.7180600000000001,Available,Industrial Alliance
+FU9548BRUT,Conservative - Attitude 2031-2035,1.7202499999999998,Available,Industrial Alliance
+FU9003BRUT,Conservative - Attitude 2036-2040,1.72536,Available,Industrial Alliance
+FU9549BRUT,Conservative - Attitude 2041-2045,1.746,Available,Industrial Alliance
+FU9004BRUT,Conservative - Attitude 2046-2050,1.76194,Available,Industrial Alliance
+FU9550BRUT,Conservative - Attitude 2051-2055,1.77024,Available,Industrial Alliance
+FU9339BRUT,Conservative - Attitude 2056-2060,1.778,Available,Industrial Alliance
+FUA005BRUT,Conservative - Attitude 2061-2065,1.778,Available,Industrial Alliance
+FUA134BRUT,Conservative - Attitude 2066-2070,1.778,Available,Industrial Alliance
+FU9005BRUT,Moderate - Attitude 2006-2010,1.72561,Available,Industrial Alliance
+FU9553BRUT,Moderate - Attitude 2011-2015,1.7233600000000002,Available,Industrial Alliance
+FU9006BRUT,Moderate - Attitude 2016-2020,1.71826,Available,Industrial Alliance
+FU9554BRUT,Moderate - Attitude 2021-2025,1.7166299999999999,Available,Industrial Alliance
+FU9007BRUT,Moderate - Attitude 2026-2030,1.7154199999999902,Available,Industrial Alliance
+FU9555BRUT,Moderate - Attitude 2031-2035,1.7174200000000002,Available,Industrial Alliance
+FU9008BRUT,Moderate - Attitude 2036-2040,1.7214899999999902,Available,Industrial Alliance
+FU9556BRUT,Moderate - Attitude 2041-2045,1.73789,Available,Industrial Alliance
+FU9009BRUT,Moderate - Attitude 2046-2050,1.76077,Available,Industrial Alliance
+FU9557BRUT,Moderate - Attitude 2051-2055,1.77229,Available,Industrial Alliance
+FU9340BRUT,Moderate - Attitude 2056-2060,1.78367,Available,Industrial Alliance
+FUA004BRUT,Moderate - Attitude 2061-2065,1.78367,Available,Industrial Alliance
+FUA133BRUT,Moderate - Attitude 2066-2070,1.78367,Available,Industrial Alliance
+FU9010BRUT,Balanced - Attitude 2006-2010,1.7144800000000002,Available,Industrial Alliance
+FU9560BRUT,Balanced - Attitude 2011-2015,1.71171,Available,Industrial Alliance
+FU9011BRUT,Balanced - Attitude 2016-2020,1.70692,Available,Industrial Alliance
+FU9561BRUT,Balanced - Attitude 2021-2025,1.70421,Available,Industrial Alliance
+FU9012BRUT,Balanced - Attitude 2026-2030,1.70289,Available,Industrial Alliance
+FU9562BRUT,Balanced - Attitude 2031-2035,1.71602,Available,Industrial Alliance
+FU9013BRUT,Balanced - Attitude 2036-2040,1.72963,Available,Industrial Alliance
+FU9563BRUT,Balanced - Attitude 2041-2045,1.74791,Available,Industrial Alliance
+FU9014BRUT,Balanced - Attitude 2046-2050,1.76104,Available,Industrial Alliance
+FU9564BRUT,Balanced - Attitude 2051-2055,1.76622,Available,Industrial Alliance
+FU9341BRUT,Balanced - Attitude 2056-2060,1.7715600000000002,Available,Industrial Alliance
+FUA003BRUT,Balanced - Attitude 2061-2065,1.7715600000000002,Available,Industrial Alliance
+FUA132BRUT,Balanced - Attitude 2066-2070,1.7715600000000002,Available,Industrial Alliance
+FU9015BRUT,Growth - Attitude 2006-2010,1.70359,Available,Industrial Alliance
+FU9567BRUT,Growth - Attitude 2011-2015,1.70141,Available,Industrial Alliance
+FU9016BRUT,Growth - Attitude 2016-2020,1.69697,Available,Industrial Alliance
+FU9568BRUT,Growth - Attitude 2021-2025,1.6956199999999901,Available,Industrial Alliance
+FU9017BRUT,Growth - Attitude 2026-2030,1.69564,Available,Industrial Alliance
+FU9569BRUT,Growth - Attitude 2031-2035,1.7225899999999998,Available,Industrial Alliance
+FU9018BRUT,Growth - Attitude 2036-2040,1.7365,Available,Industrial Alliance
+FU9570BRUT,Growth - Attitude 2041-2045,1.7535599999999998,Available,Industrial Alliance
+FU9019BRUT,Growth - Attitude 2046-2050,1.76172,Available,Industrial Alliance
+FU9571BRUT,Growth - Attitude 2051-2055,1.76421,Available,Industrial Alliance
+FU9342BRUT,Growth - Attitude 2056-2060,1.7666899999999999,Available,Industrial Alliance
+FUA002BRUT,Growth - Attitude 2061-2065,1.7666899999999999,Available,Industrial Alliance
+FUA131BRUT,Growth - Attitude 2066-2070,1.7666899999999999,Available,Industrial Alliance
+FU9020BRUT,Aggressive - Attitude 2006-2010,1.68162,Available,Industrial Alliance
+FU9574BRUT,Aggressive - Attitude 2011-2015,1.67964,Available,Industrial Alliance
+FU9021BRUT,Aggressive - Attitude 2016-2020,1.6780799999999998,Available,Industrial Alliance
+FU9575BRUT,Aggressive - Attitude 2021-2025,1.6824599999999998,Available,Industrial Alliance
+FU9022BRUT,Aggressive - Attitude 2026-2030,1.68905,Available,Industrial Alliance
+FU9576BRUT,Aggressive - Attitude 2031-2035,1.7103999999999902,Available,Industrial Alliance
+FU9023BRUT,Aggressive - Attitude 2036-2040,1.72217,Available,Industrial Alliance
+FU9577BRUT,Aggressive - Attitude 2041-2045,1.73626,Available,Industrial Alliance
+FU9024BRUT,Aggressive - Attitude 2046-2050,1.7468299999999999,Available,Industrial Alliance
+FU9578BRUT,Aggressive - Attitude 2051-2055,1.7525499999999998,Available,Industrial Alliance
+FU9343BRUT,Aggressive - Attitude 2056-2060,1.7566700000000002,Available,Industrial Alliance
+FUA001BRUT,Aggressive - Attitude 2061-2065,1.7566700000000002,Available,Industrial Alliance
+FUA130BRUT,Aggressive - Attitude 2066-2070,1.7566700000000002,Available,Industrial Alliance

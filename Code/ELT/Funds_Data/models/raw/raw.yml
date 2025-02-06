@@ -1,0 +1,81 @@
+version: 2
+
+
+########################################################################## 
+# Tables, descriptions, and tests
+##########################################################################
+
+models:
+  # Fund Companies
+  ##################################################
+  - name: raw_fund_companies
+    description: companies who offer the funds
+    columns:
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          - unique
+          - not_null
+
+      - name: fund_company
+        description: unique fund company
+        data_tests:
+          - unique
+          - not_null
+  
+  # Funds
+  ##################################################       
+  - name: raw_funds
+    description: All funds offered
+    columns:
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          - unique
+          - not_null
+
+      - name: funds
+        description: unique funds
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_type
+        description: Flags if the fund is currenly available or not by the fund company
+        data_tests:
+          - not_null
+
+  # Returns
+  ##################################################
+  - name: raw_returns
+    description: all hsitorical and current monthly returns per fund
+    columns:
+
+      - name: returns_id
+        description: unique id per return per fund per date
+        data_tests:
+          - unique
+          - not_null
+
+      - name: fund_identifier
+        description: unique id per fund
+        data_tests:
+          - not_null
+
+      - name: returns
+        description: retruns per fund per date
+        data_tests:
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          - not_null
+
+      - name: date
+        description: Date per return per fund
+        data_tests:
+          - not_null
+          

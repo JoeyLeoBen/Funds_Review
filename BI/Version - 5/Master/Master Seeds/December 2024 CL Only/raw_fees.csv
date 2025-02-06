@@ -1,0 +1,323 @@
+﻿fund_identifier,funds,fees,fund_company
+HFIPS,Harmonized Fixed Income Fund (HFIPS),0.0144,Canada Life
+HCEPS,Harmonized Canadian Equity Fund (HCEPS),0.01548,Canada Life
+HFEPS,Harmonized Foreign Equity Fund (HFEPS),0.01592,Canada Life
+HSEPS,Harmonized Special Equity Fund (HSEPS),0.0161,Canada Life
+HY25,Harmonized Conservative Fund 2025 (HY25),0.01502,Canada Life
+HY30,Harmonized Conservative Fund 2030 (HY30),0.01508,Canada Life
+HY35,Harmonized Conservative Fund 2035 (HY35),0.01514,Canada Life
+HY40,Harmonized Conservative Fund 2040 (HY40),0.01519,Canada Life
+HY45,Harmonized Conservative Fund 2045 (HY45),0.01525,Canada Life
+HY50,Harmonized Conservative Fund 2050 (HY50),0.01525,Canada Life
+HY55,Harmonized Conservative Fund 2055 (HY55),0.01525,Canada Life
+HY60,Harmonized Conservative Fund 2060 (HY60),0.01525,Canada Life
+HY65,Harmonized Conservative Fund 2065 (HY65),0.01525,Canada Life
+H25,Harmonized Fund 2025 (H25),0.01508,Canada Life
+H30,Harmonized Fund 2030 (H30),0.01515,Canada Life
+H35,Harmonized Fund 2035 (H35),0.01521,Canada Life
+H40,Harmonized Fund 2040 (H40),0.01528,Canada Life
+H45,Harmonized Fund 2045 (H45),0.01533,Canada Life
+H50,Harmonized Fund 2050 (H50),0.01533,Canada Life
+H55,Harmonized Fund 2055 (H55),0.01533,Canada Life
+H60,Harmonized Fund 2060 (H60),0.01533,Canada Life
+H65,Harmonized Fund 2065 (H65),0.01533,Canada Life
+HZ25,Harmonized Aggressive Fund 2025 (HZ25),0.01513,Canada Life
+HZ30,Harmonized Aggressive Fund 2030 (HZ30),0.01521,Canada Life
+HZ35,Harmonized Aggressive Fund 2035 (HZ35),0.01529,Canada Life
+HZ40,Harmonized Aggressive Fund 2040 (HZ40),0.01533,Canada Life
+HZ45,Harmonized Aggressive Fund 2045 (HZ45),0.01533,Canada Life
+HZ50,Harmonized Aggressive Fund 2050 (HZ50),0.01533,Canada Life
+HZ55,Harmonized Aggressive Fund 2055 (HZ55),0.01533,Canada Life
+HZ60,Harmonized Aggressive Fund 2060 (HZ60),0.01533,Canada Life
+HZ65,Harmonized Aggressive Fund 2065 (HZ65),0.01533,Canada Life
+LCOPR,Conservative Profile Fund (LCOPR),0.01621,Canada Life
+LMOPR,Moderate Profile Fund (LMOPR),0.01619,Canada Life
+LBAPR,Balanced Profile Fund (LBAPR),0.01617,Canada Life
+LCFPR,Advanced Profile Fund (LCFPR),0.01616,Canada Life
+LAGPR,Aggressive Profile Fund (LAGPR),0.01613,Canada Life
+CADFI,Cadence Fixed Income Fund (CADFI),0.016,Canada Life
+CAD25,Cadence 2025 Fund (CAD25),0.01641,Canada Life
+CAD30,Cadence 2030 Fund (CAD30),0.0164,Canada Life
+CAD35,Cadence 2035 Fund (CAD35),0.01639,Canada Life
+CAD40,Cadence 2040 Fund (CAD40),0.01638,Canada Life
+CAD45,Cadence 2045 Fund (CAD45),0.01638,Canada Life
+CAD50,Cadence 2050 Fund (CAD50),0.01638,Canada Life
+CAD55,Cadence 2055 Fund (CAD55),0.01638,Canada Life
+CAD60,Cadence 2060 Fund (CAD60),0.01638,Canada Life
+CAD65,Cadence 2065 Fund (CAD65),0.01638,Canada Life
+CADEQ,Cadence Equity Fund (CADEQ),0.01684,Canada Life
+LCOPO,Conservative Portfolio Fund (LCOPO),0.01618,Canada Life
+LMOPO,Moderate Portfolio Fund (LMOPO),0.01616,Canada Life
+LBAPO,Balanced Portfolio Fund (LBAPO),0.01615,Canada Life
+LADPO,Advanced Portfolio Fund (LADPO),0.01615,Canada Life
+LAGPO,Aggressive Portfolio Fund (LAGPO),0.01614,Canada Life
+S605,Conservative Continuum Fund (S605),0.01648,Canada Life
+S606,Moderate Continuum Fund (S606),0.01648,Canada Life
+S607,Balanced Continuum Fund (S607),0.01648,Canada Life
+S608,Advanced Continuum Fund (S608),0.01648,Canada Life
+S609,Aggressive Continuum Fund (S609),0.01649,Canada Life
+CNY25,Continuum 2025 Conservative Fund (CNY25),0.01698,Canada Life
+CNY30,Continuum 2030 Conservative Fund (CNY30),0.01698,Canada Life
+CNY35,Continuum 2035 Conservative Fund (CNY35),0.01698,Canada Life
+CNY40,Continuum 2040 Conservative Fund (CNY40),0.01698,Canada Life
+CNY45,Continuum 2045 Conservative Fund (CNY45),0.01698,Canada Life
+CNY50,Continuum 2050 Conservative Fund (CNY50),0.01698,Canada Life
+CNY55,Continuum 2055 Conservative Fund (CNY55),0.01698,Canada Life
+CNY60,Continuum 2060 Conservative Fund (CNY60),0.01698,Canada Life
+CNY65,Continuum 2065 Conservative Fund (CNY65),0.01697,Canada Life
+CNT25,Continuum 2025 Fund (CNT25),0.01698,Canada Life
+CNT30,Continuum 2030 Fund (CNT30),0.01698,Canada Life
+CNT35,Continuum 2035 Fund (CNT35),0.01698,Canada Life
+CNT40,Continuum 2040 Fund (CNT40),0.01698,Canada Life
+CNT45,Continuum 2045 Fund (CNT45),0.01698,Canada Life
+CNT50,Continuum 2050 Fund (CNT50),0.01698,Canada Life
+CNT55,Continuum 2055 Fund (CNT55),0.01698,Canada Life
+CNT60,Continuum 2060 Fund (CNT60),0.01698,Canada Life
+CNT65,Continuum 2065 Fund (CNT65),0.01698,Canada Life
+CNZ25,Continuum 2025 Aggressive Fund (CNZ25),0.01698,Canada Life
+CNZ30,Continuum 2030 Aggressive Fund (CNZ30),0.01698,Canada Life
+CNZ35,Continuum 2035 Aggressive Fund (CNZ35),0.01698,Canada Life
+CNZ40,Continuum 2040 Aggressive Fund (CNZ40),0.01699,Canada Life
+CNZ45,Continuum 2045 Aggressive Fund (CNZ45),0.01698,Canada Life
+CNZ50,Continuum 2050 Aggressive Fund (CNZ50),0.01698,Canada Life
+CNZ55,Continuum 2055 Aggressive Fund (CNZ55),0.01698,Canada Life
+CNZ60,Continuum 2060 Aggressive Fund (CNZ60),0.01698,Canada Life
+CNZ65,Continuum 2065 Aggressive Fund (CNZ65),0.01698,Canada Life
+LREG,Real Estate Fund (LREG),0.02133,Canada Life
+LTBL,Long Term Bond Fund (LTBL),0.01433,Canada Life
+RRBP,Real Return Bond Fund (RRBP),0.01433,Canada Life
+ULTBP,Ultra Long Term Bond Fund (ULTBP),0.01433,Canada Life
+LLMRT,Mortgage Fund (LLMRT),0.01683,Canada Life
+LMG,Commercial Mortgage Fund (LMG),0.01683,Canada Life
+LBIG,Balanced Index Fund (LBIG),0.01389,Canada Life
+S036,Foreign Bond Fund (S036),0.01608,Canada Life
+GLEQC,Global Equity Fund (GLEQC),0.01633,Canada Life
+LSGAG,Far East Fund (LSGAG),0.01633,Canada Life
+LCOMK,Global Low Volatility Fund (LCOMK),0.01633,Canada Life
+RETCO,Retirement Conservative Fund (RETCO),0.0165,Canada Life
+RETMO,Retirement Moderate Fund (RETMO),0.01653,Canada Life
+RETBA,Retirement Balanced Fund (RETBA),0.01657,Canada Life
+LLMON,Canadian Money Market Fund (LLMON),0.01383,Canada Life
+S029,Money Market LK Fund (S029),0.01383,Canada Life
+LCBIL,Canadian Bond Universe Index Fund (LCBIL),0.01383,Canada Life
+LCBG,Canadian Core Fixed Income Fund (LCBG),0.01433,Canada Life
+STBP,Canadian Short Term Bond Fund (STBP),0.01433,Canada Life
+LLBON,Core Bond Fund (LLBON),0.01433,Canada Life
+S019,Core Plus Bond Fund (S019),0.01483,Canada Life
+CORBP,Corporate Bond Fund (CORBP),0.01433,Canada Life
+FRIMK,Floating Rate Income Fund (FRIMK),0.01583,Canada Life
+LGBG,Government Bond Fund (LGBG),0.01433,Canada Life
+SRBP,SRI Bond Fund (SRBP),0.01433,Canada Life
+UFIMK,Unconstrained Fixed Income Fund (UFIMK),0.01553,Canada Life
+NABMK,NA High Yield Bond Fund (NABMK),0.01553,Canada Life
+LCEG,Canadian All Cap Growth Fund (LCEG),0.01533,Canada Life
+LCEGM,Canadian Core Growth Fund (LCEGM),0.01563,Canada Life
+S002,Canadian Equity Fund (S002),0.01533,Canada Life
+LEIG,Canadian Equity Index Fund (LEIG),0.01383,Canada Life
+LEMK,Equity Fund (LEMK),0.01533,Canada Life
+LLEG,SRI Canadian Equity Fund (LLEG),0.01533,Canada Life
+LMCCG,Mid Cap Canada Fund (LMCCG),0.01633,Canada Life
+LSCMK,Smaller Company Fund (LSCMK),0.01633,Canada Life
+S039,Canadian Concentrated Dividend Fund (S039),0.01533,Canada Life
+LDVDM,Canadian Dividend Fund (LDVDM),0.01563,Canada Life
+LLCMK,Canadian Low Volatility Fund (LLCMK),0.01533,Canada Life
+LLCNE,Canadian Value Equity Fund (LLCNE),0.01533,Canada Life
+LDVDG,Dividend Fund (LDVDG),0.01533,Canada Life
+LGIMK,Canadian Balanced Ivy Fund (LGIMK),0.01583,Canada Life
+LDG,Strategic Income III Fund (LDG),0.01613,Canada Life
+LLDIV,Strategic Income II Fund (LLDIV),0.01613,Canada Life
+LEBG,Canadian Growth Balanced Fund (LEBG),0.01583,Canada Life
+LIG,Canadian Fixed Income Balanced III Fund (LIG),0.01583,Canada Life
+PBA,North American Balanced Fund (PBA),0.01583,Canada Life
+SRBAL,SRI Balanced Fund (SRBAL),0.01583,Canada Life
+LCBM,Strategic Income Fund (LCBM),0.01613,Canada Life
+LINMK,Canadian Fixed Income Balanced II Fund (LINMK),0.01583,Canada Life
+LBMK,Global Strategic Income Fund (LBMK),0.01613,Canada Life
+LLUSE,US Core Growth Fund (LLUSE),0.01583,Canada Life
+S178,US Disciplined Value Fund (S178),0.01583,Canada Life
+USDVG,US Dividend Fund (USDVG),0.01583,Canada Life
+USIXG,US Index Registered Fund (USIXG) ,0.01383,Canada Life
+LUSEG,US Large Cap Equity Fund (LUSEG),0.01583,Canada Life
+USGSL,US Mid Cap Equity Fund (USGSL),0.01683,Canada Life
+LLMCG,US Mid Cap Fund (LLMCG),0.01683,Canada Life
+ISMK,International Equity Fund (ISMK),0.01723,Canada Life
+LGEM,Global Growth Fund (LGEM),0.01663,Canada Life
+GSCMK,Global Small-Mid Cap Equity Fund (GSCMK),0.01813,Canada Life
+FEMK,Ivy Foreign Equity Fund (FEMK),0.01663,Canada Life
+LLEMS,Emerging Markets Fund (LLEMS),0.01963,Canada Life
+LCRAG,Global Resources Fund (LCRAG),0.01533,Canada Life
+GINFL,Global Infrastructure Equity Fund (GINFL),0.01633,Canada Life
+LNRM,Global Resource Fund (LNRM),0.01693,Canada Life
+LPMM,Precious Metals Fund (LPMM),0.01683,Canada Life
+LLSTG,Science & Technology Fund (LLSTG),0.01583,Canada Life
+LEES,European Equity Fund (LEES),0.01633,Canada Life
+S034,Global Equity Fund (S034),0.01633,Canada Life
+SRGES,SRI Global Equity Fund (SRGES),0.01683,Canada Life
+GDIVS,Global Dividend Fund (GDIVS),0.01633,Canada Life
+IES,International Equity Fund (IES),0.01633,Canada Life
+LAEM,US Growth Fund (LAEM),0.01773,Canada Life
+USVEP,US Value Equity Fund (USVEP),0.01733,Canada Life
+USLVP,US Low Volatility Fund (USLVP),0.01733,Canada Life
+LGEL,Global Equity Fund (LGEL),0.01733,Canada Life
+LIEP,International Equity Fund (LIEP),0.01733,Canada Life
+EMP,Emerging Markets Fund (EMP),0.01933,Canada Life
+AGGE,Growth Equity Fund (AGGE),0.01683,Canada Life
+LAGAG,American Growth Fund (LAGAG),0.01883,Canada Life
+LBOBG,Bond Fund (LBOBG),0.01558,Canada Life
+LNABG,Canadian Equity Fund (LNABG),0.01583,Canada Life
+BALBG,Balanced Global Fund (BALBG),0.01653,Canada Life
+LBABG,Balanced Fund (LBABG),0.01583,Canada Life
+S261,American Equity Fund (S261),0.01653,Canada Life
+S158,Core Plus Bond Fund (S158) - Franklin Canada,0.01683,Canada Life
+S103,Canadian Equity Fund (S103) - ClearBridge,0.01633,Canada Life
+S105,Cdn Small Cap Equity Fund (S105) - ClearBridge,0.01983,Canada Life
+S104,Balanced Fund (S104) - Templeton,0.01683,Canada Life
+LIETN,International Equity N Fund (LIETN) - Templeton,0.01953,Canada Life
+BGI25,BlackRock LifePath 2025 (BGI25),0.0151782,Canada Life
+BGI30,BlackRock LifePath 2030 (BGI30),0.01523382,Canada Life
+BGI35,BlackRock LifePath 2035 (BGI35),0.0152948,Canada Life
+BGI40,BlackRock LifePath 2040 (BGI40),0.01534359,Canada Life
+BGI45,BlackRock LifePath 2045 (BGI45),0.01537411,Canada Life
+BGI50,BlackRock LifePath 2050 (BGI50),0.01538748,Canada Life
+BGI55,BlackRock LifePath 2055 (BGI55),0.01538688,Canada Life
+BGI60,BlackRock LifePath 2060 (BGI60),0.01539262,Canada Life
+BGI65,BlackRock LifePath 2065 (BGI65),0.01585924,Canada Life
+BGIRT,BlackRock LifePath Retirement Fund (BGIRT),0.01516555,Canada Life
+IGEIB,Islamic Global Equity Index Fund (IGEIB) ,0.02135148,Canada Life
+LIBP,Global Bond Fund (LIBP),0.01713,Canada Life
+CBR,Core Plus Bond Fund (CBR) **,0.01683,Canada Life
+GECG,Global Equity Fund (GECG) ,0.02023,Canada Life
+CCLB,Bond Fund (CCLB),0.015803,Canada Life
+PCE,Equity Fund (PCE),0.016567,Canada Life
+PCB,Balanced Fund (PCB),0.017054,Canada Life
+IESR,International Equity Q Fund (IESR) **,0.020776,Canada Life
+FCECC,Fundamental Canadian Equity Fund (FCECC),0.01633,Canada Life
+DYPF,Partners Fund (DYPF),0.01973,Canada Life
+CVDY,Canadian Value Fund (CVDY),0.01583,Canada Life
+CP20,ClearPath 2020 Fund (CP20),0.017382816,Canada Life
+CP25,ClearPath 2025 Fund (CP25),0.017387487,Canada Life
+CP30,ClearPath 2030 Fund (CP30),0.017398439,Canada Life
+CP35,ClearPath 2035 Fund (CP35),0.017410534,Canada Life
+CP40,ClearPath 2040 Fund (CP40),0.017421962,Canada Life
+CP45,ClearPath 2045 Fund (CP45),0.01743089,Canada Life
+CP50,ClearPath 2050 Fund (CP50),0.01743171,Canada Life
+CP55,ClearPath 2055 Fund (CP55),0.017432352,Canada Life
+CP60,ClearPath 2060 Fund (CP60),0.017435265,Canada Life
+CP65,ClearPath 2065 Fund (CP65),0.017619,Canada Life
+CPIF,ClearPath Income Fund (CPIF),0.017403585,Canada Life
+CBTF,Canadian Bond Trust (CBTF),0.0166372,Canada Life
+CCEF,Canadian Core Equity Trust (CCEF),0.0166541,Canada Life
+CBALF,Canadian Balanced Fund (CBALF),0.01883,Canada Life
+S176,True North Fund (S176),0.01883,Canada Life
+S191,Canadian Asset Allocation Fund (S191),0.01893,Canada Life
+CDEF,Canadian Disciplined Equity Fund (CDEF),0.01883,Canada Life
+CGCF,Canadian Growth Company Fund (CGCF),0.01883,Canada Life
+USLC,US Large Cap Core Trust (USLC) ,0.0208201,Canada Life
+GRAF,US Focused Stock (GRAF),0.01983,Canada Life
+S184,Global Fund (S184),0.01983,Canada Life
+CPBF,Canadian Core Plus Bond Fund (CPBF),0.017212595,Canada Life
+AGGI,Tactical Asset Allocation Income Fund (AGGI),0.018053,Canada Life
+CIP20,ClearPath Index Plus 2020 (CIP20),0.01563,Canada Life
+CIP25,ClearPath Index Plus 2025 (CIP25),0.01563,Canada Life
+CIP30,ClearPath Index Plus 2030 (CIP30),0.01563,Canada Life
+CIP35,ClearPath Index Plus 2035 (CIP35),0.01563,Canada Life
+CIP40,ClearPath Index Plus 2040 (CIP40),0.01563,Canada Life
+CIP45,ClearPath Index Plus 2045 (CIP45),0.01563,Canada Life
+CIP50,ClearPath Index Plus 2050 (CIP50),0.01563,Canada Life
+CIP55,ClearPath Index Plus 2055 (CIP55),0.01563,Canada Life
+CIP60,ClearPath Index Plus 2060 (CIP60),0.01563,Canada Life
+CIP65,ClearPath Index Plus 2065 (CIP65),0.01563,Canada Life
+CIPIF,ClearPath Index Plus Income (CIPIF),0.01563,Canada Life
+CPP20,ClearPath Portfolio 2020 (CPP20),0.01833,Canada Life
+CPP25,ClearPath Portfolio 2025 (CPP25),0.01833,Canada Life
+CPP30,ClearPath Portfolio 2030 (CPP30),0.01833,Canada Life
+CPP35,ClearPath Portfolio 2035 (CPP35),0.01833,Canada Life
+CPP40,ClearPath Portfolio 2040 (CPP40),0.01833,Canada Life
+CPP45,ClearPath Portfolio 2045 (CPP45),0.01833,Canada Life
+CPP50,ClearPath Portfolio 2050 (CPP50),0.01833,Canada Life
+CPP55,ClearPath Portfolio 2055 (CPP55),0.01833,Canada Life
+CPP60,ClearPath Portfolio 2060 (CPP60),0.01833,Canada Life
+CPP65,ClearPath Portfolio 2065 (CPP65),0.01833,Canada Life
+CPPIF,ClearPath Portfolio Income (CPPIF),0.01833,Canada Life
+PSB,Balanced Core Fund (PSB),0.01633,Canada Life
+PSE,Equity Fund (PSE),0.01633,Canada Life
+GSCGA,Global Small Cap Fund (GSCGA),0.022936,Canada Life
+S209,Fixed Income Fund (S209),0.01543,Canada Life
+S208,Balanced Fund (S208),0.01578,Canada Life
+S289,Canadian Growth Fund (S289),0.01833,Canada Life
+TRIG,Income Growth Fund (TRIG),0.01833,Canada Life
+S329,US Companies Fund (S329),0.01833,Canada Life
+TRGE,Global Equity Fund (TRGE),0.01833,Canada Life
+BJF,Bond Fund (BJF),0.015622389,Canada Life
+CEJF,Canadian Equity Fund (CEJF),0.015623559,Canada Life
+BALJF,Balanced Fund (BALJF) ,0.015626,Canada Life
+USEJF,US Equity Fund (USEJF),0.015611391,Canada Life
+S311,Global Balanced Fund (S311),0.015612521,Canada Life
+IEJF,International Equity Fund (IEJF),0.019866436,Canada Life
+JPM25,Sustainable Target Date 2025 Fund (JPM25),0.01733,Canada Life
+JPM30,Sustainable Target Date 2030 Fund (JPM30),0.01733,Canada Life
+JPM35,Sustainable Target Date 2035 Fund (JPM35),0.01733,Canada Life
+JPM40,Sustainable Target Date 2040 Fund (JPM40),0.01733,Canada Life
+JPM45,Sustainable Target Date 2045 Fund (JPM45),0.01733,Canada Life
+JPM50,Sustainable Target Date 2050 Fund (JPM50),0.01733,Canada Life
+JPM55,Sustainable Target Date 2055 Fund (JPM55),0.01733,Canada Life
+JPM60,Sustainable Target Date 2060 Fund (JPM60),0.01733,Canada Life
+JPMIN,Sustainable Income Fund (JPMIN),0.01733,Canada Life
+LLINE,International Equity Fund (LLINE),0.01733,Canada Life
+LIOP,International Opportunity Fund (LIOP),0.01733,Canada Life
+SEMEQ,SustainableEmerging MarketsEquity Fund (SEMEQ),0.01963,Canada Life
+SGLEQ,Sustainable Global Equity Fund (SGLEQ),0.01813,Canada Life
+SGLBD,Sustainable Global Bond Fund (SGLBD),0.01613,Canada Life
+ESGUS,ESG US Equity Fund (ESGUS),0.01663,Canada Life
+USCTE,US Carbon Transition Equity Fund (USCTE),0.01613,Canada Life
+S196,Balanced Fund (S196),0.01633,Canada Life
+S195,Canadian Equity Fund (S195),0.01633,Canada Life
+CPBLW,Canadian Core Plus Bond Fund (CPBLW),0.01583,Canada Life
+GEMA,Global Equity Fund (GEMA),0.01893,Canada Life
+IEMA,International Equity Fund (IEMA),0.01913,Canada Life
+MFS25,LifePlan 2025 Fund (MFS25),0.01673,Canada Life
+MFS30,LifePlan 2030 Fund (MFS30),0.01663,Canada Life
+MFS35,LifePlan 2035 Fund (MFS35),0.01663,Canada Life
+MFS40,LifePlan 2040 Fund (MFS40),0.01663,Canada Life
+MFS45,LifePlan 2045 Fund (MFS45),0.01673,Canada Life
+MFS50,LifePlan 2050 Fund (MFS50),0.01673,Canada Life
+MFS55,LifePlan 2055 Fund (MFS55),0.01683,Canada Life
+MFS60,LifePlan 2060 Fund (MFS60),0.01703,Canada Life
+MFS65,LifePlan 2065 Fund (MFS65),0.01703,Canada Life
+MFSRT,LifePlan Retirement Fund (MFSRT),0.01693,Canada Life
+FIMB,Fixed Income Fund (FIMB),0.01518,Canada Life
+AEMB,American Equity Fund (AEMB),0.01993,Canada Life
+IEMB,International Equity Fund (IEMB),0.02013,Canada Life
+GEMB,Global Equity Fund (GEMB),0.02003,Canada Life
+MTGE,Growth Equity Fund (MTGE),0.01713,Canada Life
+EMKCE,Emerging Markets Concentrated Equity Fund (EMKCE),0.01963,Canada Life
+S149,Bond Fund (S149),0.01603,Canada Life
+S147,Balanced Pension Trust (S147),0.01673,Canada Life
+S269,Canadian Equity Fund (S269),0.01653,Canada Life
+CPBPH,Canadian Core Plus Bond Fund (CPBPH),0.01663,Canada Life
+GEFPH,Global Equity Focus Fund (GEFPH),0.01903,Canada Life
+MIPI,Monthly Income Fund (MIPI),0.01913,Canada Life
+GGR,Global Growth Fund (GGR) **,0.01983,Canada Life
+GSRR,Global Sectors Fund (GSRR) **,0.01983,Canada Life
+SPIE,International Equity Fund (SPIE),0.019188,Canada Life
+GES,Global Equity Fund (GES),0.019184,Canada Life
+BSR,Bond Fund (BSR),0.016206,Canada Life
+CESR,Canadian Equity Fund (CESR),0.016569,Canada Life
+BALSR,Balanced Fund (BALSR),0.017687,Canada Life
+S079,Canadian Bond Index Fund (S079),0.01403,Canada Life
+S120,Canadian Equity Index Fund (S120),0.01393,Canada Life
+S080,Balanced Index Fund (S080),0.01423,Canada Life
+LUSET,US Equity Index Fund (LUSET),0.01403,Canada Life
+LIEIT,International Equity Index Fund (LIEIT),0.01413,Canada Life
+S244,Global Equity Index Fund (S244),0.01413,Canada Life
+USITD,US Index Registered (USITD) ,0.01393,Canada Life
+GGERP,Global Growth Equity Fund (GGERP),0.01933,Canada Life
+TRP25,T Rowe Price Retirement Date 2025 (TRP25),0.01693,Canada Life
+TRP30,T Rowe Price Retirement Date 2030 (TRP30),0.01693,Canada Life
+TRP35,T Rowe Price Retirement Date 2035 (TRP35),0.01693,Canada Life
+TRP40,T Rowe Price Retirement Date 2040 (TRP40),0.01693,Canada Life
+TRP45,T Rowe Price Retirement Date 2045 (TRP45),0.01693,Canada Life
+TRP50,T Rowe Price Retirement Date 2050 (TRP50),0.01693,Canada Life
+TRP55,T Rowe Price Retirement Date 2055 (TRP55),0.01693,Canada Life
+TRP60,T Rowe Price Retirement Date 2060 (TRP60),0.01693,Canada Life
+TRP65,T Rowe Price Retirement Date 2065 (TRP65),0.01693,Canada Life

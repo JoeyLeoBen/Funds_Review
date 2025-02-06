@@ -1,0 +1,378 @@
+fund_identifier,funds,market_value,member_count,fund_company,invested
+AEMB,American Equity (MFS),,,Canada Life,No
+AGGE,Growth Equity (AGF),,,Canada Life,No
+AGGI,Tact Asset Alloc Income (Fidelity),,,Canada Life,No
+AMDEF,American Disciplined Equity (Fidelity),,,Canada Life,No
+BALBG,Balanced Global (Beutel Goodman),,,Canada Life,No
+BALJF,Balanced (Jarislowsky Fraser)*,,,Canada Life,No
+BALSR,Balanced (SRA),,,Canada Life,No
+BALTA,Balanced (CIBC Global AM)*,,,Canada Life,No
+BGI10,BlackRock LifePath 2010 Retirement,,,Canada Life,No
+BGI15,BlackRock LifePath 2015 Retirement,,,Canada Life,No
+BGI20,BlackRock LifePath 2020 Retirement,,,Canada Life,No
+BGI25,BlackRock LifePath 2025,,,Canada Life,No
+BGI30,BlackRock LifePath 2030,,,Canada Life,No
+BGI35,BlackRock LifePath 2035,,,Canada Life,No
+BGI40,BlackRock LifePath 2040,,,Canada Life,No
+BGI45,BlackRock LifePath 2045,,,Canada Life,No
+BGI50,BlackRock LifePath 2050,,,Canada Life,No
+BGI55,BlackRock LifePath 2055,,,Canada Life,No
+BGI60,BlackRock LifePath 2060,,,Canada Life,No
+BGI65,BlackRock LifePath 2065,,,Canada Life,No
+BGIRT,BlackRock LifePath Retirement,,,Canada Life,No
+BGMB,Balanced Growth (MFS),,,Canada Life,No
+BJF,Bond (Jarislowsky Fraser),,,Canada Life,No
+BLCMB,Balanced (MFS),,,Canada Life,No
+BSR,Bond (SRA),,,Canada Life,No
+BVMB,Balanced Value (MFS),,,Canada Life,No
+CAACI,Cambridge Asset Allocation (CI),,,Canada Life,No
+CAD10,Cadence Retirement 2010 (PSG),,,Canada Life,No
+CAD15,Cadence 2015 Retirement (PSG),,,Canada Life,No
+CAD20,Cadence 2020 Retirement (PSG),,,Canada Life,No
+CAD25,Cadence 2025 (PSG),,,Canada Life,No
+CAD30,Cadence 2030 (PSG),,,Canada Life,No
+CAD35,Cadence 2035 (PSG),,,Canada Life,No
+CAD40,Cadence 2040 (PSG),,,Canada Life,No
+CAD45,Cadence 2045 (PSG),,,Canada Life,No
+CAD50,Cadence 2050 (PSG),,,Canada Life,No
+CAD55,Cadence 2055 (PSG),,,Canada Life,No
+CAD60,Cadence 2060 (PSG),,,Canada Life,No
+CAD65,Cadence 2065 (PSG),,,Canada Life,No
+CADEQ,Cadence Equity (PSG),,,Canada Life,No
+CADFI,Cadence Fixed Income (PSG),,,Canada Life,No
+CADRT,Cadence Retirement (PSG),,,Canada Life,No
+CBALF,Canadian Balanced (Fidelity),,,Canada Life,No
+CBMER,Socially Responsible Bond (NEI),,,Canada Life,No
+CBR,Core Plus Bond (CIBC),,,Canada Life,No
+CBTF,Canadian Bond Instl (Fidelity),,,Canada Life,No
+CCEF,Cdn Core Equity Instl (Fidelity),,,Canada Life,No
+CCLB,Bond (CC&L),,,Canada Life,No
+CCLI,International Equity (CC&L),,,Canada Life,No
+CDEF,Canadian Disciplined Equity (Fidelity),,,Canada Life,No
+CEBG,Pure Canadian Equity (Beutel Goodman),,,Canada Life,No
+CECMB,Canadian Research Equity (MFS),,,Canada Life,No
+CEGMB,Canadian Equity (MFS),,,Canada Life,No
+CEJF,Canadian Equity (Jarislowsky Fraser),,,Canada Life,No
+CEPMB,Canadian Equity Plus (MFS),,,Canada Life,No
+CESR,Canadian Equity (SRA),,,Canada Life,No
+CETA,Equity (CIBC Global AM)*,,,Canada Life,No
+CEVMB,Cdn Low Volatility Equity (MFS),,,Canada Life,No
+CGCF,Canadian Growth Company (Fidelity),,,Canada Life,No
+CIP20,Clearpath Index Pl 2020 (Fidelity),,,Canada Life,No
+CIP25,Clearpath Index Pl 2025 (Fidelity),,,Canada Life,No
+CIP30,Clearpath Index Pl 2030 (Fidelity),,,Canada Life,No
+CIP35,Clearpath Index Pl 2035 (Fidelity),,,Canada Life,No
+CIP40,Clearpath Index Pl 2040 (Fidelity),,,Canada Life,No
+CIP45,Clearpath Index Pl 2045 (Fidelity),,,Canada Life,No
+CIP50,Clearpath Index Pl 2050 (Fidelity),,,Canada Life,No
+CIP55,Clearpath Index Pl 2055 (Fidelity),,,Canada Life,No
+CIP60,Clearpath Index Pl 2060 (Fidelity),,,Canada Life,No
+CIP65,Clearpath Index Pl 2065 (Fidelity),,,Canada Life,No
+CIPIF,Clearpath Index Pl Inc (Fidelity),,,Canada Life,No
+CNT10,Continuum Retirement 2010 (PSG),,,Canada Life,No
+CNT15,Continuum 2015 Retirement (PSG),,,Canada Life,No
+CNT20,Continuum 2020 Retirement (PSG),,,Canada Life,No
+CNT25,Continuum 2025 (PSG),,,Canada Life,No
+CNT30,Continuum 2030 (PSG),,,Canada Life,No
+CNT35,Continuum 2035 (PSG),,,Canada Life,No
+CNT40,Continuum 2040 (PSG),,,Canada Life,No
+CNT45,Continuum 2045 (PSG),,,Canada Life,No
+CNT50,Continuum 2050 (PSG),,,Canada Life,No
+CNT55,Continuum 2055 (PSG),,,Canada Life,No
+CNT60,Continuum 2060 (PSG),,,Canada Life,No
+CNT65,Continuum 2065 (PSG),,,Canada Life,No
+CNY15,Continuum Con 2015 Retirement (PSG),,,Canada Life,No
+CNY20,Continuum Con Retirement 2020 (PSG),,,Canada Life,No
+CNY25,Continuum Conservative 2025 (PSG),,,Canada Life,No
+CNY30,Continuum Conservative 2030 (PSG),,,Canada Life,No
+CNY35,Continuum Conservative 2035 (PSG),,,Canada Life,No
+CNY40,Continuum Conservative 2040 (PSG),,,Canada Life,No
+CNY45,Continuum Conservative 2045 (PSG),,,Canada Life,No
+CNY50,Continuum Conservative 2050 (PSG),,,Canada Life,No
+CNY55,Continuum Conservative 2055 (PSG),,,Canada Life,No
+CNY60,Continuum Conservative 2060 (PSG),,,Canada Life,No
+CNY65,Continuum Conservative 2065 (PSG),,,Canada Life,No
+CNZ15,Continuum Agg 2015 Retire (PSG),,,Canada Life,No
+CNZ20,Continuum Agg Retire 2020 (PSG),,,Canada Life,No
+CNZ25,Continuum Aggressive 2025 (PSG),,,Canada Life,No
+CNZ30,Continuum Aggressive 2030 (PSG),,,Canada Life,No
+CNZ35,Continuum Aggressive 2035 (PSG),,,Canada Life,No
+CNZ40,Continuum Aggressive 2040 (PSG),,,Canada Life,No
+CNZ45,Continuum Aggressive 2045 (PSG),,,Canada Life,No
+CNZ50,Continuum Aggressive 2050 (PSG),,,Canada Life,No
+CNZ55,Continuum Aggressive 2055 (PSG),,,Canada Life,No
+CNZ60,Continuum Aggressive 2060 (PSG),,,Canada Life,No
+CNZ65,Continuum Aggressive 2065 (PSG),,,Canada Life,No
+CORBP,Corporate Bond (Mackenzie),,,Canada Life,No
+CP10,ClearPath 2010 (Fidelity),,,Canada Life,No
+CP15,ClearPath 2015 (Fidelity),,,Canada Life,No
+CP20,ClearPath 2020 (Fidelity),,,Canada Life,No
+CP25,ClearPath 2025 (Fidelity),,,Canada Life,No
+CP30,ClearPath 2030 (Fidelity),,,Canada Life,No
+CP35,ClearPath 2035 (Fidelity),,,Canada Life,No
+CP40,ClearPath 2040 (Fidelity),,,Canada Life,No
+CP45,ClearPath 2045 (Fidelity),,,Canada Life,No
+CP50,ClearPath 2050 (Fidelity),,,Canada Life,No
+CP55,ClearPath 2055 (Fidelity),,,Canada Life,No
+CP60,ClearPath 2060 (Fidelity),,,Canada Life,No
+CP65,ClearPath 2065 (Fidelity),,,Canada Life,No
+CPBF,Canadian Core Plus Bond (Fidelity),,,Canada Life,No
+CPBLW,Canadian Core Plus Bond (LW),,,Canada Life,No
+CPBPH,Canadian Core Plus Bond (PH&N),,,Canada Life,No
+CPIF,ClearPath Income (Fidelity),,,Canada Life,No
+CVDY,Canadian Value (FGP),,,Canada Life,No
+DYPF,Partners (Dynamic),,,Canada Life,No
+EMKCE,Emerging Markets Concentrated Equity (Northcape),,,Canada Life,No
+EMP,Emerging Markets (Putnam),,,Canada Life,No
+ESGUS,ESG US Equity (JPM),,,Canada Life,No
+FCECC,Fundamental Canadian Equity (CC&L),,,Canada Life,No
+FEMK,Ivy Foreign Equity (Mackenzie),,,Canada Life,No
+FIMB,Fixed Income (MFS),,,Canada Life,No
+FITA,Fixed Income (CIBC Global AM)*,,,Canada Life,No
+FRIMK,Floating Rate Income (Mackenzie),,,Canada Life,No
+GDIVS,Global Dividend (Setanta),,,Canada Life,No
+GECG,Global Equity (Capital Group),,,Canada Life,No
+GEFC,Global Equity (Fiera Capital)  ,,,Canada Life,No
+GEFPH,Global Equity Focus (PH&N),,,Canada Life,No
+GEMA,Global Equity (Mawer),,,Canada Life,No
+GEMB,Global Equity (MFS),,,Canada Life,No
+GES,Global Equity (Sprucegrove),,,Canada Life,No
+GGERP,Global Growth Equity (T Rowe Price),,,Canada Life,No
+GGR,Global Growth (Renaissance),,,Canada Life,No
+GINFL,Global Infrastr Equity (Mackenzie),,,Canada Life,No
+GLEQC,Global Equity (CLAM),,,Canada Life,No
+GRAF,US Focused Stock (Fidelity),,,Canada Life,No
+GSCGA,Global Small Cap (Global Alpha),,,Canada Life,No
+GSCMK,Global Small-Mid Cap Equity (Mackenzie),,,Canada Life,No
+GSRR,Global Sectors (Renaissance),,,Canada Life,No
+H15,Harmonized 2015 Retirement (PSG),,,Canada Life,No
+H20,Harmonized 2020 Retirement (PSG),,,Canada Life,No
+H25,Harmonized 2025 (PSG),,,Canada Life,No
+H30,Harmonized 2030 (PSG),,,Canada Life,No
+H35,Harmonized 2035 (PSG),,,Canada Life,No
+H40,Harmonized 2040 (PSG),,,Canada Life,No
+H45,Harmonized 2045 (PSG),,,Canada Life,No
+H50,Harmonized 2050 (PSG),,,Canada Life,No
+H55,Harmonized 2055 (PSG),,,Canada Life,No
+H60,Harmonized 2060 (PSG),,,Canada Life,No
+H65,Harmonized 2065 (PSG),,,Canada Life,No
+HCEPS,Harmonized Canadian Equity (PSG),,,Canada Life,No
+HFEPS,Harmonized Foreign Equity (PSG),,,Canada Life,No
+HFIPS,Harmonized Fixed Income (PSG),,,Canada Life,No
+HSEPS,Harmonized Special Equity (PSG),,,Canada Life,No
+HY15,Harmonized Con 2015 Retire (PSG),,,Canada Life,No
+HY20,Harmonized Con Retire 2020 (PSG),,,Canada Life,No
+HY25,Harmonized Conservative 2025 (PSG),,,Canada Life,No
+HY30,Harmonized Conservative 2030 (PSG),,,Canada Life,No
+HY35,Harmonized Conservative 2035 (PSG),,,Canada Life,No
+HY40,Harmonized Conservative 2040 (PSG),,,Canada Life,No
+HY45,Harmonized Conservative 2045 (PSG),,,Canada Life,No
+HY50,Harmonized Conservative 2050 (PSG),,,Canada Life,No
+HY55,Harmonized Conservative 2055 (PSG),,,Canada Life,No
+HY60,Harmonized Conservative 2060 (PSG),,,Canada Life,No
+HY65,Harmonized Conservative 2065 (PSG),,,Canada Life,No
+HZ15,Harmonized Agg 2015 Retire (PSG),,,Canada Life,No
+HZ20,Harmonized Agg Retire 2020 (PSG),,,Canada Life,No
+HZ25,Harmonized Aggressive 2025 (PSG),,,Canada Life,No
+HZ30,Harmonized Aggressive 2030 (PSG),,,Canada Life,No
+HZ35,Harmonized Aggressive 2035 (PSG),,,Canada Life,No
+HZ40,Harmonized Aggressive 2040 (PSG),,,Canada Life,No
+HZ45,Harmonized Aggressive 2045 (PSG),,,Canada Life,No
+HZ50,Harmonized Aggressive 2050 (PSG),,,Canada Life,No
+HZ55,Harmonized Aggressive 2055 (PSG),,,Canada Life,No
+HZ60,Harmonized Aggressive 2060 (PSG),,,Canada Life,No
+HZ65,Harmonized Aggressive 2065 (PSG),,,Canada Life,No
+IEJF,International Equity (Jarislowsky Fraser),,,Canada Life,No
+IEMA,International Equity (Mawer),,,Canada Life,No
+IEMB,International Equity (MFS),,,Canada Life,No
+IEMER,Socially Responsible Intl Equity (NEI),,,Canada Life,No
+IES,International Equity (Setanta),,,Canada Life,No
+IESR,International Equity Q (CC&L),,,Canada Life,No
+IGEIB,Islamic Global Eq Ind (BlackRock),,,Canada Life,No
+ISMK,International Equity (Mackenzie),,,Canada Life,No
+JPM25,Sustainable TD 2025 (JPM),,,Canada Life,No
+JPM30,Sustainable TD 2030 (JPM),,,Canada Life,No
+JPM35,Sustainable TD 2035 (JPM),,,Canada Life,No
+JPM40,Sustainable TD 2040 (JPM),,,Canada Life,No
+JPM45,Sustainable TD 2045 (JPM),,,Canada Life,No
+JPM50,Sustainable TD 2050 (JPM),,,Canada Life,No
+JPM55,Sustainable TD 2055 (JPM),,,Canada Life,No
+JPM60,Sustainable TD 2060 (JPM),,,Canada Life,No
+JSMER,Socially Responsible Cdn Equity (NEI),,,Canada Life,No
+KBCB,Canadian Bond (CI)*,,,Canada Life,No
+LADPO,Advanced Portfolio (PSG),,,Canada Life,No
+LAEM,US Growth (Putnam),,,Canada Life,No
+LAGAG,American Growth (AGF),,,Canada Life,No
+LAGPO,Aggressive Portfolio (PSG),,,Canada Life,No
+LAGPR,Aggressive Profile (PSG),,,Canada Life,No
+LBABG,Balanced (Beutel Goodman),,,Canada Life,No
+LBAPO,Balanced Portfolio (PSG),,,Canada Life,No
+LBAPR,Balanced Profile (PSG),,,Canada Life,No
+LBGRL,Cdn Growth Balanced II (Mackenzie),,,Canada Life,No
+LBIG,Balanced Index (Mackenzie),,,Canada Life,No
+LBMK,Global Strategic Income (Mackenzie),,,Canada Life,No
+LBOBG,Bond (Beutel Goodman),,,Canada Life,No
+LCBG,Cdn Core Fixed Income (Mackenzie),,,Canada Life,No
+LCBIL,Cdn Bond Universe Index (Mackenzie),,,Canada Life,No
+LCBM,Strategic Income (Mackenzie),,,Canada Life,No
+LCEG,Canadian All Cap Growth (Mackenzie),,,Canada Life,No
+LCEGM,Canadian Core Growth (Mackenzie),,,Canada Life,No
+LCEMO,Canadian Equity (Montrusco Bolton),,,Canada Life,No
+LCFPR,Advanced Profile (PSG),,,Canada Life,No
+LCOMK,Global Low Volatility (ILIM),,,Canada Life,No
+LCOPO,Conservative Portfolio (PSG),,,Canada Life,No
+LCOPR,Conservative Profile (PSG),,,Canada Life,No
+LCRAG,Global Resources (Mackenzie),,,Canada Life,No
+LDG,Strategic Income III (Mackenzie),,,Canada Life,No
+LDVDG,Dividend (Mackenzie),,,Canada Life,No
+LDVDL,Cdn Diversified Divid (Mackenzie),,,Canada Life,No
+LDVDM,Canadian Large Cap Dividend (Mackenzie),,,Canada Life,No
+LEBG,Cdn Growth Balanced (Mackenzie),,,Canada Life,No
+LEES,European Equity (Setanta),,,Canada Life,No
+LEIG,Canadian Equity Index (Mackenzie),,,Canada Life,No
+LEMK,Equity (Mackenzie),,,Canada Life,No
+LGBG,Government Bond (Mackenzie),,,Canada Life,No
+LGEL,Global Equity (Putnam),,,Canada Life,No
+LGEM,Global Growth (Mackenzie),,,Canada Life,No
+LGIMK,Canadian Balanced Ivy (Mackenzie),,,Canada Life,No
+LGREL,Canadian Lrg Cap Growth (Mackenzie),,,Canada Life,No
+LIBP,Global Bond (Brandywine),,,Canada Life,No
+LIEIT,International Equity Index (TDAM),,,Canada Life,No
+LIEP,International Equity (Putnam),,,Canada Life,No
+LIETN,International Equity N (Templeton),,,Canada Life,No
+LIG,Cdn Fix Income Bal III (Mackenzie),,,Canada Life,No
+LINCL,Cdn Fix Income Bal (Mackenzie),,,Canada Life,No
+LINMK,Cdn Fix Income Bal II (Mackenzie),,,Canada Life,No
+LIOP,International Opportunity (JPMorgan),,,Canada Life,No
+LLBON,Core Bond (Mackenzie),,,Canada Life,No
+LLCMK,Canadian Low Volatility (Mackenzie),,,Canada Life,No
+LLCNE,Canadian Value Equity (Mackenzie),,,Canada Life,No
+LLDIV,Strategic Income II (Mackenzie),,,Canada Life,No
+LLEG,SRI Canadian Equity (Mackenzie),,,Canada Life,No
+LLEMS,Emerging Markets (Mackenzie),,,Canada Life,No
+LLINE,International Equity (JPMorgan),,,Canada Life,No
+LLMCG,US Mid Cap (Mackenzie),,,Canada Life,No
+LLMON,Canadian Money Market (Mackenzie),,,Canada Life,No
+LLMRT,Mortgage (Canada Life),,,Canada Life,No
+LLSTG,Science & Technology (Mackenzie),,,Canada Life,No
+LLUSE,US Core Growth (Mackenzie),,,Canada Life,No
+LMCCG,Mid Cap Canada (Mackenzie),,,Canada Life,No
+LMG,Commercial Mortgage (Canada Life),,,Canada Life,No
+LMOPO,Moderate Portfolio (PSG),,,Canada Life,No
+LMOPR,Moderate Profile (PSG),,,Canada Life,No
+LNABG,Canadian Equity (Beutel Goodman),,,Canada Life,No
+LNRM,Global Resource (Mackenzie),,,Canada Life,No
+LPMM,Precious Metals (Mackenzie),,,Canada Life,No
+LREG,Real Estate (GWLRA),,,Canada Life,No
+LSCMK,Smaller Company (Mackenzie),,,Canada Life,No
+LSGAG,Far East (CLAM),,,Canada Life,No
+LTBL,Long Term Bond (Canada Life),,,Canada Life,No
+LUSEG,US Large Cap Equity (Mackenzie),,,Canada Life,No
+LUSET,US Equity Index (TDAM),,,Canada Life,No
+LUSMO,US Equity (Montrusco Bolton),,,Canada Life,No
+MFS25,LifePlan 2025 (MFS),,,Canada Life,No
+MFS30,LifePlan 2030 (MFS),,,Canada Life,No
+MFS35,LifePlan 2035 (MFS),,,Canada Life,No
+MFS40,LifePlan 2040 (MFS),,,Canada Life,No
+MFS45,LifePlan 2045 (MFS),,,Canada Life,No
+MFS50,LifePlan 2050 (MFS),,,Canada Life,No
+MFS55,LifePlan 2055 (MFS),,,Canada Life,No
+MFS60,LifePlan 2060 (MFS),,,Canada Life,No
+MFS65,LifePlan 2065 (MFS),,,Canada Life,No
+MFSRT,LifePlan Retirement (MFS),,,Canada Life,No
+MIPI,Monthly Income (PIMCO),,,Canada Life,No
+MMF,Canadian Money Market (Fidelity),,,Canada Life,No
+MTGE,Growth Equity (Montrusco Bolton),,,Canada Life,No
+NABMK,North American High Yield Bond (Mackenzie),,,Canada Life,No
+PBA,North American Balanced (Mackenzie),,,Canada Life,No
+PCB,Balanced (CC&L),,,Canada Life,No
+PCE,Canadian Equity (CC&L),,,Canada Life,No
+PSB,Balanced Core (Fiera Capital),,,Canada Life,No
+PSE,Equity (Fiera Capital),,,Canada Life,No
+RES25,CL Education Savings Fund 2025,,,Canada Life,No
+RES30,CL Education Savings Fund 2030,,,Canada Life,No
+RES35,CL Education Savings Fund 2035,,,Canada Life,No
+RES40,CL Education Savings Fund 2040,,,Canada Life,No
+RES45,CL Education Savings Fund 2045,,,Canada Life,No
+RESST,CL Study Fund,,,Canada Life,No
+RETBA,Retirement Balanced Fund,,,Canada Life,No
+RETCO,Retirement Conservative Fund,,,Canada Life,No
+RETMO,Retirement Moderate Fund,,,Canada Life,No
+RRBP,Real Return Bond (Canada Life),,,Canada Life,No
+S002,Canadian Equity (Mackenzie),,,Canada Life,No
+S014,Strategic Income IV (Mackenzie),,,Canada Life,No
+S019,Core Plus Bond (Mackenzie),,,Canada Life,No
+S029,Money Market (LK) (Mackenzie),,,Canada Life,No
+S034,Global Equity (Setanta),,,Canada Life,No
+S036,Foreign Bond (CLAM),,,Canada Life,No
+S038,Far East Equity (CLAM),,,Canada Life,No
+S039,Cdn Concentrated Divid (Mackenzie),,,Canada Life,No
+S066,Global Equity (Montrusco Bolton),,,Canada Life,No
+S079,Canadian Bond Index (TDAM),,,Canada Life,No
+S080,Balanced Index (TDAM),,,Canada Life,No
+S103,Canadian Equity (ClearBridge),,,Canada Life,No
+S104,Balanced (Templeton),,,Canada Life,No
+S105,Canadian Small Cap Equity (ClearBridge),,,Canada Life,No
+S120,Canadian Equity Index (TDAM),,,Canada Life,No
+S123,Canadian Equity (Fiera Capital),,,Canada Life,No
+S124,Balanced (Fiera Capital),,,Canada Life,No
+S143,Money Market (MFS),,,Canada Life,No
+S147,Balanced Pension Trust (PH&N),,,Canada Life,No
+S149,Bond (PH&N),,,Canada Life,No
+S158,Core Plus Bond (Franklin Canada),,,Canada Life,No
+S176,True North (Fidelity),,,Canada Life,No
+S178,US Disciplined Value (Mackenzie),,,Canada Life,No
+S184,Global (Fidelity),,,Canada Life,No
+S191,Canadian Asset Allocation (Fidelity),,,Canada Life,No
+S195,Canadian Equity (Leith Wheeler),,,Canada Life,No
+S196,Balanced (Leith Wheeler),,,Canada Life,No
+S201,Money Market (SRA),,,Canada Life,No
+S208,Balanced (TD Greystone),,,Canada Life,No
+S209,Fixed Income (TD Greystone),,,Canada Life,No
+S228,Fixed Income (Fiera Capital),,,Canada Life,No
+S244,Global Equity Index (TDAM),,,Canada Life,No
+S261,American Equity (Beutel Goodman),,,Canada Life,No
+S269,Canadian Equity (PH&N),,,Canada Life,No
+S288,Balanced (Invesco),,,Canada Life,No
+S289,Canadian Growth (Invesco),,,Canada Life,No
+S311,Global Balanced (Jarislowsky Fraser),,,Canada Life,No
+S320,Multi-Asset Income Strategy (Russell),,,Canada Life,No
+S321,Balanced Growth (Russell),,,Canada Life,No
+S322,Long-Term Growth (Russell),,,Canada Life,No
+S328,Multi-Asset Growth Strat (Russell),,,Canada Life,No
+S329,US Companies (Invesco),,,Canada Life,No
+S337,Canadian Core Plus Bond (Invesco),,,Canada Life,No
+S605,Conservative Continuum (PSG),,,Canada Life,No
+S606,Moderate Continuum (PSG),,,Canada Life,No
+S607,Balanced Continuum (PSG),,,Canada Life,No
+S608,Advanced Continuum (PSG),,,Canada Life,No
+S609,Aggressive Continuum (PSG),,,Canada Life,No
+SEMEQ,SustainableEmerging MarketsEquity (JPM),,,Canada Life,No
+SGLBD,Sustainable Global Bond (JPM),,,Canada Life,No
+SGLEQ,Sustainable Global Equity (JPM),,,Canada Life,No
+SICB,Bond (Fiera Capital),,,Canada Life,No
+SIEF,Select Intl Eq Instl (Fidelity),,,Canada Life,No
+SPIE,International Equity (Sprucegrove),,,Canada Life,No
+SRBAL,SRI Balanced (Mackenzie),,,Canada Life,No
+SRBP,SRI Bond (Mackenzie),,,Canada Life,No
+SRGES,SRI Global Equity (Setanta),,,Canada Life,No
+STBP,Canadian Short Term Bond (Mackenzie),,,Canada Life,No
+TRGE,Global Equity (Invesco),,,Canada Life,No
+TRIG,Income Growth (Invesco),,,Canada Life,No
+UFIMK,Unconstrained Fixed Income (Mackenzie),,,Canada Life,No
+ULTBP,Ultra Long Term Bond (Canada Life),,,Canada Life,No
+USCTE,US Carbon Transition Equity (JPM),,,Canada Life,No
+USDVG,US Dividend (Mackenzie),,,Canada Life,No
+USEJF,US Equity (Jarislowsky Fraser),,,Canada Life,No
+USESR,US Equity (SRA),,,Canada Life,No
+USGSL,US Mid Cap Equity (Mackenzie),,,Canada Life,No
+USITD,US Index Registered (TDAM)* ,,,Canada Life,No
+USIXG,US Index Registered (Mackenzie)*,,,Canada Life,No
+USLC,US Large Cap Core Instl (Fidelity)*,,,Canada Life,No
+USLVP,US Low Volatility (Putnam),,,Canada Life,No
+USMER,Socially Responsible US Equity (NEI),,,Canada Life,No
+USVEP,US Value Equity (Putnam),,,Canada Life,No
+JPMIN,Sustainable Income (JPM),,,Canada Life,No
+PIA,Fixed Income (P) (Mackenzie),,,Canada Life,No
+PEA,Equity (P) (Mackenzie),,,Canada Life,No
+PMM,Money Market (P) (Mackenzie),,,Canada Life,No

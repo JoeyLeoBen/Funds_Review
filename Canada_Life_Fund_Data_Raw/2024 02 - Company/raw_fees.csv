@@ -1,0 +1,246 @@
+﻿fund_identifier,funds,fees,fund_company
+S029,Money Market (LK) (Mackenzie),0.00628,Canada Life
+LLMON,Canadian Money Market (Mackenzie),0.00628,Canada Life
+LTBL,Long Term Bond (Canada Life),0.00678,Canada Life
+SRBP,SRI Bond (Mackenzie),0.00678,Canada Life
+LCBIL,Cdn Bond Universe Index (Mackenzie),0.00628,Canada Life
+CCLB,Bond (CC&L),0.008318481,Canada Life
+LCBG,Cdn Core Fixed Income (Mackenzie),0.00678,Canada Life
+LGBG,Government Bond (Mackenzie),0.00678,Canada Life
+CPBPH,Canadian Core Plus Bond (PH&N),0.00898,Canada Life
+LBOBG,Bond (Beutel Goodman),0.00803,Canada Life
+BJF,Bond (Jarislowsky Fraser),0.008094,Canada Life
+CBR,Core Plus Bond (CIBC),0.00928,Canada Life
+FIMB,Fixed Income (MFS),0.00763,Canada Life
+FRIMK,Floating Rate Income (Mackenzie),0.007992413,Canada Life
+UFIMK,Unconstrained Fixed Income (Mackenzie),0.007993886,Canada Life
+S019,Core Plus Bond (Mackenzie),0.00728,Canada Life
+S158,Core Plus Bond (Bissett),0.00928,Canada Life
+ULTBP,Ultra Long Term Bond (Canada Life),0.00678,Canada Life
+S209,Fixed Income (TD Greystone),0.00788,Canada Life
+S079,Canadian Bond Index (TDAM),0.006420387,Canada Life
+LLBON,Core Bond (Mackenzie),0.00678,Canada Life
+BSR,Bond (SRA),0.008559369,Canada Life
+S149,Bond (PH&N),0.00848,Canada Life
+CBTF,Canadian Bond Inst'l (Fidelity),0.0090847,Canada Life
+STBP,Canadian Short Term Bond (Mackenzie),0.00678,Canada Life
+CORBP,Corporate Bond (Mackenzie),0.00678,Canada Life
+RRBP,Real Return Bond (Canada Life),0.00678,Canada Life
+NABMK,North American High Yield Bond (Mackenzie),0.008016721,Canada Life
+HFIPS,Harmonized Fixed Income (PSG),0.00682,Canada Life
+LLMRT,Mortgage (Canada Life),0.00928,Canada Life
+LMG,Commercial Mortgage (Canada Life),0.00928,Canada Life
+LIBP,Global Bond (Brandywine),0.00955,Canada Life
+S036,International Bond (CLAM),0.00853,Canada Life
+CPBF,Canadian Core Plus Bond (Fidelity),0.009633796,Canada Life
+CPBLW,Canadian Core Plus Bond (LW),0.00828,Canada Life
+LCOPR,Conservative Profile (PSG),0.008562811,Canada Life
+LCOPO,Conservative Portfolio (PSG),0.008580313,Canada Life
+S605,Conservative Continuum (PSG),0.008885367,Canada Life
+LMOPR,Moderate Profile (PSG),0.008567862,Canada Life
+LMOPO,Moderate Portfolio (PSG),0.008583859,Canada Life
+S606,Moderate Continuum (PSG),0.008896162,Canada Life
+LBAPR,Balanced Profile (PSG),0.008564588,Canada Life
+LBAPO,Balanced Portfolio (PSG),0.008583989,Canada Life
+S607,Balanced Continuum (PSG),0.008910075,Canada Life
+LCFPR,Advanced Profile (PSG),0.008581287,Canada Life
+LADPO,Advanced Portfolio (PSG),0.00858113,Canada Life
+S608,Advanced Continuum (PSG),0.008926985,Canada Life
+LAGPR,Aggressive Profile (PSG),0.008589821,Canada Life
+LAGPO,Aggressive Portfolio (PSG),0.008583989,Canada Life
+S609,Aggressive Continuum (PSG),0.00894221,Canada Life
+CONCI,Conservative (CI),0.00978,Canada Life
+MODCI,Moderate (CI),0.00978,Canada Life
+BALCI,Balanced (CI),0.00978,Canada Life
+BGRCI,Balanced Growth (CI),0.00978,Canada Life
+ADVCI,Advanced (CI),0.00978,Canada Life
+AGGCI,Aggressive (CI),0.00978,Canada Life
+BGI10,BlackRock LifePath 2010 Retirement,0.007693,Canada Life
+BGI15,BlackRock LifePath 2015 Retirement,0.007693,Canada Life
+BGI20,BlackRock LifePath 2020,0.007693,Canada Life
+BGI25,BlackRock LifePath 2025,0.007767,Canada Life
+BGI30,BlackRock LifePath 2030,0.007849,Canada Life
+BGI35,BlackRock LifePath 2035,0.007928,Canada Life
+BGI40,BlackRock LifePath 2040,0.007988,Canada Life
+BGI45,BlackRock LifePath 2045,0.008027,Canada Life
+BGI50,BlackRock LifePath 2050,0.008052,Canada Life
+BGI55,BlackRock LifePath 2055,0.008073,Canada Life
+BGI60,BlackRock LifePath 2060,0.008337,Canada Life
+CAD10,Cadence Retirement 2010 (PSG),0.008816118,Canada Life
+CAD15,Cadence 2015 Retirement (PSG),0.008816118,Canada Life
+CAD20,Cadence 2020 (PSG),0.008816118,Canada Life
+CAD25,Cadence 2025 (PSG),0.008815939,Canada Life
+CAD30,Cadence 2030 (PSG),0.008810471,Canada Life
+CAD35,Cadence 2035 (PSG),0.008823423,Canada Life
+CAD40,Cadence 2040 (PSG),0.008830826,Canada Life
+CAD45,Cadence 2045 (PSG),0.008834525,Canada Life
+CAD50,Cadence 2050 (PSG),0.008837743,Canada Life
+CAD55,Cadence 2055 (PSG),0.00884005,Canada Life
+CAD60,Cadence 2060 (PSG),0.008843832,Canada Life
+CNT10,Continuum Retirement 2010 (PSG),0.009389761,Canada Life
+CNT15,Continuum 2015 Retirement (PSG),0.009389761,Canada Life
+CNT20,Continuum 2020 (PSG),0.009389761,Canada Life
+CNT25,Continuum 2025 (PSG),0.009401576,Canada Life
+CNT30,Continuum 2030 (PSG),0.0094131,Canada Life
+CNT35,Continuum 2035 (PSG),0.009423866,Canada Life
+CNT40,Continuum 2040 (PSG),0.009432683,Canada Life
+CNT45,Continuum 2045 (PSG),0.009435802,Canada Life
+CNT50,Continuum 2050 (PSG),0.009438007,Canada Life
+CNT55,Continuum 2055 (PSG),0.00944053,Canada Life
+CNT60,Continuum 2060 (PSG),0.009444071,Canada Life
+CP10,ClearPath® 2010 (Fidelity),0.010201282,Canada Life
+CP15,ClearPath® 2015 (Fidelity),0.010201282,Canada Life
+CP20,ClearPath® 2020 (Fidelity),0.010201282,Canada Life
+CP25,ClearPath® 2025 (Fidelity),0.010260231,Canada Life
+CP30,ClearPath® 2030 (Fidelity),0.01028249,Canada Life
+CP35,ClearPath® 2035 (Fidelity),0.010311738,Canada Life
+CP40,ClearPath® 2040 (Fidelity),0.010348955,Canada Life
+CP45,ClearPath® 2045 (Fidelity),0.01035125,Canada Life
+CP50,ClearPath® 2050 (Fidelity),0.010366822,Canada Life
+CP55,ClearPath® 2055 (Fidelity),0.010383932,Canada Life
+CP60,ClearPath® 2060 (Fidelity),0.010444734,Canada Life
+CI15,LifeCycle 2015 Portfolio (CI),0.00978,Canada Life
+CI20,LifeCycle 2020 Portfolio (CI),0.00978,Canada Life
+CI25,LifeCycle 2025 Portfolio (CI),0.00978,Canada Life
+CI30,LifeCycle 2030 Portfolio (CI),0.00978,Canada Life
+CI35,LifeCycle 2035 Portfolio (CI),0.00978,Canada Life
+CI40,LifeCycle 2040 Portfolio (CI),0.00978,Canada Life
+CI45,LifeCycle 2045 Portfolio (CI),0.00978,Canada Life
+CI50,LifeCycle 2050 Portfolio (CI),0.00978,Canada Life
+CI55,LifeCycle 2055 Portfolio (CI),0.00978,Canada Life
+H15,Harmonized 2015 Retirement (PSG),0.007346746,Canada Life
+H20,Harmonized 2020 (PSG),0.007346746,Canada Life
+H25,Harmonized 2025 (PSG),0.007339777,Canada Life
+H30,Harmonized 2030 (PSG),0.007332265,Canada Life
+H35,Harmonized 2035 (PSG),0.007324101,Canada Life
+H40,Harmonized 2040 (PSG),0.007322048,Canada Life
+H45,Harmonized 2045 (PSG),0.007321916,Canada Life
+H50,Harmonized 2050 (PSG),0.007321916,Canada Life
+H55,Harmonized 2055 (PSG),0.007321916,Canada Life
+H60,Harmonized 2060 (PSG),0.00732258,Canada Life
+LINMK,Income (Mackenzie),0.00828,Canada Life
+LLDIV,Diversified (Mackenzie),0.00828,Canada Life
+PCB,Balanced (CC&L),0.010362274,Canada Life
+TRIG,Income Growth (Invesco),0.01078,Canada Life
+LDG,Diversified Allocation (Mackenzie),0.00828,Canada Life
+LEBG,Equity/Bond (Mackenzie),0.00828,Canada Life
+LBIG,Balanced Index (Canada Life),0.006335071,Canada Life
+LBABG,Balanced (Beutel Goodman),0.00828,Canada Life
+LBMK,Global Monthly Income (Mackenzie),0.008533393,Canada Life
+LCBM,Strategic Income (Mackenzie),0.008532497,Canada Life
+BALJF,Balanced (Jarislowsky Fraser),0.008096,Canada Life
+S311,Global Balanced (Jarislowsky Fraser),0.008095,Canada Life
+S104,Balanced (Templeton),0.00928,Canada Life
+S191,Canadian Asset Allocation (Fidelity),0.01138,Canada Life
+S208,Balanced (TD Greystone),0.00823,Canada Life
+S080,Balanced Index (TDAM),0.006654613,Canada Life
+BALSR,Balanced (SRA),0.010216,Canada Life
+S196,Balanced (Leith Wheeler),0.00918,Canada Life
+AGGI,Sentry Global Income (CI),0.00978,Canada Life
+DYPF,Partners (Dynamic),0.01208,Canada Life
+PSB,Balanced Core (Fiera Capital),0.00878,Canada Life
+LGIMK,Canadian Balanced Ivy (Mackenzie),0.00828,Canada Life
+S147,Balanced Pension Trust (PH&N),0.00888,Canada Life
+CBALF,Canadian Balanced (Fidelity),0.01128,Canada Life
+BALBG,Balanced Global (Beutel Goodman),0.00888,Canada Life
+SRBAL,SRI Balanced (Mackenzie),0.00828,Canada Life
+LIG,Income Plus (Mackenzie),0.00828,Canada Life
+CAACI,Cambridge Asset Allocation (CI),0.00928,Canada Life
+PBA,North American Balanced (Mackenzie),0.00828,Canada Life
+LLCNE,Canadian Value Equity (Mackenzie),0.00778,Canada Life
+LDVDG,Dividend (Mackenzie),0.00778,Canada Life
+LLCMK,Canadian Low Volatility (Mackenzie),0.00778,Canada Life
+LDVDM,Canadian Large Cap Dividend (Mackenzie),0.008035997,Canada Life
+PCE,Equity (CC&L),0.009073835,Canada Life
+S039,Cdn Concentrated Divid (Mackenzie),0.00778,Canada Life
+TRCE,Cambridge All Canadian Equity (CI),0.00928,Canada Life
+LCEG,Canadian All Cap Growth (Mackenzie),0.00778,Canada Life
+LEIG,Canadian Equity Index (Mackenzie),0.00628,Canada Life
+LNABG,Canadian Equity (Beutel Goodman),0.00828,Canada Life
+LEMK,Equity (Mackenzie),0.00778,Canada Life
+LCEGM,Canadian Core Growth (Mackenzie),0.008034392,Canada Life
+CEJF,Canadian Equity (Jarislowsky Fraser),0.008084,Canada Life
+S289,Canadian Growth (Invesco),0.01078,Canada Life
+S002,Canadian Equity (Mackenzie),0.00778,Canada Life
+S103,Canadian Equity (Bissett),0.00878,Canada Life
+S176,True North® (Fidelity),0.01128,Canada Life
+CVDY,Canadian Value (FGP),0.00828,Canada Life
+S120,Canadian Equity Index (TDAM),0.006420195,Canada Life
+CESR,Canadian Equity (SRA),0.009066293,Canada Life
+PSE,Equity (Fiera Capital),0.00878,Canada Life
+LLEG,SRI Canadian Equity (Mackenzie),0.00778,Canada Life
+S269,Canadian Equity (PH&N),0.00898,Canada Life
+CDEF,Canadian Disciplined Equity® (Fidelity),0.01128,Canada Life
+CGCF,Canadian Growth Company (Fidelity),0.01128,Canada Life
+CCEF,Cdn Core Equity Inst'l (Fidelity),0.0091186,Canada Life
+HCEPS,Harmonized Canadian Equity (PSG),0.00782,Canada Life
+AGGE,Growth Equity (AGF),0.00928,Canada Life
+LMCCG,Mid Cap Canada (Mackenzie),0.00878,Canada Life
+MTGE,Growth Equity (Montrusco Bolton),0.00978,Canada Life
+LSCMK,Smaller Company (Mackenzie),0.00878,Canada Life
+S195,Canadian Equity (Leith Wheeler),0.00878,Canada Life
+S105,Canadian Small Cap Equity (Bissett),0.01228,Canada Life
+LDVDL,Cdn Diversified Divid (Mackenzie),0.00778,Canada Life
+FCECC,Fundamental Canadian Equity (CC&L),0.00878,Canada Life
+LLUSE,U.S. Core Growth (Mackenzie),0.00828,Canada Life
+LAGAG,American Growth (AGF),0.01128,Canada Life
+LUSEG,U.S. Large Cap Equity (Mackenzie),0.00828,Canada Life
+LLMCG,U.S. Mid Cap (Mackenzie),0.00928,Canada Life
+LAEM,U.S. Growth (Putnam),0.010092503,Canada Life
+LUSET,U.S. Equity Index (TDAM),0.00646713,Canada Life
+USEJF,U.S. Equity (Jarislowsky Fraser),0.008111,Canada Life
+AEMB,American Equity (MFS),0.01248,Canada Life
+S178,U.S. Disciplined Value (Mackenzie),0.00828,Canada Life
+S329,U.S. Companies (Invesco),0.01078,Canada Life
+S261,American Equity (Beutel Goodman),0.00888,Canada Life
+GRAF,US Focused Stock (Fidelity),0.01228,Canada Life
+USLC,US Large Cap Core Inst'l (Fidelity),0.0132369,Canada Life
+USIXG,U.S. Index Registered (Mackenzie),0.00628,Canada Life
+USGSL,U.S. Mid Cap Equity (Mackenzie),0.00928,Canada Life
+USVEP,U.S. Value (Putnam),0.00978,Canada Life
+USLVP,U.S. Low Volatility (Putnam),0.00978,Canada Life
+USDVG,U.S. Dividend (Mackenzie),0.00828,Canada Life
+LLINE,International Equity (JPMorgan),0.00978,Canada Life
+SPIE,International Equity (Sprucegrove),0.011694,Canada Life
+LIEP,International Equity (Putnam),0.00978,Canada Life
+LIOP,International Opportunity (JPMorgan),0.00978,Canada Life
+LIEIT,International Equity Index (TDAM),0.006544814,Canada Life
+ISMK,International Equity (Mackenzie),0.009619975,Canada Life
+IEMB,International Equity (MFS),0.01268,Canada Life
+LIETN,International Equity N (Templeton),0.01188,Canada Life
+IESR,International Equity Q (CC&L),0.016277,Canada Life
+IES,International Equity (Setanta),0.00878,Canada Life
+IEJF,International Equity (Jarislowsky Fraser),0.012332,Canada Life
+IEMA,International Equity (Mawer),0.01158,Canada Life
+LGEL,Global Equity (Putnam),0.00978,Canada Life
+TRGE,Global Equity (Invesco),0.01078,Canada Life
+LGEM,Global Growth (Mackenzie),0.009084132,Canada Life
+FEMK,Ivy Foreign Equity (Mackenzie),0.009085484,Canada Life
+GGR,Global Growth (CM Investment Management),0.01228,Canada Life
+GES,Global Equity (Sprucegrove),0.011659,Canada Life
+GEMB,Global Equity (MFS),0.01248,Canada Life
+S034,Global Equity (Setanta),0.00878,Canada Life
+S184,Global (Fidelity),0.01228,Canada Life
+S244,Global Equity Index (TDAM),0.006593649,Canada Life
+GLEQC,Global Equity (CLAM),0.00878,Canada Life
+HFEPS,Harmonized Foreign Equity (PSG),0.008377172,Canada Life
+LCOMK,Global Low Volatility (ILIM),0.00878,Canada Life
+GSCMK,Global Small-Mid Cap Equity (Mackenzie),0.010596287,Canada Life
+SRGES,SRI Global Equity (Setanta),0.00928,Canada Life
+GDIVS,Global Dividend (Setanta),0.00878,Canada Life
+GECG,Global Equity (Capital Group),0.01258,Canada Life
+GEMA,Global Equity (Mawer),0.01148,Canada Life
+GGERP,Global Growth Equity (T Rowe Price),0.01178,Canada Life
+GSRR,Global Sectors (CM Investment Management),0.01228,Canada Life
+GEFPH,Global Equity Focus (PH&N),0.01148,Canada Life
+LEES,European Equity (Setanta),0.00878,Canada Life
+LSGAG,Far East (CLAM),0.00878,Canada Life
+LLEMS,Emerging Markets (Mackenzie),0.012217465,Canada Life
+LCRAG,Canadian Resources (Mackenzie),0.00778,Canada Life
+LREG,Real Estate (GWLRA),0.01378,Canada Life
+LLSTG,Science & Technology (Mackenzie),0.00828,Canada Life
+LNRM,Global Resource (Mackenzie),0.009185881,Canada Life
+LPMM,Precious Metals (Mackenzie),0.00908617,Canada Life
+GINFL,Global Infrastructure Equity (Mackenzie),0.00878,Canada Life
+HSEPS,Harmonized Special Equity (PSG),0.008527374,Canada Life
+EMP,Emerging Markets (Putnam),0.01178,Canada Life

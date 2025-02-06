@@ -1,0 +1,3314 @@
+version: 2
+
+models:
+
+  # All fund categories
+  ##################################################
+  - name: all_fund_categories
+    description: shows all the fund categories for all funds in all companies
+    columns:
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+  # Returns with fees and categories
+  ##################################################
+  - name: returns_with_fees_categories
+    description: shows all the fund returns with fees and categories for all funds in all companies
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: returns
+        description: retruns per fund per date
+        data_tests:
+          - not_null
+
+      - name: fees
+        description: annual fund fees
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: net_returns
+        description: monthly returns minus monthly fee (fee/12)
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: date
+        description: date per return per fund (YYYY MM)
+        data_tests:
+          - not_null
+
+      - name: date_full
+        description: date per return per fund (YYYY MM DD)
+        data_tests:
+          - not_null
+
+
+# AFTER FEES
+#*************************************************************************************************************************************************#
+
+  # Twenty year returns 
+  ##################################################
+  - name: twenty_year_returns
+    description: shows compounded returns (net of fees) for the past 20 years from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 20 year compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 20 year average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 20 year net returns standard deviation
+        data_tests: []
+          # - not_null   
+
+
+  # Nineteen year returns 
+  ##################################################
+  - name: nineteen_year_returns
+    description: shows compounded returns (net of fees) for the past 19 years from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 19 year compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 19 year average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 19 year net returns standard deviation
+        data_tests: []
+          # - not_null 
+
+
+  # Eighteen year returns 
+  ##################################################
+  - name: eighteen_year_returns
+    description: shows compounded returns (net of fees) for the past 18 years from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 18 year compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 18 year average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 18 year net returns standard deviation
+        data_tests: []
+          # - not_null 
+
+
+  # Seventeen year returns 
+  ##################################################
+  - name: seventeen_year_returns
+    description: shows compounded returns (net of fees) for the past 17 years from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 17 year compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 17 year average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 17 year net returns standard deviation
+        data_tests: []
+          # - not_null 
+          
+
+  # Sixteen year returns 
+  ##################################################
+  - name: sixteen_year_returns
+    description: shows compounded returns (net of fees) for the past 16 years from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 16 year compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 16 year average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 16 year net returns standard deviation
+        data_tests: []
+          # - not_null 
+          
+
+  # Fifteen year returns 
+  ##################################################
+  - name: fifteen_year_returns
+    description: shows compounded returns (net of fees) for the past 15 years from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 15 year compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 15 year average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 15 year net returns standard deviation
+        data_tests: []
+          # - not_null 
+          
+
+  # Fourteen year returns 
+  ##################################################
+  - name: fourteen_year_returns
+    description: shows compounded returns (net of fees) for the past 14 years from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 14 year compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 14 year average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 14 year net returns standard deviation
+        data_tests: []
+          # - not_null 
+          
+
+  # Thirteen year returns 
+  ##################################################
+  - name: thirteen_year_returns
+    description: shows compounded returns (net of fees) for the past 13 years from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 13 year compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 13 year average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 13 year net returns standard deviation
+        data_tests: []
+          # - not_null 
+          
+
+  # Twelve year returns 
+  ##################################################
+  - name: twelve_year_returns
+    description: shows compounded returns (net of fees) for the past 12 years from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 12 year compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 12 year average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 12 year net returns standard deviation
+        data_tests: []
+          # - not_null 
+          
+
+  # Eleven year returns 
+  ##################################################
+  - name: eleven_year_returns
+    description: shows compounded returns (net of fees) for the past 11 years from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 11 year compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 11 year average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 11 year net returns standard deviation
+        data_tests: []
+          # - not_null 
+          
+
+  # Ten year returns 
+  ##################################################
+  - name: ten_year_returns
+    description: shows compounded returns (net of fees) for the past 10 years from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 10 year compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 10 year average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 10 year net returns standard deviation
+        data_tests: []
+          # - not_null 
+          
+
+  # Nine year returns 
+  ##################################################
+  - name: nine_year_returns
+    description: shows compounded returns (net of fees) for the past 9 years from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 9 year compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 9 year average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 9 year net returns standard deviation
+        data_tests: []
+          # - not_null 
+          
+
+  # Eight year returns 
+  ##################################################
+  - name: eight_year_returns
+    description: shows compounded returns (net of fees) for the past 8 years from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 8 year compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 8 year average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 8 year net returns standard deviation
+        data_tests: []
+          # - not_null 
+          
+
+  # Seven year returns 
+  ##################################################
+  - name: seven_year_returns
+    description: shows compounded returns (net of fees) for the past 7 years from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 7 year compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 7 year average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 7 year net returns standard deviation
+        data_tests: []
+          # - not_null 
+          
+
+  # Six year returns 
+  ##################################################
+  - name: six_year_returns
+    description: shows compounded returns (net of fees) for the past 6 years from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 6 year compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 6 year average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 6 year net returns standard deviation
+        data_tests: []
+          # - not_null 
+          
+
+  # Five year returns 
+  ##################################################
+  - name: five_year_returns
+    description: shows compounded returns (net of fees) for the past 5 years from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 5 year compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 5 year average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 5 year net returns standard deviation
+        data_tests: []
+          # - not_null 
+          
+
+  # Four year returns 
+  ##################################################
+  - name: four_year_returns
+    description: shows compounded returns (net of fees) for the past 4 years from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 4 year compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 4 year average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 4 year net returns standard deviation
+        data_tests: []
+          # - not_null 
+          
+
+  # Three year returns 
+  ##################################################
+  - name: three_year_returns
+    description: shows compounded returns (net of fees) for the past 3 years from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 3 year compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 3 year average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 3 year net returns standard deviation
+        data_tests: []
+          # - not_null 
+          
+
+  # Two year returns 
+  ##################################################
+  - name: two_year_returns
+    description: shows compounded returns (net of fees) for the past 2 years from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 2 year compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 2 year average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 2 year net returns standard deviation
+        data_tests: []
+          # - not_null 
+          
+
+  # One year returns 
+  ##################################################
+  - name: one_year_returns
+    description: shows compounded returns (net of fees) for the past 1 years from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 1 year compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 1 year average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 1 year net returns standard deviation
+        data_tests: []
+          # - not_null 
+          
+
+  # Eleven month returns 
+  ##################################################
+  - name: eleven_month_returns
+    description: shows compounded returns (net of fees) for the past 11 months from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 11 month compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 11 month average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 11 month net returns standard deviation
+        data_tests: []
+          # - not_null 
+          
+
+  # Ten month returns 
+  ##################################################
+  - name: ten_month_returns
+    description: shows compounded returns (net of fees) for the past 10 months from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 10 month compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 10 month average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 10 month net returns standard deviation
+        data_tests: []
+          # - not_null 
+ 
+
+  # Nine month returns 
+  ##################################################
+  - name: nine_month_returns
+    description: shows compounded returns (net of fees) for the past 9 months from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 9 month compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 9 month average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 9 month net returns standard deviation
+        data_tests: []
+          # - not_null 
+ 
+
+  # Eight month returns 
+  ##################################################
+  - name: eight_month_returns
+    description: shows compounded returns (net of fees) for the past 8 months from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 8 month compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 8 month average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 8 month net returns standard deviation
+        data_tests: []
+          # - not_null 
+ 
+
+  # Seven month returns 
+  ##################################################
+  - name: seven_month_returns
+    description: shows compounded returns (net of fees) for the past 7 months from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 7 month compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 7 month average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 7 month net returns standard deviation
+        data_tests: []
+          # - not_null 
+ 
+
+  # Six month returns 
+  ##################################################
+  - name: six_month_returns
+    description: shows compounded returns (net of fees) for the past 6 months from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 6 month compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 6 month average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 6 month net returns standard deviation
+        data_tests: []
+          # - not_null 
+ 
+
+  # Five month returns 
+  ##################################################
+  - name: five_month_returns
+    description: shows compounded returns (net of fees) for the past 5 months from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 5 month compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 5 month average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 5 month net returns standard deviation
+        data_tests: []
+          # - not_null 
+ 
+
+  # Four month returns 
+  ##################################################
+  - name: four_month_returns
+    description: shows compounded returns (net of fees) for the past 4 months from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 4 month compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 4 month average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 4 month net returns standard deviation
+        data_tests: []
+          # - not_null 
+ 
+
+  # Three month returns 
+  ##################################################
+  - name: three_month_returns
+    description: shows compounded returns (net of fees) for the past 3 months from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 3 month compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 3 month average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 3 month net returns standard deviation
+        data_tests: []
+          # - not_null 
+ 
+
+  # Two month returns 
+  ##################################################
+  - name: two_month_returns
+    description: shows compounded returns (net of fees) for the past 2 months from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 2 month compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 2 month average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 2 month net returns standard deviation
+        data_tests: []
+          # - not_null 
+ 
+
+  # One month returns 
+  ##################################################
+  - name: one_month_returns
+    description: shows compounded returns (net of fees) for the past 1 month from current date recorded
+    columns:
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: return_type
+        description: time period which the return is calculated
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: net_compounded_returns
+        description: 1 month compounded returns net of fees
+        data_tests: []
+          # - not_null
+
+      - name: net_returns_avg
+        description: 1 month average net returns
+        data_tests: []
+          # - not_null       
+
+      - name: net_returns_stddev
+        description: 1 month net returns standard deviation
+        data_tests: []
+          # - not_null 
+
+
+# BEFORE FEES
+#*************************************************************************************************************************************************#
+
+  # # Twenty year returns before fees
+  # ##################################################
+  # - name: all_twenty_year_returns
+  #   description: shows compounded returns (before fees) for the past 20 years from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 20 year compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 20 year average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 20 year returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null   
+
+
+  # # Nineteen year returns before fees
+  # ##################################################
+  # - name: all_nineteen_year_returns
+  #   description: shows compounded returns (before fees) for the past 19 years from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 19 year compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 19 year average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 19 year returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+
+
+  # # Eighteen year returns before fees
+  # ##################################################
+  # - name: all_eighteen_year_returns
+  #   description: shows compounded returns (before fees) for the past 18 years from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 18 year compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 18 year average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 18 year returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+
+
+  # # Seventeen year returns before fees
+  # ##################################################
+  # - name: all_seventeen_year_returns
+  #   description: shows compounded returns (before fees) for the past 17 years from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 17 year compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 17 year average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 17 year returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+          
+
+  # # Sixteen year returns before fees
+  # ##################################################
+  # - name: all_sixteen_year_returns
+  #   description: shows compounded returns (before fees) for the past 16 years from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 16 year compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 16 year average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 16 year returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+          
+
+  # # Fifteen year returns before fees
+  # ##################################################
+  # - name: all_fifteen_year_returns
+  #   description: shows compounded returns (before fees) for the past 15 years from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 15 year compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 15 year average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 15 year returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+          
+
+  # # Fourteen year returns before fees
+  # ##################################################
+  # - name: all_fourteen_year_returns
+  #   description: shows compounded returns (before feess) for the past 14 years from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 14 year compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 14 year average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 14 year returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+          
+
+  # # Thirteen year returns before fees
+  # ##################################################
+  # - name: all_thirteen_year_returns
+  #   description: shows compounded returns (before fees) for the past 13 years from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 13 year compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 13 year average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 13 year returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+          
+
+  # # Twelve year returns before fees
+  # ##################################################
+  # - name: all_twelve_year_returns
+  #   description: shows compounded returns (before fees) for the past 12 years from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 12 year compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 12 year average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 12 year returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+          
+
+  # # Eleven year returns before fees
+  # ##################################################
+  # - name: all_eleven_year_returns
+  #   description: shows compounded returns (before fees) for the past 11 years from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 11 year compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 11 year average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 11 year returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+          
+
+  # # Ten year returns before fees
+  # ##################################################
+  # - name: all_ten_year_returns
+  #   description: shows compounded returns (before fees) for the past 10 years from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 10 year compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 10 year average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 10 year returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+          
+
+  # # Nine year returns before fees
+  # ##################################################
+  # - name: all_nine_year_returns
+  #   description: shows compounded returns (before fees) for the past 9 years from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 9 year compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 9 year average returns efore fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 9 year returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+          
+
+  # # Eight year returns before fees
+  # ##################################################
+  # - name: all_eight_year_returns
+  #   description: shows compounded returns (before fees) for the past 8 years from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 8 year compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 8 year average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 8 year returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+          
+
+  # # Seven year returns before fees
+  # ##################################################
+  # - name: all_seven_year_returns
+  #   description: shows compounded returns (before fees) for the past 7 years from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 7 year compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 7 year average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 7 year returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+          
+
+  # # Six year returns before fees
+  # ##################################################
+  # - name: all_six_year_returns
+  #   description: shows compounded returns (before fees) for the past 6 years from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 6 year compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 6 year average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 6 year returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+          
+
+  # # Five year returns before fees
+  # ##################################################
+  # - name: all_five_year_returns
+  #   description: shows compounded returns (before fees) for the past 5 years from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 5 year compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 5 year average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 5 year returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+          
+
+  # # Four year returns before fees
+  # ##################################################
+  # - name: all_four_year_returns
+  #   description: shows compounded returns (before fees) for the past 4 years from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 4 year compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 4 year average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 4 year returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+          
+
+  # # Three year returns before fees
+  # ##################################################
+  # - name: all_three_year_returns
+  #   description: shows compounded returns (before fees) for the past 3 years from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 3 year compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 3 year average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 3 year returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+          
+
+  # # Two year returns before fees
+  # ##################################################
+  # - name: all_two_year_returns
+  #   description: shows compounded returns (before fees) for the past 2 years from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 2 year compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 2 year average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 2 year returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+          
+
+  # # One year returns before fees
+  # ##################################################
+  # - name: all_one_year_returns
+  #   description: shows compounded returns (before fees) for the past 1 years from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 1 year compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 1 year average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 1 year returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+          
+
+  # # Eleven month returns before fees
+  # ##################################################
+  # - name: all_eleven_month_returns
+  #   description: shows compounded returns (before fees) for the past 11 months from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 11 month compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 11 month average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 11 month returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+          
+
+  # # Ten month returns before fees
+  # ##################################################
+  # - name: all_ten_month_returns
+  #   description: shows compounded returns (before fees) for the past 10 months from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 10 month compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 10 month average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 10 month returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+ 
+
+  # # Nine month returns before fees
+  # ##################################################
+  # - name: all_nine_month_returns
+  #   description: shows compounded returns (before fees) for the past 9 months from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 9 month compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 9 month average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 9 month returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+ 
+
+  # # Eight month returns before fees
+  # ##################################################
+  # - name: all_eight_month_returns
+  #   description: shows compounded returns (before fees) for the past 8 months from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 8 month compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 8 month average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 8 month returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+ 
+
+  # # Seven month returns before fees
+  # ##################################################
+  # - name: all_seven_month_returns
+  #   description: shows compounded returns (before fees) for the past 7 months from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 7 month compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 7 month average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 7 month returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+ 
+
+  # # Six month returns before fees
+  # ##################################################
+  # - name: all_six_month_returns
+  #   description: shows compounded returns (before fees) for the past 6 months from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 6 month compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 6 month average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 6 month returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+ 
+
+  # # Five month returns before fees
+  # ##################################################
+  # - name: all_five_month_returns
+  #   description: shows compounded returns (before fees) for the past 5 months from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 5 month compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 5 month average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 5 month returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+ 
+
+  # # Four month returns before fees
+  # ##################################################
+  # - name: all_four_month_returns
+  #   description: shows compounded returns (before fees) for the past 4 months from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 4 month compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 4 month average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 4 month returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+ 
+
+  # # Three month returns before fees
+  # ##################################################{"text":"analytics.raw_fees","objUrl":"/browser/table/obj/1/1/28795/28797/57835","nodeType":"table","cur":{"from":18,"to":18}}
+  # - name: all_three_month_returns
+  #   description: shows compounded returns (before fees) for the past 3 months from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 3 month compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 3 month average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 3 month returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+ 
+
+  # # Two month returns before fees
+  # ##################################################
+  # - name: all_two_month_returns
+  #   description: shows compounded returns (before fees) for the past 2 months from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 2 month compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 2 month average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 2 month returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+ 
+
+  # # One month returns before fees
+  # ##################################################
+  # - name: all_one_month_returns
+  #   description: shows compounded returns (before fees) for the past 1 month from current date recorded
+  #   columns:
+
+  #     - name: fund_category
+  #       description: unique category for specific funds
+  #       data_tests:
+  #         # - unique
+  #         # - not_null
+
+  #     - name: fund_identifier 
+  #       description: unique id per fund (ticker)
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: fund_company_id
+  #       description: unique id per fund company
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: return_type
+  #       description: time period which the return is calculated
+  #       data_tests:
+  #         # - unique
+  #         - not_null
+
+  #     - name: compounded_returns
+  #       description: 1 month compounded returns before fees
+  #       data_tests:
+  #         # - not_null
+
+  #     - name: returns_avg
+  #       description: 1 month average returns before fees
+  #       data_tests:
+  #         # - not_null       
+
+  #     - name: returns_stddev
+  #       description: 1 month returns before fees standard deviation
+  #       data_tests:
+  #         # - not_null 
+
+
+  # All fund benchmarks
+  ##################################################
+  - name: all_fund_benchmarks
+    description: Shows all fund benchmarks to be compared to and peer group funds to set as the peer group.
+    columns:
+
+      - name: fund_identifier 
+        description: unique id per fund (ticker)
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: peer_group
+        description: unique category for specific funds
+        data_tests:
+          # - unique
+          - not_null
+
+      - name: sub_peer_group
+        description: unique sub category for specific funds (target date and asset allocation)
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_company_id
+        description: unique id per fund company
+        data_tests:
+          # - unique
+          - not_null
+ 
+
+  # All peer group net compounded returns
+  ##################################################
+  - name: all_returns_peer_group
+    description: shows all net compounded returns per peer group
+    columns:
+
+      - name: peer_group_identifier
+        description: an id to used to help join the table to the all_returns_view
+        data_tests:
+          - unique
+          - not_null
+
+      - name: peer_net_compounded_returns
+        description: peer group net compounded returns
+        data_tests:
+          - unique
+          - not_null
+
+
+  # Rolling returns query one
+  ##################################################
+  - name: rolling_returns_one
+    description: Is the first query in the rolling_returns_view that returns rolling 12, 36, and 60 month net compounded returns for all funds.
+    columns:
+
+      - name: fund_company
+        description: unique fund company
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_type
+        description: time period which the return is calculated
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: invested
+        description: flags if the analyzed client owns the fund
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier
+        description: unique id per fund (ticker)
+        data_tests: []
+          # - unique
+          # - not null
+          
+      - name: funds
+        description: unique funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: market_value
+        description: current market value of funds held by the client
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: member_count
+        description: counts the number of members the client has invested in a fund
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: returns
+        description: retruns per fund per date
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fees
+        description: annual fund fees
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: net_returns
+        description: monthly returns minus monthly fee (fee/12)
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: date
+        description: date per return per fund
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: net_compounded_returns_12_rolling
+        description: Compounded returns on a rolling 12 month basis minus benchmarks (net of fees compounded returns)
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: net_compounded_returns_36_rolling
+        description: Compounded returns on a rolling 36 month basis minus benchmarks (net of fees compounded returns)
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: net_compounded_returns_60_rolling
+        description: Compounded returns on a rolling 60 month basis minus benchmarks (net of fees compounded returns)
+        data_tests: []
+          # - unique
+          # - not_null
+
+
+  # Rolling returns query two
+  ##################################################
+  - name: rolling_returns_two
+    description: Is the second query in the net_rerolling_returns_viewturns_view that returns average rolling compounded returns grouped by peer and sub peer groups per date.
+    columns:
+
+      - name: peer_group_identifier
+        description: peer group id
+        data_tests:
+          - unique
+          - not_null
+
+      - name: peer_12_rolling_net_compounded_returns
+        description: sub peer group returns (average peer net compounded returns on a 12 month rolling basis)
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: peer_36_rolling_net_compounded_returns
+        description: sub peer group returns (average peer net compounded returns on a 36 month rolling basis)
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: peer_60_rolling_net_compounded_returns
+        description: sub peer group returns (average peer net compounded returns on a 60 month rolling basis)
+        data_tests: []
+          # - unique
+          # - not_null
+
+
+  # Rolling returns query three
+  ##################################################
+  - name: rolling_returns_three
+    description: Is the third query in the rolling_returns_view that retruns all sub peer group returns (average peer net compounded returns on a 12, 36, and 60 month rolling basis)
+    columns:
+
+      - name: fund_company
+        description: unique fund company
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_type
+        description: time period which the return is calculated
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: invested
+        description: flags if the analyzed client owns the fund
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier
+        description: unique id per fund (ticker)
+        data_tests: []
+          # - unique
+          # - not_null
+          
+      - name: funds
+        description: unique funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: market_value
+        description: current market value of funds held by the client
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: member_count
+        description: counts the number of members the client has invested in a fund
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: returns
+        description: retruns per fund per date
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fees
+        description: annual fund fees
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: net_returns
+        description: monthly returns minus monthly fee (fee/12)
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: date
+        description: date per return per fund
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: peer_group_identifier
+        description: peer group id
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: sub_peer_group
+        description: peer group sub categories for asset allocation and traget date funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: peer_12_rolling_net_compounded_returns
+        description: sub peer group returns (average peer net compounded returns on a 12 month rolling basis)
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: peer_36_rolling_net_compounded_returns
+        description: sub peer group returns (average peer net compounded returns on a 36 month rolling basis)
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: peer_60_rolling_net_compounded_returns
+        description: sub peer group returns (average peer net compounded returns on a 60 month rolling basis)
+        data_tests: []
+          # - unique
+          # - not_null
+
+
+  # Rolling returns query four
+  ##################################################
+  - name: rolling_returns_four
+    description: Is the fourth query in the rolling_returns_view
+    columns:
+
+      - name: fund_company
+        description: unique fund company
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_type
+        description: time period which the return is calculated
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: invested
+        description: flags if the analyzed client owns the fund
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_category
+        description: unique category for specific funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fund_identifier
+        description: unique id per fund (ticker)
+        data_tests: []
+          # - unique
+          
+      - name: funds
+        description: unique funds
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: market_value
+        description: current market value of funds held by the client
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: member_count
+        description: counts the number of members the client has invested in a fund
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: returns
+        description: retruns per fund per date
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: fees
+        description: annual fund fees
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: date
+        description: date per return per fund
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: peer_12_rolling_net_compounded_returns
+        description: sub peer group returns (average peer net compounded returns on a 12 month rolling basis)
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: peer_36_rolling_net_compounded_returns
+        description: sub peer group returns (average peer net compounded returns on a 36 month rolling basis)
+        data_tests: []
+          # - unique
+          # - not_null
+
+      - name: peer_60_rolling_net_compounded_returns
+        description: sub peer group returns (average peer net compounded returns on a 60 month rolling basis)
+        data_tests: []
+          # - unique
+          # - not_null
+          

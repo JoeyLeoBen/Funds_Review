@@ -1,0 +1,470 @@
+﻿fund_identifier,funds,returns,fund_type,fund_company
+F00000JSEU,SL MFS US Growth Seg Fund,2.064,Available,Sun Life
+F00000JSEV,SL MFS US Value Seg Fund,-3.779,Available,Sun Life
+F00000JSEW,SL MFS Global Value Seg Fund,-2.473,Available,Sun Life
+F00000JSEX,SL MFS Global Growth Seg Fund,-0.339,Available,Sun Life
+F00000JSEY,SL MFS International Growth Seg Fund,0.456,Available,Sun Life
+F00000M0AT,MSCI EAFE - JF Net CAD,0.3816,Benchmark,Sun Life
+F00000MCRN,SL BlackRock Canadian Equity Seg Fund,-2.168,Available,Sun Life
+F00000MJTJ,Russell 1000 TR CAD,-0.1462,Benchmark,Sun Life
+F00000MO4H,Invesco Global Companies Benchmark,0.2862,Benchmark,Sun Life
+F00000MSJT,SLF PH&N Short Bond Seg Fund,0.31,Available,Sun Life
+F00000MSJU,SL Multi-Strategy Bond Seg Fund,-0.744,Available,Sun Life
+F00000MSJV,SLF PH&N Long Bond Seg Fund,-2.628,Available,Sun Life
+F00000MSJW,Templeton Global Bond Segregated Fund,-1.752,Available,Sun Life
+F00000MSJZ,Invesco Global Real Est Seg Fund-Listed,-4.658,Available,Sun Life
+F00000MSK0,SL Schroder Emerging Markets Seg Fund,1.412,Available,Sun Life
+F00000MTDQ,JPM Global Government Bond Index (C$),-0.0229,Benchmark,Sun Life
+F00000MTDS,FTSE EPRA Nareit Developed Real Estate CAD,-4.3984,Benchmark,Sun Life
+F00000NCJU,SL Granite 2050 Seg Fund,-0.944,Available,Sun Life
+F00000ND1J,SL Granite 2050 Benchmark,-0.8246,Benchmark,Sun Life
+F00000NMH1,SL Granite 2030 Aggressive Seg Fund,-0.844,Available,Sun Life
+F00000NMH2,SL Granite 2040 Aggressive Seg Fund,-0.915,Available,Sun Life
+F00000NMH3,SL Granite 2050 Aggressive Seg Fund,-0.99,Available,Sun Life
+F00000NMH5,SL Granite 2030 Conservative Seg Fund,-0.942,Available,Sun Life
+F00000NMH6,SL Granite 2040 Conservative Seg Fund,-0.839,Available,Sun Life
+F00000NMH7,SL Granite 2050 Conservative Seg Fund,-0.908,Available,Sun Life
+F00000NMH9,SL Granite 2030 Moderate Seg Fund,-0.875,Available,Sun Life
+F00000NMHA,SL Granite 2040 Moderate Seg Fund,-0.861,Available,Sun Life
+F00000NMHB,SL Granite 2050 Moderate Seg Fund,-0.944,Available,Sun Life
+F00000NMIO,SL Granite Aggressive 2030 Benchmark,-0.8217,Benchmark,Sun Life
+F00000NMIQ,SL Granite Aggressive 2040 Benchmark,-0.8138,Benchmark,Sun Life
+F00000NMIR,SL Granite Aggressive 2050 Benchmark,-0.8511,Benchmark,Sun Life
+F00000NMIS,SL Granite Conservative 2030 Benchmark,-0.9643,Benchmark,Sun Life
+F00000NMIU,SL Granite Conservative 2050 Benchmark,-0.8138,Benchmark,Sun Life
+F00000NMKT,SL Granite Conservative 2040 Benchmark,-0.8217,Benchmark,Sun Life
+F00000NUJE,MFS Global Benchmark,0.29,Benchmark,Sun Life
+F00000NZ56,Lazard Gl Listed Infrastructure Seg Fund,-3.005,Available,Sun Life
+F00000O9GC,Consumer Price Index + 5% Benchmark,0.42,Benchmark,Sun Life
+F00000OLOB,BLK LifePath Index 2050 Segregated Fund,-1.037,Available,Sun Life
+F00000OM6J,BLK LifePath Index 2050 Benchmark,-0.827,Benchmark,Sun Life
+F00000P794,TDAM Low Volatility Cdn Equity Seg Fund,-2.658,Available,Sun Life
+F00000PGYD,MSCI EAFE GR CAD,0.4033,Benchmark,Sun Life
+F00000PH0W,MSCI World GR CAD,0.0732,Benchmark,Sun Life
+F00000PH12,MSCI EM NR CAD,2.5765,Benchmark,Sun Life
+F00000PH35,Fidelity ClearPath 2050 Port Seg Fund,-1.018,Available,Sun Life
+F00000PH36,Fidelity ClearPath 2055 Port Seg Fund,-1.016,Available,Sun Life
+F00000PH3H,Fidelity Clearpath 2050 Benchmark,-0.69,Benchmark,Sun Life
+F00000PH3I,Fidelity Clearpath 2055 Benchmark,-0.69,Benchmark,Sun Life
+F00000Q622,TD Greystone 8 Yr Target Duration Seg Fd,-0.634,Available,Sun Life
+F00000Q623,TD Greystone 15 Yr Tgt Duration Seg Fd,-2.656,Available,Sun Life
+F00000Q624,TD Greystone 20+ Yr Tgt Duration Seg Fd,-5.497,Available,Sun Life
+F00000Q625,MFS Low Volatility Global Eq Seg Fund,-2.049,Available,Sun Life
+F00000Q628,Invesco Global Small Cap Equity Seg Fund,-2.864,Available,Sun Life
+F00000Q629,PH&N Cdn Equity Value Segregated Fund,-3.267,Available,Sun Life
+F00000Q62B,PIMCO Canada Cdn CorePLUS Bond Seg Fund,-0.86,Available,Sun Life
+F00000Q62C,TDAM Active Cdn Corporate Bond Seg Fund,-0.042,Available,Sun Life
+F00000Q62D,TDAM Canadian Core Plus Bond Seg Fund,-0.636,Available,Sun Life
+F00000Q62E,SL Granite Income Seg Fund,-1.402,Available,Sun Life
+F00000Q62F,SL Granite Enhanced Income Seg Fund,-1.467,Available,Sun Life
+F00000Q62G,TD Greystone 3 Yr Target Duration Seg Fd,0.321,Available,Sun Life
+F00000Q65P,TD Greystone 8 Yr Target Dur Benchmark,-0.5885,Benchmark,Sun Life
+F00000Q65Q,TD Greystone 3 Yr Target Dur Benchmark,0.3678,Benchmark,Sun Life
+F00000Q65R,TD Greystone 15Yr Target Dur Benchmark,-2.5146,Benchmark,Sun Life
+F00000Q65S,TD Greystone 20+ Target Dur Benchmark,-5.4348,Benchmark,Sun Life
+F00000Q65T,SL Granite Income Benchmark,-1.1161,Benchmark,Sun Life
+F00000Q65U,SL Granite Enhanced Income Benchmark,-1.139,Benchmark,Sun Life
+F00000QAE7,MSCI ACWI Small Cap Index (Cdn $),-2.7281,Benchmark,Sun Life
+F00000QFU4,BGO Canadian Real Estate Plus Seg Fund,-0.434,Available,Sun Life
+F00000QG64,BGO Real Estate Plus Benchmark,-1.5573,Benchmark,Sun Life
+F00000SA6Y,BG Fundamental Canadian Equity Seg Fund,-2.357,Available,Sun Life
+F00000SA70,Fiera US Equity Segregated Fund,-1.558,Available,Sun Life
+F00000SA73,TDAM Globl Eq Shareholder Yld Seg Fd Reg,-1.322,Available,Sun Life
+F00000SA74,Fiera International Equity Seg Fund,0.226,Available,Sun Life
+F00000SA75,Schroder Diversified Growth Seg Fund,-1.604,Available,Sun Life
+F00000SCFE,MSCI World Index Net Dividend (C$),0.0408,Benchmark,Sun Life
+F00000SCFF,Schroder Diversified Growth Benchmark,0.64,Benchmark,Sun Life
+F00000T67C,BLK MSCI Emerging Markets Index Seg Fund,2.461,Available,Sun Life
+F00000T687,SL Granite 2025 Aggressive Seg Fund,-0.959,Available,Sun Life
+F00000T688,SL Granite 2035 Aggressive Seg Fund,-0.861,Available,Sun Life
+F00000T689,SL Granite 2045 Aggressive Seg Fund,-0.961,Available,Sun Life
+F00000T68B,SL Granite 2025 Conservative Seg Fund,-0.994,Available,Sun Life
+F00000T68C,SL Granite 2035 Conservative Seg Fund,-0.875,Available,Sun Life
+F00000T68D,SL Granite 2045 Conservative Seg Fund,-0.856,Available,Sun Life
+F00000T68F,SL Granite 2025 Moderate Seg Fund,-0.942,Available,Sun Life
+F00000T68G,SL Granite 2035 Moderate Seg Fund,-0.845,Available,Sun Life
+F00000T68H,SL Granite 2045 Moderate Seg Fund,-0.911,Available,Sun Life
+F00000T6CI,BlackRock Emerging Markets Benchmark,2.5765,Benchmark,Sun Life
+F00000T6D8,SL Granite Aggressive 2025 Benchmark,-0.932,Benchmark,Sun Life
+F00000T6D9,SL Granite Aggressive 2035 Benchmark,-0.7965,Benchmark,Sun Life
+F00000T6DA,SL Granite Aggressive 2045 Benchmark,-0.8315,Benchmark,Sun Life
+F00000T6DC,SL Granite Conservative 2025 Benchmark,-0.9901,Benchmark,Sun Life
+F00000T6DD,SL Granite Conservative 2035 Benchmark,-0.8831,Benchmark,Sun Life
+F00000T6DE,SL Granite Conservative 2045 Benchmark,-0.7965,Benchmark,Sun Life
+F00000TWBF,TDAM US Market Index Seg Fund (Reg),0.267,Available,Sun Life
+F00000V8TF,SLC Mgmt Cdn Commercial Mortgage Seg Fd,0.768,Available,Sun Life
+F00000V8TG,SLC Mgmt Private Fixed Inc Plus Seg Fund,1.299,Available,Sun Life
+F00000V911,SL Cdn Commercial Mortgage Benchmark,0.87,Benchmark,Sun Life
+F00000V913,SL Private Fixed Income Plus Benchmark,1.67,Benchmark,Sun Life
+F00000VFFO,Bloomberg Global Aggregate TR CAD,0.5139,Benchmark,Sun Life
+F00000VIQH,TRP Global Growth Equity Seg Fund,0.32,Available,Sun Life
+F00000VOOP,BLK LifePath Index 2055 Segregated Fund,-1.073,Available,Sun Life
+F00000VOOQ,SL Granite 2055 Seg Fund,-0.973,Available,Sun Life
+F00000VOOR,SL Granite 2055 Moderate Seg Fund,-0.973,Available,Sun Life
+F00000VOOS,SL Granite 2055 Conservative Seg Fund,-0.949,Available,Sun Life
+F00000VOOT,SL Granite 2055 Aggressive Seg Fund,-0.983,Available,Sun Life
+F00000VOSH,SL Granite 2055 Benchmark,-0.8506,Benchmark,Sun Life
+F00000VOSI,BLK LifePath Index 2055 Benchmark,-0.851,Benchmark,Sun Life
+F00000VOSJ,SL Granite Aggressive 2055 Benchmark,-0.8511,Benchmark,Sun Life
+F00000VOSK,SL Granite Conservative 2055 Benchmark,-0.8252,Benchmark,Sun Life
+F00000VYJK,PH&N Core Plus Bond Segregated Fund,-0.757,Available,Sun Life
+F00000W2E8,AlphaFixe Return Plus Segregated Fund,-0.891,Available,Sun Life
+F00000WILB,BGO Prime Canadian Property Seg Fund,0,Available,Sun Life
+F00000WIQQ,BGO Prime Canadian Property Benchmark,-0.3737,Benchmark,Sun Life
+F00000WNR2,Mawer Global Equity Seg Fund,-0.975,Available,Sun Life
+F00000WUXJ,SL MFS Low Vol Intl Equity Seg Fund,-0.415,Available,Sun Life
+F00000WUXK,MFS LifePlan Retirement 2055 Seg Fund,-1.608,Available,Sun Life
+F00000WUYE,MFS LifePlan Retirement 2055 Benchmark,-1.07,Benchmark,Sun Life
+F00000X17W,TD Greystone 2025 TD Plus Benchmark,-0.4514,Benchmark,Sun Life
+F00000X17X,TD Greystone 2030 TD Plus Benchmark,-0.5234,Benchmark,Sun Life
+F00000X17Y,TD Greystone 2035 TD Plus Benchmark,-0.6057,Benchmark,Sun Life
+F00000X17Z,TD Greystone 2040 TD Plus Benchmark,-0.5968,Benchmark,Sun Life
+F00000X180,TD Greystone 2045 TD Plus Benchmark,-0.5934,Benchmark,Sun Life
+F00000X181,TD Greystone 2050 TD Plus Benchmark,-0.6108,Benchmark,Sun Life
+F00000X182,TD Greystone 2055 TD Plus Benchmark,-0.61,Benchmark,Sun Life
+F00000X183,TD Greystone Retirement Plus Benchmark,-0.4514,Benchmark,Sun Life
+F00000X1A3,TD Greystone 2025 Target Date Plus Sg Fd,-0.712,Available,Sun Life
+F00000X1A4,TD Greystone 2030 Target Date Plus Sg Fd,-0.825,Available,Sun Life
+F00000X1A5,TD Greystone 2035 Target Date Plus Sg Fd,-0.926,Available,Sun Life
+F00000X1A6,TD Greystone 2040 Target Date Plus Sg Fd,-0.934,Available,Sun Life
+F00000X1A7,TD Greystone 2045 Target Date Plus Sg Fd,-0.949,Available,Sun Life
+F00000X1A8,TD Greystone 2050 Target Date Plus Sg Fd,-0.978,Available,Sun Life
+F00000X1A9,TD Greystone 2055 Target Date Plus Sg Fd,-0.972,Available,Sun Life
+F00000X1AA,TD Greystone Retirement Plus Seg Fund,-0.717,Available,Sun Life
+F00000XBW8,SL Opportunistic Fixed Income Seg Fund,-1.694,Available,Sun Life
+F00000XCBQ,SL Opportunistic Fixed Income Benchmark,-0.9211,Benchmark,Sun Life
+F00000XDOW,T Rowe US LC Core Growth Seg Fund (Reg),2.362,Available,Sun Life
+F00000YT9O,TDAM Low Volatility US Equity Seg Fund,-3.105,Available,Sun Life
+F00000YT9Q,TDAM Low Vol Global Equity Seg Fund,-1.627,Available,Sun Life
+F00000YT9S,MFS Cdn Core Plus Fixed Income Seg Fund,-0.612,Available,Sun Life
+F00000YT9T,MFS Global Fixed Income Segregated Fund,0.308,Available,Sun Life
+F00000YT9U,PH&N Fossil Fuel Free Global Eq Seg Fund,-0.878,Available,Sun Life
+F00000YT9W,BlackRock ACWI Alpha Tilts Seg Fund(Reg),-0.192,Available,Sun Life
+F00000YT9X,BlackRock US Eq Ind Hedged Seg Fund(Reg),-2.596,Available,Sun Life
+F00000YT9Z,T Rowe US LC Core Growth Seg Fund,2.397,Available,Sun Life
+F00000YTMS,S&P 500 CAD Daily Hedged Index,-2.5729,Benchmark,Sun Life
+F00000YXC5,S&P Global Infrastructure Index (Canadian Dollar) (TR)SPGTINTC,-1.8827,Benchmark,Sun Life
+F00000ZA2A,Mawer Global Benchmark,0.2861,Benchmark,Sun Life
+F00000ZG0J,S&P Composite 1500 Index C$,-0.1564,Benchmark,Sun Life
+F0000102IW,SL Multi-Strategy Cdn Equity Seg Fund,-3.05,Available,Sun Life
+F0000102IX,SL Multi-Strategy Global Equity Seg Fund,-0.021,Available,Sun Life
+F000010AO3,Beutel Goodman Small Cap Benchmark,-3.3,Benchmark,Sun Life
+F000010PAU,MSCI World Small Cap Index Net (C$),-3.4106,Benchmark,Sun Life
+F000010PCG,Fidelity ClearPath 2060 Port Seg Fund,-1.018,Available,Sun Life
+F000010SJF,Fidelity Clearpath 2060 Benchmark,-0.69,Benchmark,Sun Life
+F000010TYU,SLC Mgmt Core Plus Bond Seg Fund,-0.494,Available,Sun Life
+F000010TYV,SLC Mgmt Long Core Plus Bond Seg Fund,-2.315,Available,Sun Life
+F000011DMZ,BLK LifePath Index 2060 Benchmark,-0.8447,Benchmark,Sun Life
+F000011E5T,BLK LifePath Index 2060 Segregated Fund,-1.05,Available,Sun Life
+F000011KRL,MSCI ACW ex US Index (C$),0.7217,Benchmark,Sun Life
+F000011P5S,Morgan Stanley Gl Franchise Seg Fund NR,-0.327,Available,Sun Life
+F000011P5T,SL Unconstrained International Eq Seg Fd,0.529,Available,Sun Life
+F000011XHN,Morgan Stanley GI Franchise Seg Fd (Reg),-0.305,Available,Sun Life
+F000012530,MFS LifePlan Retirement 2060 Benchmark,-1.07,Benchmark,Sun Life
+F0000139VT,MFS LifePlan Retirement 2060 Seg Fund,-1.608,Available,Sun Life
+F000013C46,Invesco Global Direct Real Est Benchmark,0.3274,Benchmark,Sun Life
+F000013E0N,Invesco Global Direct Real Estate Seg Fd,0,Available,Sun Life
+F000013HSS,PIMCO Monthly Income Benchmark,-1.8138,Benchmark,Sun Life
+F000013KCF,PIMCO Canada Monthly Income Seg Fund,-0.703,Available,Sun Life
+F000013PWU,SL Granite Aggressive 2060 Benchmark,-0.8511,Benchmark,Sun Life
+F000013PWV,SL Granite Conservative 2060 Benchmark,-0.8243,Benchmark,Sun Life
+F000013PWW,SL Granite 2060 Benchmark,-0.8492,Benchmark,Sun Life
+F000013QNX,SL Granite 2060 Aggressive Seg Fund,-0.995,Available,Sun Life
+F000013QNY,SL Granite 2060 Conservative Seg Fund,-0.946,Available,Sun Life
+F000013QNZ,SL Granite 2060 Moderate Seg Fund,-0.972,Available,Sun Life
+F000013QO0,SL Granite 2060 Seg Fund,-0.972,Available,Sun Life
+F000014FHD,Mawer US Equity Segregated Fund,-2.697,Available,Sun Life
+F000014H4A,Franklin Global Real Assets Seg Fund,-1.173,Available,Sun Life
+F000014H4D,SL Multi-Strategy Real Asset Seg Fund,-3.987,Available,Sun Life
+F000014H6K,Sun Life Real Asset Benchmark,-3.6363,Benchmark,Sun Life
+F000014H6L,Canadian Total Consumer Price Index + 4%,0.6184,Benchmark,Sun Life
+F000014M0L,MSCI ACW Index Net (C$),0.2861,Benchmark,Sun Life
+F0000159TR,JF SmallMid Cap Equity Segregated Fund,-2.035,Available,Sun Life
+F000015HNN,SL Multi-Strategy Core Plus Bond Seg Fd,-0.992,Available,Sun Life
+F0000161R0,Capital Group Global Equity Seg Fund,0.911,Available,Sun Life
+F0000161R1,Capital Group US Equity Seg Fund,1.307,Available,Sun Life
+F0000161R4,Schroder Global Sustainable Grwth Seg Fd,1.228,Available,Sun Life
+F000016OJ8,TDAM Global Eq Shareholder Yield Seg Fd,-1.269,Available,Sun Life
+F000016STN,Global Alpha Group Global Small Cp Sg Fd,-3.857,Available,Sun Life
+F000016XIO,MFS LifePlan Retirement 2065 Seg Fund,-1.58,Available,Sun Life
+F000016XIP,SLC Mgmt Cdn Lng Duration Overlay Seg Fd,-9.221,Available,Sun Life
+F0000170OB,SLC M Cdn Lng Duration Overlay Benchmark,-9.22,Benchmark,Sun Life
+F00001767V,MFS LifePlan Retirement 2065 Benchmark,-1.07,Benchmark,Sun Life
+F000017H5N,SLC Mgmt Long Corporate Bond Benchmark,-1.6,Benchmark,Sun Life
+F000017I94,SLC Mgmt Long Corporate Bond Seg Fund,-1.679,Available,Sun Life
+F00001CHQ8,PH&N Fossil Fuel Free Balanced Seg Fund,-0.575,Available,Sun Life
+F00001CHQ9,PH&N Fossil Fuel Free Bond Seg Fund,-0.74,Available,Sun Life
+F00001CHQA,PH&N Fossil Fuel Free LwVol Cdn Eq Sg Fd,-2.648,Available,Sun Life
+F00001CHQB,PH&N Fossil Fuel Free ST Bond Seg Fund,0.316,Available,Sun Life
+F00001CHQC,PH&N Short Core Plus Bond Seg Fund,0.303,Available,Sun Life
+F00001CUZO,PH&N Fossil Fuel Free Balanced Benchmark,0.0419,Benchmark,Sun Life
+F00001D5UW,IFM Global Infrastructure Segregated Fnd,0,Available,Sun Life
+F00001D6E2,BLK LifePath Index 2065 Segregated Fund,-1.058,Available,Sun Life
+F00001D74H,MSCI ACWI Islamic Index TR (C$),-0.6923,Benchmark,Sun Life
+F00001D74I,BLK LifePath Index 2065 Benchmark,-0.8447,Benchmark,Sun Life
+F00001D836,BlackRock MSCI ACWI Islamic Eq Index Fnd,-0.079,Available,Sun Life
+F00001DDU7,SL KBI Glbl Sustainable Infrastr Seg Fd,-5.808,Available,Sun Life
+F00001DG22,AlphaFixe Green Bond Segregated Fund,-0.818,Available,Sun Life
+F00001E2BX,SL Granite 2065 Seg Fund,-0.99,Available,Sun Life
+F00001E2BY,SL Granite 2065 Conservative Seg Fund,-0.943,Available,Sun Life
+F00001E2BZ,SL Granite 2065 Aggressive Seg Fund,-0.988,Available,Sun Life
+F00001E2C0,SL Granite 2065 Moderate Seg Fund,-0.99,Available,Sun Life
+F00001E8EI,SL Granite Conservative 2065 Benchmark,-0.8243,Benchmark,Sun Life
+F00001E8EK,SL Granite 2065 Benchmark,-0.8492,Benchmark,Sun Life
+F00001E8EL,SL Granite Aggressive 2065 Benchmark,-0.8511,Benchmark,Sun Life
+F00001EMT9,Baillie Gifford Global Alpha Seg Fund,-2.064,Available,Sun Life
+F00001EMTA,Baillie Gifford Positive Change Eq Sg Fd,-1.072,Available,Sun Life
+F00001EMZK,Sun Life MFS Diversified Income Seg Fund,-0.981,Available,Sun Life
+F00001EUGX,SL MFS Diversified Income Benchmark,-0.9556,Benchmark,Sun Life
+F00001F0DI,TD Greystone 2060 Target Date Seg Fund,-0.968,Available,Sun Life
+F00001F4B0,TD Greystone 2060 Target Date Plus Benchmark,-0.6078,Benchmark,Sun Life
+F00001F4B8,Fidelity Clearpath 2065 Benchmark,-0.69,Benchmark,Sun Life
+F00001F4SO,Dow Jones Brookfield Global Infrastructure CAD,-3.3786,Benchmark,Sun Life
+F00001F4V6,BLK Global Infrastructure Eq Index Sg Fd,-3.313,Available,Sun Life
+F00001F78H,Fidelity ClearPath 2065 Port Seg Fund,-1.007,Available,Sun Life
+F00001G9DG,SL Granite Conservative Retirement Sg Fd,-0.988,Available,Sun Life
+F00001G9DH,SL Granite Aggressive Retirement Seg Fd,-0.994,Available,Sun Life
+F00001GOC5,SL Granite Conservative Ret Benchmark,-0.9906,Benchmark,Sun Life
+F00001GOC6,SL Granite Aggressive Ret Benchmark,-0.9567,Benchmark,Sun Life
+F00001GOLS,TD Greystone 2065 Target Date Plus Sg Fd,-0.972,Available,Sun Life
+F00001GOLT,PH&N Future Solutions Bond Seg Fund,-0.53,Available,Sun Life
+F00001GOLV,SL Granite Moderate Retirement Fund,-0.94,Available,Sun Life
+F00001I0OK,TD Greystone 2065 TD Plus Benchmark,-0.6044,Benchmark,Sun Life
+F00001KM5E,Boston Partners International Eq Seg Fnd,-0.703,Available,Sun Life
+F00001M6SS,PineStone Global Equity Segregated Fund,0.413,Available,Sun Life
+F00001M6ST,PineStone US Equity Segregated Fund,-1.744,Available,Sun Life
+F00001M6SU,PineStone International Equity Seg Fund,0.134,Available,Sun Life
+F00001MP6J,Boston Partners Global Equity Seg Fund,-1.349,Available,Sun Life
+F0CAN069W5,BLK Moderate Balanced Index Seg Fund,-1.064,Available,Sun Life
+F0CAN069W6,BLK S&PTSX Composite Index Seg Fund,-3.277,Available,Sun Life
+F0CAN069W7,BLK Aggressive Balanced Index Seg Fund,-1.228,Available,Sun Life
+F0CAN069W8,BLK Universe Bond Index Segregated Fund,-0.695,Available,Sun Life
+F0CAN069W9,BLK EAFE Equity Index Segregated Fund,0.093,Available,Sun Life
+F0CAN069WA,BLK Conservative Balanced Index Seg Fund,-0.906,Available,Sun Life
+F0CAN069WB,BLK US Equity Index Segregated Fund,0.248,Available,Sun Life
+F0CAN069WN,CC&L Group Income and Growth Seg Fund,-1.353,Available,Sun Life
+F0CAN069WP,MFS Conservative Allocation Seg Fund,-0.766,Available,Sun Life
+F0CAN069WQ,MFS Moderate Allocation Segregated Fund,-1.058,Available,Sun Life
+F0CAN069WR,MFS Growth Allocation Segregated Fund,-1.39,Available,Sun Life
+F0CAN06ZKT,BLK LifePath Index Retirement Seg Fund I,-0.819,Available,Sun Life
+F0CAN06ZKV,BLK LifePath Index 2040 Segregated Fund,-0.936,Available,Sun Life
+F0CAN06ZKX,BLK LifePath Index 2030 Segregated Fund,-0.857,Available,Sun Life
+FOUSA06G9K,FTSE Canada All Corp Bond,-0.1379,Benchmark,Sun Life
+FOUSA06OGU,BLK LifePath Index 2025 Segregated Fund,-0.816,Available,Sun Life
+FOUSA06OGV,BLK LifePath Index 2035 Segregated Fund,-0.894,Available,Sun Life
+FOUSA06OJZ,TDAM Global Equity Index Segregated Fund,0.152,Available,Sun Life
+FOUSA06OLB,SL MFS US Equity Seg Fund,-0.464,Available,Sun Life
+FOUSA06OLL,MFS Balanced Segregated Fund,-1.173,Available,Sun Life
+FOUSA06OLU,MFS Low Volatility Canadian Eq Seg Fund,-2.406,Available,Sun Life
+FOUSA06OLW,BG American Equity Segregated Fund,-3.434,Available,Sun Life
+FOUSA06OLX,MFS Canadian Equity Segregated Fund,-3.139,Available,Sun Life
+FOUSA06OM1,CC&L Group Balanced Plus Segregated Fund,-0.532,Available,Sun Life
+FOUSA06OM2,MFS Cdn Fixed Income Segregated Fund,-0.62,Available,Sun Life
+FOUSA06OM3,BG Balanced Segregated Fund,-1.695,Available,Sun Life
+FOUSA06OM5,TDAM Hedged US Market Index Seg Fund,-2.606,Available,Sun Life
+FOUSA06OM7,TDAM Intl Equity Index Segregated Fund,0.364,Available,Sun Life
+FOUSA06OMB,TDAM US Market Index Segregated Fund,0.248,Available,Sun Life
+FOUSA06OMC,CC&L Group Bond Segregated Fund,-0.656,Available,Sun Life
+FOUSA06OMX,BG Global Segregated Fund,-1.834,Available,Sun Life
+FOUSA06ON1,BG Income Segregated Fund,-0.74,Available,Sun Life
+FOUSA06ON3,BG International Equity Segregated Fund,0.612,Available,Sun Life
+FOUSA06ON4,CC&L Group Cdn Equity Segregated Fund,-2.765,Available,Sun Life
+FOUSA06ON7,BG Small Cap Segregated Fund,-2.632,Available,Sun Life
+FOUSA06ON8,CC&L Q Group Global Equity Seg Fund,1.181,Available,Sun Life
+FOUSA06ONG,MFS Global Research Segregated Fund,-0.024,Available,Sun Life
+FOUSA06ONR,PH&N Balanced Pension Trust Seg Fund,-1.187,Available,Sun Life
+FOUSA06ONU,PH&N Bond Segregated Fund,-0.775,Available,Sun Life
+FOUSA06ONZ,PH&N Dividend Income Segregated Fund,-3.299,Available,Sun Life
+FOUSA06OO1,PH&N Global Equity Segregated Fund,-1.01,Available,Sun Life
+FOUSA06OO4,MFS LifePlan Retiree Segregated Fund,-0.556,Available,Sun Life
+FOUSA06OO9,PH&N Overseas Equity Segregated Fund,0.083,Available,Sun Life
+FOUSA06OOC,PH&N US Equity Segregated Fund,0.252,Available,Sun Life
+FOUSA06OOO,MFS LifePlan Retirement 2025 Seg Fund,-0.58,Available,Sun Life
+FOUSA06OOP,MFS LifePlan Retirement 2030 Seg Fund,-0.802,Available,Sun Life
+FOUSA06OOQ,MFS LifePlan Retirement 2035 Seg Fund,-1.103,Available,Sun Life
+FOUSA06OOR,MFS LifePlan Retirement 2040 Seg Fund,-1.395,Available,Sun Life
+FOUSA06OOS,BlackRock Cdn LEAF Segregated Fund,0.337,Available,Sun Life
+FOUSA06OOW,BLK US Eq Index Segregated Fund (Reg),0.262,Available,Sun Life
+FOUSA06OPY,Fidelity Cdn Asset Alloc Segregated Fund,-2.937,Available,Sun Life
+FOUSA06OQ1,Fidelity Global Segregated Fund,-0.767,Available,Sun Life
+FOUSA06OQ4,Fidelity US Focused Stock Seg Fund,-1.398,Available,Sun Life
+FOUSA06OQC,Fidelity True North Segregated Fund,-2.557,Available,Sun Life
+FOUSA06OQG,Invesco Income Growth Segregated Fund,-3.064,Available,Sun Life
+FOUSA06OQH,Invesco Global Companies Segregated Fund,-0.345,Available,Sun Life
+FOUSA06OR0,JF Balanced Segregated Fund,-0.992,Available,Sun Life
+FOUSA06ORE,Fiera Cdn Eq Small Cap Core Seg Fund,-2.177,Available,Sun Life
+FOUSA06ORN,SLF Money Market Segregated Fund,0.324,Available,Sun Life
+FOUSA06ORT,TDAM Canadian Bond Index Segregated Fund,-0.704,Available,Sun Life
+FOUSA06ORU,TDAM Cdn Balanced Index Segregated Fund,-1.08,Available,Sun Life
+FOUSA06ORV,TDAM Cdn Equity Index Segregated Fund,-3.254,Available,Sun Life
+FOUSA06ORW,TDAM Cdn Long Bond Index Segregated Fund,-2.671,Available,Sun Life
+FOUSA06ORX,CC&L Group Canadian Q Growth Seg Fund,-2.832,Available,Sun Life
+FOUSA06OTO,JF Canadian Equity Segregated Fund,-1.784,Available,Sun Life
+FOUSA06OTP,JF Global Balanced Segregated Fund,-0.918,Available,Sun Life
+FOUSA06OTS,JF International Equity Segregated Fund,0.068,Available,Sun Life
+FOUSA06OTT,JF US Equity Segregated Fund,-1.663,Available,Sun Life
+FOUSA06OXA,BLK Global Equity Index Segregated Fund,0.135,Available,Sun Life
+FOUSA06P82,Fidelity Cdn Core Eq Trust Seg Fund,-4.005,Available,Sun Life
+FOUSA06P87,Franklin ClearBridge Cdn Equity Seg Fund,-2.834,Available,Sun Life
+FOUSA06PHS,Fidelity Can Asset Alloc Blend,-2.5,Benchmark,Sun Life
+FOUSA06PI9,Fidelity Clearpath 2010 Benchmark,-0.64,Benchmark,Sun Life
+FOUSA06PIA,Fidelity Clearpath 2015 Benchmark,-0.75,Benchmark,Sun Life
+FOUSA06PIB,Fidelity Clearpath 2020 Benchmark,-0.76,Benchmark,Sun Life
+FOUSA06PIC,Fidelity Clearpath 2025 Benchmark,-0.78,Benchmark,Sun Life
+FOUSA06PID,Fidelity Clearpath 2030 Benchmark,-0.79,Benchmark,Sun Life
+FOUSA06PIE,Fidelity Clearpath 2035 Benchmark,-0.77,Benchmark,Sun Life
+FOUSA06PIF,Fidelity Clearpath 2040 Benchmark,-0.74,Benchmark,Sun Life
+FOUSA06PIG,Fidelity Clearpath 2045 Benchmark,-0.69,Benchmark,Sun Life
+FOUSA06PIH,Fidelity Clearpath Inc Benchmark,-0.52,Benchmark,Sun Life
+FOUSA06RBQ,PH&N Balanced Pension Trust Benchmark,-0.7727,Benchmark,Sun Life
+FOUSA06RBY,Beutel Balanced Benchmark,-1.16,Benchmark,Sun Life
+FOUSA06RBZ,CC&L Balanced Plus Benchmark,-1.0118,Benchmark,Sun Life
+FOUSA06RC3,MFS Balanced Benchmark,-1.12,Benchmark,Sun Life
+FOUSA06RC5,TDAM Canadian Balanced Benchmark,-1.0836,Benchmark,Sun Life
+FOUSA06RC6,Invesco Income Growth Benchmark,-1.3609,Benchmark,Sun Life
+FOUSA06RCF,MFS Conservative Allocation Benchmark,-0.8,Benchmark,Sun Life
+FOUSA06RCG,MFS Moderate Allocation Benchmark,-0.87,Benchmark,Sun Life
+FOUSA06RCH,MFS Growth Allocation Benchmark,-0.95,Benchmark,Sun Life
+FOUSA06RCR,BLK Moderate Balanced Benchmark,-1.0288,Benchmark,Sun Life
+FOUSA06RDS,CC&L Income and Growth Benchmark,-3.0992,Benchmark,Sun Life
+FOUSA06RF4,S&P 500 (Net) Index (Cdn $),0.2335,Benchmark,Sun Life
+FOUSA06RF5,MSCI EAFE (Net) Index (Cdn $),0.3816,Benchmark,Sun Life
+FOUSA06RF6,MSCI World Ex Canada Net (Cdn$),0.1434,Benchmark,Sun Life
+FOUSA06RF7,MFS LifePlan Retiree Benchmark,-0.77,Benchmark,Sun Life
+FOUSA06RFB,MFS LifePlan Retirement 2025 Benchmark,-0.77,Benchmark,Sun Life
+FOUSA06RFC,MFS LifePlan Retirement 2030 Benchmark,-0.81,Benchmark,Sun Life
+FOUSA06RFD,MFS LifePlan Retirement 2035 Benchmark,-0.88,Benchmark,Sun Life
+FOUSA06RFE,MFS LifePlan Retirement 2040 Benchmark,-0.96,Benchmark,Sun Life
+FOUSA06RGG,BLK LifePath Index Ret I Benchmark,-0.7186,Benchmark,Sun Life
+FOUSA06RGK,BLK LifePath Index 2040 Benchmark,-0.7603,Benchmark,Sun Life
+FOUSA06RGR,Mawer International Benchmark,0.7217,Benchmark,Sun Life
+FOUSA06RGV,MSCI ACWI (Net C$) (Fidelity),0.29,Benchmark,Sun Life
+FOUSA06RH5,MSCI ACWI ex-Canada Index,0.3855,Benchmark,Sun Life
+FOUSA06RHV,BLK Conservative Balanced Benchmark,-0.8817,Benchmark,Sun Life
+FOUSA06RHW,BLK Aggressive Balanced Benchmark,-1.1758,Benchmark,Sun Life
+FOUSA06RI0,Jarislowsky Fraser Balanced Benchmark,-1.08,Benchmark,Sun Life
+FOUSA06RI1,Jarislowsky Fraser Global Bal Benchmark,-0.8,Benchmark,Sun Life
+FOUSA06RL1,CC&L Canadian Equity Benchmark,-3.2061,Benchmark,Sun Life
+FOUSA06RLJ,CC&L Global Equity Benchmark,0.2861,Benchmark,Sun Life
+FOUSA06RLK,85% S&P 500 Hedged Total Return Index - C$ 15% S&P 500 Hedged Price Index - C$,-2.5669,Benchmark,Sun Life
+FOUSA06RLS,BLK LifePath Index 2030 Benchmark,-0.7316,Benchmark,Sun Life
+FOUSA06S75,BLK LifePath Index 2025 Benchmark,-0.7192,Benchmark,Sun Life
+FOUSA06S76,BLK LifePath Index 2035 Benchmark,-0.7428,Benchmark,Sun Life
+FOUSA06SDF,MSCI World (Net) CAD Index,0.1433,Benchmark,Sun Life
+FOUSA06SOH,BLK LifePath Index 2045 Segregated Fund,-0.988,Available,Sun Life
+FOUSA06SOI,MFS Global Equity Segregated Fund,-0.827,Available,Sun Life
+FOUSA06SOJ,MFS International Equity Segregated Fund,0.236,Available,Sun Life
+FOUSA06SSO,BLK LifePath Index 2045 Benchmark,-0.79,Benchmark,Sun Life
+FOUSA06VO2,Fidelity ClearPath Inc Port Seg Fund,-0.538,Available,Sun Life
+FOUSA06VO5,Fidelity ClearPath 2015 Port Seg Fund,-0.802,Available,Sun Life
+FOUSA06VOY,Fidelity ClearPath 2020 Port Seg Fund,-0.844,Available,Sun Life
+FOUSA06VOZ,Fidelity ClearPath 2025 Port Seg Fund,-0.911,Available,Sun Life
+FOUSA06VP0,Fidelity ClearPath 2030 Port Seg Fund,-0.974,Available,Sun Life
+FOUSA06VP1,Fidelity ClearPath 2035 Port Seg Fund,-0.987,Available,Sun Life
+FOUSA06VP2,Fidelity ClearPath 2040 Port Seg Fund,-1.015,Available,Sun Life
+FOUSA06VP3,Fidelity ClearPath 2045 Port Seg Fund,-1.025,Available,Sun Life
+FOUSA07ZPR,Mawer International Equity Seg Fund,-0.343,Available,Sun Life
+FOUSA08MZ1,MFS LifePlan Retirement 2045 Seg Fund,-1.509,Available,Sun Life
+FOUSA08MZ2,MFS LifePlan Retirement 2050 Seg Fund,-1.6,Available,Sun Life
+FOUSA08N02,MFS LifePlan Retirement 2045 Benchmark,-1.02,Benchmark,Sun Life
+FOUSA08N03,MFS LifePlan Retirement 2050 Benchmark,-1.07,Benchmark,Sun Life
+FOUSA08PDZ,SL Granite Conservative Seg Fund,-1.138,Available,Sun Life
+FOUSA08PE0,SL Granite Moderate Seg Fund,-1.088,Available,Sun Life
+FOUSA08PE1,SL Granite Balanced Seg Fund,-1.132,Available,Sun Life
+FOUSA08PE2,SL Granite Growth Seg Fund,-1.141,Available,Sun Life
+FOUSA08PE3,SL Granite Aggressive Seg Fund,-1.131,Available,Sun Life
+FOUSA08PHQ,SL Conservative Granite Benchmark,-0.9921,Benchmark,Sun Life
+FOUSA08PHR,SL Moderate Granite Benchmark,-0.923,Benchmark,Sun Life
+FOUSA08PHS,SL Balanced Granite Benchmark,-0.9434,Benchmark,Sun Life
+FOUSA08PHT,SL Growth Granite Benchmark,-0.9311,Benchmark,Sun Life
+FOUSA08PHU,SL Aggressive Granite Benchmark,-0.906,Benchmark,Sun Life
+FOUSA08QSM,Fidelity ClearPath 2010 Port Seg Fund,-0.653,Available,Sun Life
+FOUSA08ZA5,SL Granite Retirement Benchmark,-0.9717,Benchmark,Sun Life
+FOUSA08ZA8,SL Granite 2025 Benchmark,-0.9643,Benchmark,Sun Life
+FOUSA08ZA9,SL Granite 2030 Benchmark,-0.8831,Benchmark,Sun Life
+FOUSA08ZAA,SL Granite 2035 Benchmark,-0.8217,Benchmark,Sun Life
+FOUSA08ZAB,SL Granite 2040 Benchmark,-0.7965,Benchmark,Sun Life
+FOUSA08ZAC,SL Granite 2045 Benchmark,-0.8138,Benchmark,Sun Life
+FOUSA08ZG4,SL Granite Retirement Seg Fund,-0.94,Available,Sun Life
+FOUSA08ZG7,SL Granite 2025 Seg Fund,-0.942,Available,Sun Life
+FOUSA08ZG8,SL Granite 2030 Seg Fund,-0.875,Available,Sun Life
+FOUSA08ZG9,SL Granite 2035 Seg Fund,-0.845,Available,Sun Life
+FOUSA08ZGA,SL Granite 2040 Seg Fund,-0.861,Available,Sun Life
+FOUSA08ZGB,SL Granite 2045 Seg Fund,-0.911,Available,Sun Life
+XIUSA04GA2,S&PTSX Small Cap TR,-3.296,Benchmark,Sun Life
+XIUSA04GA4,S&PTSX Composite TR,-3.2739,Benchmark,Sun Life
+XIUSA04GRB,FTSE Canada 91 Day TBill,0.3312,Benchmark,Sun Life
+XIUSA04GRE,FTSE Canada LT Bond,-2.6821,Benchmark,Sun Life
+XIUSA04GRH,FTSE Canada ST Bond,0.3776,Benchmark,Sun Life
+XIUSA04GRI,FTSE Canada Universe Bond,-0.6907,Benchmark,Sun Life
+XIUSA04GSD,S&PTSX Capped Composite TR CAD,-3.2739,Benchmark,Sun Life
+XIUSA04GSY,S&P 500 TR CAD,0.269,Benchmark,Sun Life
+F0CAN06YCT,SL 2025 Milestone Seg Fund,0.3,Available,Sun Life
+FOUSA06RD4,SL 2025 Milestone Benchmark,0.33,Benchmark,Sun Life
+F0CAN06YCU,SL 2030 Milestone Seg Fund,-0.36,Available,Sun Life
+FOUSA06RD5,SL 2030 Milestone Benchmark,-0.12,Benchmark,Sun Life
+F0CAN06YCV,SL 2035 Milestone Seg Fund,-1.59,Available,Sun Life
+FOUSA06RD6,SL 2035 Milestone Benchmark,-0.86,Benchmark,Sun Life
+F0CAN06YCW,SL 2040 Milestone Seg Fund,-2.46,Available,Sun Life
+FOUSA06RD7,SL 2040 Milestone Benchmark,-1.8,Benchmark,Sun Life
+F00000H9MM,SL 2045 Milestone Seg Fund,-3.21,Available,Sun Life
+F00000HGU1,SL 2045 Milestone Benchmark,-2.18,Benchmark,Sun Life
+F00000X8PN,SL 2050 Milestone Seg Fund,-3.57,Available,Sun Life
+F00000X90S,SL 2050 Milestone Benchmark,-2.46,Benchmark,Sun Life
+F00000X8PO,SL 2055 Milestone Seg Fund,-3.83,Available,Sun Life
+F00000X90V,SL 2055 Milestone Benchmark,-3.18,Benchmark,Sun Life
+F000013QNW,SL 2060 Milestone Seg Fund,-3.66,Available,Sun Life
+F000013PWT,SL 2060 Milestone Benchmark,-3.75,Benchmark,Sun Life
+FOUSA06OPU,CI Portfolio Series Inc Segregated Fund,-0.14,Available,Sun Life
+FOUSA06RBS,CI Portfolio Series Income Benchmark,-0.98,Benchmark,Sun Life
+FOUSA06OPR,CI Portfolio Series Cons Segregated Fund,-0.22,Available,Sun Life
+FOUSA06RBT,CI Portfolio Series Cons Benchmark,-1.07,Benchmark,Sun Life
+FOUSA06OPQ,CI Portfolio Series Bal Segregated Fund,-0.15,Available,Sun Life
+FOUSA06RBU,CI Portfolio Series Balanced Benchmark,-1.26,Benchmark,Sun Life
+FOUSA06OPP,CI Portfolio Series Bal Growth Seg Fund,-0.13,Available,Sun Life
+FOUSA06RBV,CI Portfolio Series Bal Growth Benchmark,-1.36,Benchmark,Sun Life
+FOUSA06OPT,CI Portfolio Series Growth Seg Fund,-0.18,Available,Sun Life
+FOUSA06RBX,CI Portfolio Series Growth Benchmark,-1.45,Benchmark,Sun Life
+FOUSA06OPV,CI Portfolio Series Max Growth Seg Fund,1.02,Available,Sun Life
+FOUSA06RBW,CI Portfolio Series Max Growth Benchmark,-1.64,Benchmark,Sun Life
+FOUSA06ORB,Fiera Cash in Action Segregated Fund,0.34,Available,Sun Life
+F00000ZCTE,Fiera Cash In Action Benchmark,0.31,Benchmark,Sun Life
+FOUSA06OO5,PH&N Money Market Segregated Fund,0.33,Available,Sun Life
+XIUSA04GRC,FTSE Canada Cdn Trsy Bill 30 Day,0.31,Available,Sun Life
+FOUSA06OOT,Sun Life Money Market Segregated Fund,0.32,Available,Sun Life
+XIUSA04GRB,FTSE Canada 91 Day TBill,0.33,Available,Sun Life
+F00000Q626,BlackRock Real Return Bond Index Seg Fd,-0.74,Available,Sun Life
+FOUSA06G8M,FTSE Canada Real Return Bond,-0.76,Available,Sun Life
+FOUSA06OLE,MFS® Balanced Growth Segregated Fund,-1.33,Available,Sun Life
+F00000ONYY,MFS® Balanced Growth Benchmark,-1.12,Benchmark,Sun Life
+FOUSA06OLP,MFS® Balanced Value Segregated Fund,-1.8,Available,Sun Life
+F00000ONYZ,MFS® Balanced Value Benchmark,-1.2,Benchmark,Sun Life
+FOUSA06OOV,MFS Responsible Balanced Segregated Fund,-1.27,Available,Sun Life
+FOUSA06RC3,MFS® Balanced Benchmark,-1.12,Benchmark,Sun Life
+F00000PECQ,SL Dynamic Strategic Yield Seg Fund,-2.01,Available,Sun Life
+F00000PEB3,SL Dynamic Strategic Yield Benchmark,-1.98,Benchmark,Sun Life
+FOUSA06OMS,BG Canadian Equity Segregated Fund,-2.38,Available,Sun Life
+F00000PECR,SL Dynamic Equity Income Seg Fund,-2.9,Available,Sun Life
+XIUSA04GA4,S&P/TSX Composite TR,-3.27,Available,Sun Life
+FOUSA06OLT,MFS Canadian Research Eq Segregated Fund,-3.01,Available,Sun Life
+FOUSA06ONV,PH&N Canadian Equity Segregated Fund,-3.16,Available,Sun Life
+FOUSA06ONY,PH&N Cdn Eq Plus Pension Segregated Fund,-3.1,Available,Sun Life
+XIUSA04GSD,S&P/TSX Capped Composite TR CAD,-3.27,Available,Sun Life
+F00000MSJX,CC&L Canadian Small Cap Segregated Fund,-2.61,Available,Sun Life
+F00000MTDR,60% S&P/TSX Sm Cap 40% S&P/TSX Complete,-3.15,Available,Sun Life
+F0CAN069WJ,MFS Responsible Cdn Research Eq Seg Fund,-3.05,Available,Sun Life
+XIUSA04GSD,S&P/TSX Capped Composite TR CAD,-3.27,Available,Sun Life
+F0000147EG,WindWise Cdn Managed Volatility Seg Fund,-2.91,Available,Sun Life
+XIUSA04GA4,S&P/TSX Composite TR,-3.27,Available,Sun Life
+FOUSA06ONB,Sun Life MFS US Equity Segregated Fund A,-0.47,Available,Sun Life
+XIUSA04GSY,S&P 500 TR CAD,0.27,Available,Sun Life
+FOUSA06ONE,CC&L NS Partners Intl Equity Seg Fund,-1.05,Available,Sun Life
+F00000JSEZ,SL MFS International Value Seg Fund,0.43,Available,Sun Life
+F00000PGYD,MSCI EAFE GR CAD,0.4,Available,Sun Life
+FOUSA06ONH,MFS® International Eq Segregated Fund A,0.2,Available,Sun Life
+FOUSA06OO0,MFS® International Eq Segregated Fund B,0.19,Available,Sun Life
+F00000NUJF,MFS International Benchmark,0.38,Benchmark,Sun Life
+F00000SA71,Fiera Global Equity Segregated Fund,0.51,Available,Sun Life
+FOUSA06SDF,MSCI World (Net) CAD Index,0.14,Available,Sun Life
+F0CAN069WK,MFS Responsible Global Research Seg Fund,-0.24,Available,Sun Life
+F00000NUJE,MFS® Global Benchmark,0.29,Benchmark,Sun Life

@@ -1,0 +1,102 @@
+fund_identifier,peer_group,sub_peer_group,fund_company_id
+FU506BRUT,Asset Allocation,Conservative (25% Equity & 75% Fixed Income),3
+FU507BRUT,Asset Allocation,Moderate (40% Equity & 60% Fixed Income),3
+FU508BRUT,Asset Allocation,Balanced (60% Equity & 40% Fixed Income),3
+FU509BRUT,Asset Allocation,Advanced (80% Equity & 20% Fixed Income),3
+FU510BRUT,Asset Allocation,Aggressive (100% Equity),3
+FU922BRUT,Asset Allocation,Conservative (25% Equity & 75% Fixed Income),3
+FU923BRUT,Asset Allocation,Conservative (25% Equity & 75% Fixed Income),3
+FU924BRUT,Asset Allocation,Balanced (60% Equity & 40% Fixed Income),3
+FU925BRUT,Asset Allocation,Balanced (60% Equity & 40% Fixed Income),3
+FU926BRUT,Asset Allocation,Advanced (80% Equity & 20% Fixed Income),3
+FU940BRUT,Asset Allocation,Balanced (60% Equity & 40% Fixed Income),3
+FU941BRUT,Asset Allocation,Advanced (80% Equity & 20% Fixed Income),3
+FU889BRUT,Canadian Balanced Funds,,3
+FU723BRUT,Canadian Equity Funds,,3
+FU722BRUT,Fixed Income,,3
+FU876BRUT,Global Equity,,3
+FU300BRUT,International Equity,,3
+FU884BRUT,Target Date,Retirement Funds,3
+FU879BRUT,Target Date,2025 Funds,3
+FU880BRUT,Target Date,2030 Funds,3
+FU881BRUT,Target Date,2035 Funds,3
+FU882BRUT,Target Date,2040 Funds,3
+FU883BRUT,Target Date,2045 Funds,3
+FU894BRUT,Target Date,2050 Funds,3
+FU912BRUT,Target Date,2055 Funds,3
+FU927BRUT,Target Date,2060 Funds,3
+FU411BRUT,Target Date,Retirement Funds,3
+FU413BRUT,Target Date,2025 Funds,3
+FU414BRUT,Target Date,2030 Funds,3
+FU415BRUT,Target Date,2035 Funds,3
+FU416BRUT,Target Date,2040 Funds,3
+FU417BRUT,Target Date,2045 Funds,3
+FU418BRUT,Target Date,2050 Funds,3
+FU419BRUT,Target Date,2055 Funds,3
+FU721BRUT,Target Date,2060 Funds,3
+FUA133BRUT,Target Date,2070 Funds,3
+FUA132BRUT,Target Date,2070 Funds,3
+FUA131BRUT,Target Date,2070 Funds,3
+FU9000BRUT,Target Date,2010 Funds,3
+FU9546BRUT,Target Date,2015 Funds,3
+FU9001BRUT,Target Date,2020 Funds,3
+FU9547BRUT,Target Date,2025 Funds,3
+FU9002BRUT,Target Date,2030 Funds,3
+FU9548BRUT,Target Date,2035 Funds,3
+FU9003BRUT,Target Date,2040 Funds,3
+FU9549BRUT,Target Date,2045 Funds,3
+FU9004BRUT,Target Date,2050 Funds,3
+FU9550BRUT,Target Date,2055 Funds,3
+FU9339BRUT,Target Date,2060 Funds,3
+FU005BRUT,Target Date,2065 Funds,3
+FU134BRUT,Target Date,2070 Funds,3
+FU9005BRUT,Target Date,2010 Funds,3
+FU9553BRUT,Target Date,2015 Funds,3
+FU9006BRUT,Target Date,2020 Funds,3
+FU9554BRUT,Target Date,2025 Funds,3
+FU9007BRUT,Target Date,2030 Funds,3
+FU9555BRUT,Target Date,2035 Funds,3
+FU9008BRUT,Target Date,2040 Funds,3
+FU9556BRUT,Target Date,2045 Funds,3
+FU9009BRUT,Target Date,2050 Funds,3
+FU9557BRUT,Target Date,2055 Funds,3
+FU9340BRUT,Target Date,2060 Funds,3
+FU004BRUT,Target Date,2065 Funds,3
+FU9010BRUT,Target Date,2010 Funds,3
+FU9560BRUT,Target Date,2015 Funds,3
+FU9011BRUT,Target Date,2020 Funds,3
+FU9561BRUT,Target Date,2025 Funds,3
+FU9012BRUT,Target Date,2030 Funds,3
+FU9562BRUT,Target Date,2035 Funds,3
+FU9013BRUT,Target Date,2040 Funds,3
+FU9563BRUT,Target Date,2045 Funds,3
+FU9014BRUT,Target Date,2050 Funds,3
+FU9564BRUT,Target Date,2055 Funds,3
+FU9341BRUT,Target Date,2060 Funds,3
+FU003BRUT,Target Date,2065 Funds,3
+FU9015BRUT,Target Date,2010 Funds,3
+FU9567BRUT,Target Date,2015 Funds,3
+FU9016BRUT,Target Date,2020 Funds,3
+FU9568BRUT,Target Date,2025 Funds,3
+FU9017BRUT,Target Date,2030 Funds,3
+FU9569BRUT,Target Date,2035 Funds,3
+FU9018BRUT,Target Date,2040 Funds,3
+FU9570BRUT,Target Date,2045 Funds,3
+FU9019BRUT,Target Date,2050 Funds,3
+FU9571BRUT,Target Date,2055 Funds,3
+FU9342BRUT,Target Date,2060 Funds,3
+FU002BRUT,Target Date,2065 Funds,3
+FU9020BRUT,Target Date,2010 Funds,3
+FU9574BRUT,Target Date,2015 Funds,3
+FU9021BRUT,Target Date,2020 Funds,3
+FU9575BRUT,Target Date,2025 Funds,3
+FU9022BRUT,Target Date,2030 Funds,3
+FU9576BRUT,Target Date,2035 Funds,3
+FU9023BRUT,Target Date,2040 Funds,3
+FU9577BRUT,Target Date,2045 Funds,3
+FU9024BRUT,Target Date,2050 Funds,3
+FU9578BRUT,Target Date,2055 Funds,3
+FU9343BRUT,Target Date,2060 Funds,3
+FU001BRUT,Target Date,2065 Funds,3
+FUA130BRUT,Target Date,2070 Funds,3
+FU760BRUT,U.S. Equity,,3

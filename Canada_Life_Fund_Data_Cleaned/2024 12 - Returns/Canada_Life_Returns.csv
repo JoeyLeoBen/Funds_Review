@@ -1,0 +1,394 @@
+﻿fund_identifier,funds,returns,fund_type,fund_company
+AEMB,American Equity (MFS),-0.5270316702813416,Available,Canada Life
+AGGE,Growth Equity (AGF),-3.7358107579858357,Available,Canada Life
+AGGI,Tact Asset Alloc Income (Fidelity),-1.2291233545489777,Available,Canada Life
+AMDEF,American Disciplined Equity (Fidelity),0.37018949399858503,Not Available,Canada Life
+BALBG,Balanced Global (Beutel Goodman),-1.695172416699131,Available,Canada Life
+BALJF,Balanced (Jarislowsky Fraser)*,-0.9877031262328195,Available,Canada Life
+BALSR,Balanced (SRA),-1.1242455991183231,Available,Canada Life
+BALTA,Balanced (CIBC Global AM)*,-0.6105182430364287,Not Available,Canada Life
+BGI10,BlackRock LifePath 2010 Retirement,-0.8218792372523209,Not Available,Canada Life
+BGI15,BlackRock LifePath 2015 Retirement,-0.8146740487912196,Not Available,Canada Life
+BGI20,BlackRock LifePath 2020 Retirement,-0.8212544732579707,Not Available,Canada Life
+BGI25,BlackRock LifePath 2025 Retirement,-0.8136990183097326,Available,Canada Life
+BGI30,BlackRock LifePath 2030,-0.8589273842840583,Available,Canada Life
+BGI35,BlackRock LifePath 2035,-0.8954416048690628,Available,Canada Life
+BGI40,BlackRock LifePath 2040,-0.9382993370826376,Available,Canada Life
+BGI45,BlackRock LifePath 2045,-0.9914282506449212,Available,Canada Life
+BGI50,BlackRock LifePath 2050,-1.0401157914283865,Available,Canada Life
+BGI55,BlackRock LifePath 2055,-1.0789938390993625,Available,Canada Life
+BGI60,BlackRock LifePath 2060,-1.0583422287307354,Available,Canada Life
+BGI65,BlackRock LifePath 2065,-1.0759763942216782,Available,Canada Life
+BGIRT,BlackRock LifePath Retirement,-0.8169008382804543,Available,Canada Life
+BGMB,Balanced Growth (MFS),-1.331055385800195,Not Available,Canada Life
+BJF,Bond (Jarislowsky Fraser),-0.6885572333324097,Available,Canada Life
+BLCMB,Balanced (MFS),-1.1697308340088752,Not Available,Canada Life
+BSR,Bond (SRA),-0.618520632023345,Available,Canada Life
+BVMB,Balanced Value (MFS),-1.7978362462992337,Not Available,Canada Life
+CAACI,Cambridge Asset Allocation (CI),-1.40651812866035,Available,Canada Life
+CAD10,Cadence Retirement 2010 (PSG),-0.8201375747448836,Not Available,Canada Life
+CAD15,Cadence 2015 Retirement (PSG),-0.8173625088685132,Not Available,Canada Life
+CAD20,Cadence 2020 Retirement (PSG),-0.8175775199257274,Not Available,Canada Life
+CAD25,Cadence 2025 (PSG),-0.8381017634788934,Available,Canada Life
+CAD30,Cadence 2030 (PSG),-1.0017795586806155,Available,Canada Life
+CAD35,Cadence 2035 (PSG),-1.0955232320525532,Available,Canada Life
+CAD40,Cadence 2040 (PSG),-1.206750411615909,Available,Canada Life
+CAD45,Cadence 2045 (PSG),-1.2937604591011675,Available,Canada Life
+CAD50,Cadence 2050 (PSG),-1.2904709706042627,Available,Canada Life
+CAD55,Cadence 2055 (PSG),-1.2912542327007892,Available,Canada Life
+CAD60,Cadence 2060 (PSG),-1.2827616037226819,Available,Canada Life
+CAD65,Cadence 2065 (PSG),-1.2847021219979826,Available,Canada Life
+CADEQ,Cadence Equity (PSG),-1.674149718741591,Available,Canada Life
+CADFI,Cadence Fixed Income (PSG),-0.5809873944516042,Available,Canada Life
+CADRT,Cadence Retirement (PSG),-0.8201061691329503,Not Available,Canada Life
+CBALF,Canadian Balanced (Fidelity),-1.7085533616912785,Available,Canada Life
+CBMER,Socially Responsible Bond (NEI),-0.4925744592965575,Not Available,Canada Life
+CBR,Core Plus Bond (CIBC),-0.72086222893607,Available,Canada Life
+CBTF,Canadian Bond Instl (Fidelity),-0.4462940011815575,Available,Canada Life
+CCEF,Cdn Core Equity Instl (Fidelity),-4.006480812370706,Available,Canada Life
+CCLB,Bond (CC&L),-0.6465646951602233,Available,Canada Life
+CCLI,International Equity (CC&L),-0.8816379065682778,Not Available,Canada Life
+CDEF,Canadian Disciplined Equity (Fidelity),-3.6272878920485807,Available,Canada Life
+CEBG,Pure Canadian Equity (Beutel Goodman),-2.3781238984969866,Available,Canada Life
+CECMB,Canadian Research Equity (MFS),-3.0058239849955815,Not Available,Canada Life
+CEGMB,Canadian Equity (MFS),-3.1386379325115565,Not Available,Canada Life
+CEJF,Canadian Equity (Jarislowsky Fraser),-1.7801621474869078,Available,Canada Life
+CEPMB,Canadian Equity Plus (MFS),-2.2413570956970053,Not Available,Canada Life
+CESR,Canadian Equity (SRA),-3.510241820935811,Available,Canada Life
+CETA,Equity (CIBC Global AM)*,-3.352020428758895,Not Available,Canada Life
+CEVMB,Cdn Low Volatility Equity (MFS),-2.4092615707691167,Not Available,Canada Life
+CGCF,Canadian Growth Company (Fidelity),-1.5327278937619204,Available,Canada Life
+CIP20,Clearpath Index Pl 2020 (Fidelity),-0.8798393219311196,Available,Canada Life
+CIP25,Clearpath Index Pl 2025 (Fidelity),-0.9229830039562348,Available,Canada Life
+CIP30,Clearpath Index Pl 2030 (Fidelity),-0.9835196027379256,Available,Canada Life
+CIP35,Clearpath Index Pl 2035 (Fidelity),-0.9863011504067987,Available,Canada Life
+CIP40,Clearpath Index Pl 2040 (Fidelity),-0.986123410316464,Available,Canada Life
+CIP45,Clearpath Index Pl 2045 (Fidelity),-1.0034096084602928,Available,Canada Life
+CIP50,Clearpath Index Pl 2050 (Fidelity),-1.0116994260381929,Available,Canada Life
+CIP55,Clearpath Index Pl 2055 (Fidelity),-1.012513313670682,Available,Canada Life
+CIP60,Clearpath Index Pl 2060 (Fidelity),-1.0144240294093998,Available,Canada Life
+CIP65,Clearpath Index Pl 2065 (Fidelity),-1.0211493701171692,Available,Canada Life
+CIPIF,Clearpath Index Pl Inc (Fidelity),-0.5785920925747257,Available,Canada Life
+CNT10,Continuum Retirement 2010 (PSG),-0.9752563493141242,Not Available,Canada Life
+CNT15,Continuum 2015 Retirement (PSG),-0.9774341092022243,Not Available,Canada Life
+CNT20,Continuum 2020 Retirement (PSG),-0.9739395489617553,Not Available,Canada Life
+CNT25,Continuum 2025 (PSG),-0.9801075054505892,Available,Canada Life
+CNT30,Continuum 2030 (PSG),-1.1038006628774077,Available,Canada Life
+CNT35,Continuum 2035 (PSG),-1.2299648111243844,Available,Canada Life
+CNT40,Continuum 2040 (PSG),-1.356251983436152,Available,Canada Life
+CNT45,Continuum 2045 (PSG),-1.4528036449944604,Available,Canada Life
+CNT50,Continuum 2050 (PSG),-1.4521703716440015,Available,Canada Life
+CNT55,Continuum 2055 (PSG),-1.4514979363836056,Available,Canada Life
+CNT60,Continuum 2060 (PSG),-1.4505274994674466,Available,Canada Life
+CNT65,Continuum 2065 (PSG),-1.448152934289948,Available,Canada Life
+CNY15,Continuum Con 2015 Retirement (PSG),-0.891542831956571,Not Available,Canada Life
+CNY20,Continuum Con Retirement 2020 (PSG),-0.8941493334745032,Not Available,Canada Life
+CNY25,Continuum Conservative 2025 (PSG),-0.8910097748869861,Available,Canada Life
+CNY30,Continuum Conservative 2030 (PSG),-0.9944667213401592,Available,Canada Life
+CNY35,Continuum Conservative 2035 (PSG),-1.0915983776725313,Available,Canada Life
+CNY40,Continuum Conservative 2040 (PSG),-1.1997042246400746,Available,Canada Life
+CNY45,Continuum Conservative 2045 (PSG),-1.3067238360438993,Available,Canada Life
+CNY50,Continuum Conservative 2050 (PSG),-1.323021275864189,Available,Canada Life
+CNY55,Continuum Conservative 2055 (PSG),-1.321088939534898,Available,Canada Life
+CNY60,Continuum Conservative 2060 (PSG),-1.3192030692408707,Available,Canada Life
+CNY65,Continuum Conservative 2065 (PSG),-1.3247506626326677,Available,Canada Life
+CNZ15,Continuum Agg 2015 Retire (PSG),-1.0583457085233672,Not Available,Canada Life
+CNZ20,Continuum Agg Retire 2020 (PSG),-1.0507151709807427,Not Available,Canada Life
+CNZ25,Continuum Aggressive 2025 (PSG),-1.0680149814160433,Available,Canada Life
+CNZ30,Continuum Aggressive 2030 (PSG),-1.218374988591775,Available,Canada Life
+CNZ35,Continuum Aggressive 2035 (PSG),-1.3586235007972514,Available,Canada Life
+CNZ40,Continuum Aggressive 2040 (PSG),-1.4498553044633211,Available,Canada Life
+CNZ45,Continuum Aggressive 2045 (PSG),-1.4595105156966937,Available,Canada Life
+CNZ50,Continuum Aggressive 2050 (PSG),-1.4583519073958717,Available,Canada Life
+CNZ55,Continuum Aggressive 2055 (PSG),-1.4448946762766868,Available,Canada Life
+CNZ60,Continuum Aggressive 2060 (PSG),-1.4470452549146473,Available,Canada Life
+CNZ65,Continuum Aggressive 2065 (PSG),-1.450126700391574,Available,Canada Life
+CORBP,Corporate Bond (Mackenzie),0.15101567135704652,Available,Canada Life
+CP10,ClearPath 2010 (Fidelity),-0.6563677406781876,Not Available,Canada Life
+CP15,ClearPath 2015 (Fidelity),-0.7905970667558826,Not Available,Canada Life
+CP20,ClearPath 2020 (Fidelity),-0.8444121295278939,Available,Canada Life
+CP25,ClearPath 2025 (Fidelity),-0.9122859174271691,Available,Canada Life
+CP30,ClearPath 2030 (Fidelity),-0.9763199784576737,Available,Canada Life
+CP35,ClearPath 2035 (Fidelity),-0.9948468185799642,Available,Canada Life
+CP40,ClearPath 2040 (Fidelity),-1.022230378772493,Available,Canada Life
+CP45,ClearPath 2045 (Fidelity),-1.0255526081814015,Available,Canada Life
+CP50,ClearPath 2050 (Fidelity),-1.0232944558904,Available,Canada Life
+CP55,ClearPath 2055 (Fidelity),-1.026637045092249,Available,Canada Life
+CP60,ClearPath 2060 (Fidelity),-1.0237448352672818,Available,Canada Life
+CP65,ClearPath 2065 (Fidelity),-1.021708058752402,Available,Canada Life
+CPBF,Canadian Core Plus Bond (Fidelity),-0.5634633477675899,Available,Canada Life
+CPBLW,Canadian Core Plus Bond (LW),-0.6185687317233568,Available,Canada Life
+CPBPH,Canadian Core Plus Bond (PH&N),-0.7576441529111855,Available,Canada Life
+CPIF,ClearPath Income (Fidelity),-0.5269687255160194,Available,Canada Life
+CPP20,ClearPath Portfolio 2020 (Fidelity),-0.6933090906875883,Available,Canada Life
+CPP25,ClearPath Portfolio 2025 (Fidelity),-0.7036968971669388,Available,Canada Life
+CPP30,ClearPath Portfolio 2030 (Fidelity),-0.739502844215234,Available,Canada Life
+CPP35,ClearPath Portfolio 2035 (Fidelity),-0.7389524698261485,Available,Canada Life
+CPP40,ClearPath Portfolio 2040 (Fidelity),-0.7242151156606758,Available,Canada Life
+CPP45,ClearPath Portfolio 2045 (Fidelity),-0.7302489139326185,Available,Canada Life
+CPP50,ClearPath Portfolio 2050 (Fidelity),-0.69295657835865,Available,Canada Life
+CPP55,ClearPath Portfolio 2055 (Fidelity),-0.7476636137653037,Available,Canada Life
+CPP60,ClearPath Portfolio 2060 (Fidelity),-0.694919085248924,Available,Canada Life
+CPP65,ClearPath Portfolio 2065 (Fidelity),-0.6937743286635323,Available,Canada Life
+CPPIF,ClearPath Portfolio Income (Fidelity),-0.46315783642199015,Available,Canada Life
+CVDY,Canadian Value (FGP),-2.9906576690984177,Available,Canada Life
+DYPF,Partners (Dynamic),-1.126571893813244,Available,Canada Life
+EMKCE,Emerging Markets Concentrated Equity (Northcape),-0.5427772208097426,Available,Canada Life
+EMP,Emerging Markets (Putnam),3.427187613801541,Available,Canada Life
+ESGUS,ESG US Equity (JPM),0.07843520570973705,Available,Canada Life
+FCECC,Fundamental Canadian Equity (CC&L),-2.5554402176211966,Available,Canada Life
+FEMK,Ivy Foreign Equity (Mackenzie),-0.2116213547026513,Available,Canada Life
+FIMB,Fixed Income (MFS),-0.6175195183840909,Available,Canada Life
+FITA,Fixed Income (CIBC Global AM)*,-0.6592736312565628,Not Available,Canada Life
+FRIMK,Floating Rate Income (Mackenzie),0.5635572503429165,Available,Canada Life
+GDIVS,Global Dividend (Setanta),-2.284071665504128,Available,Canada Life
+GECG,Global Equity (Capital Group),0.8998111562368738,Available,Canada Life
+GEFC,Global Equity (Fiera Capital)  ,0.5229025249253283,Available,Canada Life
+GEFPH,Global Equity Focus (PH&N),-1.0798699152021363,Available,Canada Life
+GEMA,Global Equity (Mawer),-0.9745386020969304,Available,Canada Life
+GEMB,Global Equity (MFS),-0.02020386712737743,Available,Canada Life
+GES,Global Equity (Sprucegrove),-1.4703511154913307,Available,Canada Life
+GGERP,Global Growth Equity (T Rowe Price),0.31291346139648013,Available,Canada Life
+GGR,Global Growth (Renaissance),-1.9638349420196377,Available,Canada Life
+GINFL,Global Infrastr Equity (Mackenzie),-2.0162990070446862,Available,Canada Life
+GLEQC,Global Equity (CLAM),0.3365619851409152,Available,Canada Life
+GRAF,US Focused Stock (Fidelity),-1.4024785148956442,Available,Canada Life
+GSCGA,Global Small Cap (Global Alpha),-3.933122625047547,Available,Canada Life
+GSCMK,Global Small-Mid Cap Equity (Mackenzie),-1.3203538453039787,Available,Canada Life
+GSRR,Global Sectors (Renaissance),-1.9581175721872346,Available,Canada Life
+H15,Harmonized 2015 Retirement (PSG),-0.8030907329447334,Not Available,Canada Life
+H20,Harmonized 2020 Retirement (PSG),-0.8003273950959011,Not Available,Canada Life
+H25,Harmonized 2025 (PSG),-0.8049423229534614,Available,Canada Life
+H30,Harmonized 2030 (PSG),-0.8501274583484597,Available,Canada Life
+H35,Harmonized 2035 (PSG),-0.9095408596321075,Available,Canada Life
+H40,Harmonized 2040 (PSG),-0.9745903613169293,Available,Canada Life
+H45,Harmonized 2045 (PSG),-1.022600446592814,Available,Canada Life
+H50,Harmonized 2050 (PSG),-1.0224773860948666,Available,Canada Life
+H55,Harmonized 2055 (PSG),-1.0229223752043937,Available,Canada Life
+H60,Harmonized 2060 (PSG),-1.0251540761820555,Available,Canada Life
+H65,Harmonized 2065 (PSG),-1.0203218558719862,Available,Canada Life
+HCEPS,Harmonized Canadian Equity (PSG),-2.637468898714146,Available,Canada Life
+HFEPS,Harmonized Foreign Equity (PSG),-1.5276752690734696,Available,Canada Life
+HFIPS,Harmonized Fixed Income (PSG),-0.6852721182827426,Available,Canada Life
+HSEPS,Harmonized Special Equity (PSG),-1.9647738610765075,Available,Canada Life
+HY15,Harmonized Con 2015 Retire (PSG),-0.767970446215338,Not Available,Canada Life
+HY20,Harmonized Con Retire 2020 (PSG),-0.7667790370481709,Not Available,Canada Life
+HY25,Harmonized Conservative 2025 (PSG),-0.7702433887198601,Available,Canada Life
+HY30,Harmonized Conservative 2030 (PSG),-0.8075405672119285,Available,Canada Life
+HY35,Harmonized Conservative 2035 (PSG),-0.8430033705718598,Available,Canada Life
+HY40,Harmonized Conservative 2040 (PSG),-0.8968491720092842,Available,Canada Life
+HY45,Harmonized Conservative 2045 (PSG),-0.953616026262305,Available,Canada Life
+HY50,Harmonized Conservative 2050 (PSG),-0.961720926783094,Available,Canada Life
+HY55,Harmonized Conservative 2055 (PSG),-0.9621443264798302,Available,Canada Life
+HY60,Harmonized Conservative 2060 (PSG),-0.9651334754974816,Available,Canada Life
+HY65,Harmonized Conservative 2065 (PSG),-0.9728470110472176,Available,Canada Life
+HZ15,Harmonized Agg 2015 Retire (PSG),-0.8868344551810292,Not Available,Canada Life
+HZ20,Harmonized Agg Retire 2020 (PSG),-0.8366803544735624,Not Available,Canada Life
+HZ25,Harmonized Aggressive 2025 (PSG),-0.8345850672845323,Available,Canada Life
+HZ30,Harmonized Aggressive 2030 (PSG),-0.9057639350815605,Available,Canada Life
+HZ35,Harmonized Aggressive 2035 (PSG),-0.9694102297347462,Available,Canada Life
+HZ40,Harmonized Aggressive 2040 (PSG),-1.0247078470199011,Available,Canada Life
+HZ45,Harmonized Aggressive 2045 (PSG),-1.0266006488327206,Available,Canada Life
+HZ50,Harmonized Aggressive 2050 (PSG),-1.0260320837812253,Available,Canada Life
+HZ55,Harmonized Aggressive 2055 (PSG),-1.0252206918126894,Available,Canada Life
+HZ60,Harmonized Aggressive 2060 (PSG),-1.020368456074372,Available,Canada Life
+HZ65,Harmonized Aggressive 2065 (PSG),-1.0233643237060552,Available,Canada Life
+IEJF,International Equity (Jarislowsky Fraser),0.06300816265283338,Available,Canada Life
+IEMA,International Equity (Mawer),-0.3111036536741829,Available,Canada Life
+IEMB,International Equity (MFS),0.18393723860257172,Available,Canada Life
+IEMER,Socially Responsible Intl Equity (NEI),0.3970931846998482,Not Available,Canada Life
+IES,International Equity (Setanta),0.8876481152097826,Available,Canada Life
+IESR,International Equity Q (CC&L),1.4944401280093444,Available,Canada Life
+IGEIB,Islamic Global Eq Ind (BlackRock),-0.04182274870209168,Available,Canada Life
+ISMK,International Equity (Mackenzie),0.2569257667550895,Available,Canada Life
+JPM25,Sustainable TD 2025 (JPM),-0.618146990321633,Available,Canada Life
+JPM30,Sustainable TD 2030 (JPM),-0.4934690473972547,Available,Canada Life
+JPM35,Sustainable TD 2035 (JPM),-0.3441795348477772,Available,Canada Life
+JPM40,Sustainable TD 2040 (JPM),-0.2397461991711758,Available,Canada Life
+JPM45,Sustainable TD 2045 (JPM),-0.17321775974723508,Available,Canada Life
+JPM50,Sustainable TD 2050 (JPM),-0.10920779054083285,Available,Canada Life
+JPM55,Sustainable TD 2055 (JPM),-0.10283881563389885,Available,Canada Life
+JPM60,Sustainable TD 2060 (JPM),-0.10670811670928648,Available,Canada Life
+JSMER,Socially Responsible Cdn Equity (NEI),-3.1512480714396274,Not Available,Canada Life
+KBCB,Canadian Bond (CI)*,-0.6022499148947147,Not Available,Canada Life
+LADPO,Advanced Portfolio (PSG),-1.1940521556255246,Available,Canada Life
+LAEM,US Growth (Putnam),3.7919450479887207,Available,Canada Life
+LAGAG,American Growth (AGF),-2.645600519354707,Available,Canada Life
+LAGPO,Aggressive Portfolio (PSG),-1.3038622381717158,Available,Canada Life
+LAGPR,Aggressive Profile (PSG),-1.332018731627227,Available,Canada Life
+LBABG,Balanced (Beutel Goodman),-2.1635766708685833,Available,Canada Life
+LBAPO,Balanced Portfolio (PSG),-1.0457345577523203,Available,Canada Life
+LBAPR,Balanced Profile (PSG),-1.0205770927315783,Available,Canada Life
+LBGRL,Cdn Growth Balanced II (Mackenzie),-1.6667290189970707,Not Available,Canada Life
+LBIG,Balanced Index (Mackenzie),-1.4717106932997992,Available,Canada Life
+LBMK,Global Strategic Income (Mackenzie),-0.39499846105361947,Available,Canada Life
+LBOBG,Bond (Beutel Goodman),-0.7121196279455511,Available,Canada Life
+LCBG,Cdn Core Fixed Income (Mackenzie),-0.5842087190279233,Available,Canada Life
+LCBIL,Cdn Bond Universe Index (Mackenzie),-0.6695398583073331,Available,Canada Life
+LCBM,Strategic Income (Mackenzie),-0.8834022998338353,Available,Canada Life
+LCEG,Canadian All Cap Growth (Mackenzie),-3.1055987424034814,Available,Canada Life
+LCEGM,Canadian Core Growth (Mackenzie),-2.432236675635757,Available,Canada Life
+LCEMO,Canadian Equity (Montrusco Bolton),-3.8529561384049615,Not Available,Canada Life
+LCFPR,Advanced Profile (PSG),-1.200991418373698,Available,Canada Life
+LCOMK,Global Low Volatility (ILIM),-1.6044940156660137,Available,Canada Life
+LCOPO,Conservative Portfolio (PSG),-0.8255383589358067,Available,Canada Life
+LCOPR,Conservative Profile (PSG),-0.7085758853515367,Available,Canada Life
+LCRAG,Global Resources (Mackenzie),-2.8745468008743003,Available,Canada Life
+LDG,Strategic Income III (Mackenzie),-0.8834035406357521,Available,Canada Life
+LDVDG,Dividend (Mackenzie),-2.382473589659473,Available,Canada Life
+LDVDL,Cdn Diversified Divid (Mackenzie),-2.4219388598162306,Not Available,Canada Life
+LDVDM,Canadian Large Cap Dividend (Mackenzie),-2.211726151729465,Available,Canada Life
+LEBG,Cdn Growth Balanced (Mackenzie),-1.644819703239242,Available,Canada Life
+LEES,European Equity (Setanta),-0.18614110414356677,Available,Canada Life
+LEIG,Canadian Equity Index (Mackenzie),-3.253276983325659,Available,Canada Life
+LEMK,Equity (Mackenzie),-1.8604586739734863,Available,Canada Life
+LGBG,Government Bond (Mackenzie),0.1360285845752207,Available,Canada Life
+LGEL,Global Equity (Putnam),-2.3647264014836966,Available,Canada Life
+LGEM,Global Growth (Mackenzie),-1.6180723303432232,Available,Canada Life
+LGIMK,Canadian Balanced Ivy (Mackenzie),-1.5685455922325509,Available,Canada Life
+LGREL,Canadian Lrg Cap Growth (Mackenzie),-2.946460206398782,Not Available,Canada Life
+LIBP,Global Bond (Brandywine),-1.716678123093296,Available,Canada Life
+LIEIT,International Equity Index (TDAM),0.35849198859527753,Available,Canada Life
+LIEP,International Equity (Putnam),-0.6388524676254392,Available,Canada Life
+LIETN,International Equity N (Templeton),-0.7600276419848173,Available,Canada Life
+LIG,Cdn Fix Income Bal III (Mackenzie),-0.8620338907308289,Available,Canada Life
+LINCL,Cdn Fix Income Bal (Mackenzie),-0.8215824329014576,Not Available,Canada Life
+LINMK,Cdn Fix Income Bal II (Mackenzie),-0.8436475216523243,Available,Canada Life
+LIOP,International Opportunity (JPMorgan),-0.4112661526068928,Available,Canada Life
+LLBON,Core Bond (Mackenzie),-0.6248626069158214,Available,Canada Life
+LLCMK,Canadian Low Volatility (Mackenzie),-2.462175297744751,Available,Canada Life
+LLCNE,Canadian Value Equity (Mackenzie),-2.1521861753830973,Available,Canada Life
+LLDIV,Strategic Income II (Mackenzie),-0.8834034145638547,Available,Canada Life
+LLEG,SRI Canadian Equity (Mackenzie),-3.060998093255096,Available,Canada Life
+LLEMS,Emerging Markets (Mackenzie),3.455033790801698,Available,Canada Life
+LLINE,International Equity (JPMorgan),-0.02828085323207663,Available,Canada Life
+LLMCG,US Mid Cap (Mackenzie),-2.428255108476074,Available,Canada Life
+LLMON,Canadian Money Market (Mackenzie),0.3356640546214429,Available,Canada Life
+LLMRT,Mortgage (Canada Life),0.5421332004883039,Available,Canada Life
+LLSTG,Science & Technology (Mackenzie),0.7757724609165573,Available,Canada Life
+LLUSE,US Core Growth (Mackenzie),-2.587983285043083,Available,Canada Life
+LMCCG,Mid Cap Canada (Mackenzie),-2.5150461992637596,Available,Canada Life
+LMG,Commercial Mortgage (Canada Life),0.5728729254453002,Available,Canada Life
+LMOPO,Moderate Portfolio (PSG),-0.9634150985563084,Available,Canada Life
+LMOPR,Moderate Profile (PSG),-0.8756170317302359,Available,Canada Life
+LNABG,Canadian Equity (Beutel Goodman),-2.667813351257564,Available,Canada Life
+LNRM,Global Resource (Mackenzie),-3.1793396347428837,Available,Canada Life
+LPMM,Precious Metals (Mackenzie),-5.53406167032896,Available,Canada Life
+LREG,Real Estate (GWLRA),-0.37235242320887707,Available,Canada Life
+LSCMK,Smaller Company (Mackenzie),-3.203760639676201,Available,Canada Life
+LSGAG,Far East (CLAM),1.061875290666836,Available,Canada Life
+LTBL,Long Term Bond (Canada Life),-2.659849284674798,Available,Canada Life
+LUSEG,US Large Cap Equity (Mackenzie),-2.6336210084462297,Available,Canada Life
+LUSET,US Equity Index (TDAM),0.24648869560490727,Available,Canada Life
+LUSMO,US Equity (Montrusco Bolton),0.5576088651822797,Not Available,Canada Life
+MFS25,LifePlan 2025 (MFS),-0.5797099915951232,Available,Canada Life
+MFS30,LifePlan 2030 (MFS),-0.8034326430395922,Available,Canada Life
+MFS35,LifePlan 2035 (MFS),-1.1045656088446543,Available,Canada Life
+MFS40,LifePlan 2040 (MFS),-1.3963496293292854,Available,Canada Life
+MFS45,LifePlan 2045 (MFS),-1.5166521628706464,Available,Canada Life
+MFS50,LifePlan 2050 (MFS),-1.6065248162373091,Available,Canada Life
+MFS55,LifePlan 2055 (MFS),-1.6125701646149904,Available,Canada Life
+MFS60,LifePlan 2060 (MFS),-1.6137091437478435,Available,Canada Life
+MFS65,LifePlan 2065 (MFS),-1.6151730459835978,Available,Canada Life
+MFSRT,LifePlan Retirement (MFS),-0.5527448946239022,Available,Canada Life
+MIPI,Monthly Income (PIMCO),-0.7672759147440256,Available,Canada Life
+MMF,Canadian Money Market (Fidelity),0.3015432078879554,Not Available,Canada Life
+MTGE,Growth Equity (Montrusco Bolton),-2.818532526471651,Available,Canada Life
+NABMK,North American High Yield Bond (Mackenzie),0.08502600102902047,Available,Canada Life
+PBA,North American Balanced (Mackenzie),-1.4345713213197775,Available,Canada Life
+PCB,Balanced (CC&L),-0.3863456683887989,Available,Canada Life
+PCE,Canadian Equity (CC&L),-2.7441175170993093,Available,Canada Life
+PSB,Balanced Core (Fiera Capital),-1.0696366909419663,Available,Canada Life
+PSE,Equity (Fiera Capital),-2.9722917303591,Available,Canada Life
+RES25,CL Education Savings Fund 2025,-0.25259028960901153,Available,Canada Life
+RES30,CL Education Savings Fund 2030,-0.5677844757041584,Available,Canada Life
+RES35,CL Education Savings Fund 2035,-0.8795528106266159,Available,Canada Life
+RES40,CL Education Savings Fund 2040,-1.0632517387989426,Available,Canada Life
+RES45,CL Education Savings Fund 2045,-1.1467099059200514,Available,Canada Life
+RESST,CL Study Fund,-0.2315023127733462,Available,Canada Life
+RETBA,Retirement Balanced Fund,-0.6903268162067988,Available,Canada Life
+RETCO,Retirement Conservative Fund,-0.31476848497278276,Available,Canada Life
+RETMO,Retirement Moderate Fund,-0.5757999982784368,Available,Canada Life
+RRBP,Real Return Bond (Canada Life),-0.7573904057078806,Available,Canada Life
+S002,Canadian Equity (Mackenzie),-3.083810968517642,Available,Canada Life
+S014,Strategic Income IV (Mackenzie),-0.9489697948281917,Not Available,Canada Life
+S019,Core Plus Bond (Mackenzie),-0.6333538505346126,Available,Canada Life
+S029,Money Market (LK) (Mackenzie),0.33051257474845386,Available,Canada Life
+S034,Global Equity (Setanta),-1.5429570099822487,Available,Canada Life
+S036,Foreign Bond (CLAM),-0.05562333701005784,Available,Canada Life
+S038,Far East Equity (CLAM),0.8389761159917741,Not Available,Canada Life
+S039,Cdn Concentrated Divid (Mackenzie),-2.649777882194182,Available,Canada Life
+S066,Global Equity (Montrusco Bolton),0.06032904064772193,Not Available,Canada Life
+S079,Canadian Bond Index (TDAM),-0.7049665203406552,Available,Canada Life
+S080,Balanced Index (TDAM),-1.082245776338031,Available,Canada Life
+S103,Canadian Equity (ClearBridge),-2.8366514437516477,Available,Canada Life
+S104,Balanced (Templeton),-1.0292928682676172,Available,Canada Life
+S105,Canadian Small Cap Equity (ClearBridge),-1.8104606113487631,Available,Canada Life
+S120,Canadian Equity Index (TDAM),-3.257132090861903,Available,Canada Life
+S123,Canadian Equity (Fiera Capital),-2.4101021959458846,Not Available,Canada Life
+S124,Balanced (Fiera Capital),-0.8480361777176704,Not Available,Canada Life
+S143,Money Market (MFS),0.31001013777869346,Not Available,Canada Life
+S147,Balanced Pension Trust (PH&N),-1.1884539162034358,Available,Canada Life
+S149,Bond (PH&N),-0.7764394680817355,Available,Canada Life
+S158,Core Plus Bond (Franklin Canada),-0.7045009833703819,Available,Canada Life
+S176,True North (Fidelity),-2.556877822432624,Available,Canada Life
+S178,US Disciplined Value (Mackenzie),-3.7949501803387964,Available,Canada Life
+S184,Global (Fidelity),-0.7693074606879402,Available,Canada Life
+S191,Canadian Asset Allocation (Fidelity),-2.934091615986334,Available,Canada Life
+S195,Canadian Equity (Leith Wheeler),-2.5755351077549005,Available,Canada Life
+S196,Balanced (Leith Wheeler),-1.5677128536036644,Available,Canada Life
+S201,Money Market (SRA),0.3183606550979379,Not Available,Canada Life
+S208,Balanced (TD Greystone),-0.7023589821648968,Available,Canada Life
+S209,Fixed Income (TD Greystone),-0.6359116208642712,Available,Canada Life
+S228,Fixed Income (Fiera Capital),-0.6690048205743593,Not Available,Canada Life
+S244,Global Equity Index (TDAM),0.14942354474569708,Available,Canada Life
+S261,American Equity (Beutel Goodman),-3.43106786119709,Available,Canada Life
+S269,Canadian Equity (PH&N),-3.163114118526078,Available,Canada Life
+S288,Balanced (Invesco),-0.12497834786386885,Not Available,Canada Life
+S289,Canadian Growth (Invesco),0.18994826147997745,Available,Canada Life
+S311,Global Balanced (Jarislowsky Fraser),-0.8622381242665789,Available,Canada Life
+S320,Multi-Asset Income Strategy (Russell),-0.5571309337378816,Not Available,Canada Life
+S321,Balanced Growth (Russell),-0.7575900849109529,Not Available,Canada Life
+S322,Long-Term Growth (Russell),-0.8862606142517881,Not Available,Canada Life
+S328,Multi-Asset Growth Strat (Russell),-0.8705577697669997,Not Available,Canada Life
+S329,US Companies (Invesco),2.137569628242675,Available,Canada Life
+S337,Canadian Core Plus Bond (Invesco),-0.4281873615158749,Not Available,Canada Life
+S605,Conservative Continuum (PSG),-0.7526789946422641,Available,Canada Life
+S606,Moderate Continuum (PSG),-0.8002998526391081,Available,Canada Life
+S607,Balanced Continuum (PSG),-0.8818882008228113,Available,Canada Life
+S608,Advanced Continuum (PSG),-0.9884759934115084,Available,Canada Life
+S609,Aggressive Continuum (PSG),-1.0789671665335954,Available,Canada Life
+SEMEQ,SustainableEmerging MarketsEquity (JPM),3.5029065346739774,Available,Canada Life
+SGLBD,Sustainable Global Bond (JPM),-1.0872049658994465,Available,Canada Life
+SGLEQ,Sustainable Global Equity (JPM),-0.7575394019707193,Available,Canada Life
+SICB,Bond (Fiera Capital),-0.6517517847957621,Not Available,Canada Life
+SIEF,Select Intl Eq Instl (Fidelity),-0.30645078883478893,Not Available,Canada Life
+SPIE,International Equity (Sprucegrove),1.0665599673577608,Available,Canada Life
+SRBAL,SRI Balanced (Mackenzie),-1.63133570973798,Available,Canada Life
+SRBP,SRI Bond (Mackenzie),-0.6983135321958267,Available,Canada Life
+SRGES,SRI Global Equity (Setanta),-1.2553612617962062,Available,Canada Life
+STBP,Canadian Short Term Bond (Mackenzie),0.42460529645862444,Available,Canada Life
+TRGE,Global Equity (Invesco),-0.3466757023047107,Available,Canada Life
+TRIG,Income Growth (Invesco),-3.066018801611403,Available,Canada Life
+TRP25,T Rowe Price Retirement Date 2025,-0.9069043018808287,Available,Canada Life
+TRP30,T Rowe Price Retirement Date 2030,-1.0455703423923324,Available,Canada Life
+TRP35,T Rowe Price Retirement Date 2035,-1.7385808224555932,Available,Canada Life
+TRP40,T Rowe Price Retirement Date 2040,-1.2571708752145083,Available,Canada Life
+TRP45,T Rowe Price Retirement Date 2045,-1.3063760559791415,Available,Canada Life
+TRP50,T Rowe Price Retirement Date 2050,-1.3343391494322732,Available,Canada Life
+TRP55,T Rowe Price Retirement Date 2055,-1.3401516487392073,Available,Canada Life
+TRP60,T Rowe Price Retirement Date 2060,-1.3401516487392073,Available,Canada Life
+TRP65,T Rowe Price Retirement Date 2065,-1.3401516487392073,Available,Canada Life
+UFIMK,Unconstrained Fixed Income (Mackenzie),-0.5552004351997097,Available,Canada Life
+ULTBP,Ultra Long Term Bond (Canada Life),-4.4398864841007635,Available,Canada Life
+USCTE,US Carbon Transition Equity (JPM),0.4053119025605234,Available,Canada Life
+USDVG,US Dividend (Mackenzie),0.5171372458331325,Available,Canada Life
+USEJF,US Equity (Jarislowsky Fraser),-1.6963079086519617,Available,Canada Life
+USESR,US Equity (SRA),1.2224302201417903,Not Available,Canada Life
+USGSL,US Mid Cap Equity (Mackenzie),-2.4478130867668146,Not Available,Canada Life
+USITD,US Index Registered (TDAM)* ,0.26621051923467753,Available,Canada Life
+USIXG,US Index Registered (Mackenzie)*,0.22085788814081297,Available,Canada Life
+USLC,US Large Cap Core Instl (Fidelity)*,0.37985875872759145,Available,Canada Life
+USLVP,US Low Volatility (Putnam),-0.47901252334308086,Available,Canada Life
+USMER,Socially Responsible US Equity (NEI),0.7412845352008368,Not Available,Canada Life
+USVEP,US Value Equity (Putnam),-3.943046234651615,Available,Canada Life
