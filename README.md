@@ -57,7 +57,7 @@ This transformation significantly **improved data accuracy, reproducibility, and
 ### **Centralized Data Management and Improved Visibility**  
 - Established a **single, centralized source of truth** for fund and returns data, replacing the previous system where **a separate dashboard was created for each client**.  
 - This eliminated **discrepancies and confusion**, improving **transparency and consistency** in reporting.  
-- By automating data processing, **analysis time was reduced from days to minutes**, allowing financial analysts to **focus on strategic decision-making rather than manual data handling**.  
+- By automating data processing, **the processing time was reduced from days to minutes**, allowing financial analysts to **focus on strategic decision-making rather than manual data handling**.  
 
 ### **Automation and Documentation Enhancements**  
 - Automated the entire **data workflow**, significantly reducing **manual intervention and errors**.  
